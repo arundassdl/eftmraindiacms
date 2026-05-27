@@ -1,0 +1,1254 @@
+[
+  {
+    "id": 41,
+    "trainer": {
+      "id": 7,
+      "name": "Divya Srivastava",
+      "tagline": "Divya Srivastava is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+      "image": {
+        "id": 1014,
+        "alt": null,
+        "updatedAt": "2026-05-27T12:54:27.737Z",
+        "createdAt": "2026-05-27T12:54:27.737Z",
+        "url": "http://localhost:3001/api/media/file/divya-srivastava.png",
+        "thumbnailURL": null,
+        "filename": "divya-srivastava.png",
+        "mimeType": "image/png",
+        "filesize": 608701,
+        "width": 1281,
+        "height": 1227,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "imageAlt": "Divya Srivastava",
+      "aboutLabel": "About Divya",
+      "aboutTitle": "Certified EFTMRA Training with Heart",
+      "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+      "aboutParagraphs": [
+        {
+          "id": "6a16da3f384211b38f54ecf2",
+          "content": "Divya Srivastava has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf3",
+          "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+        }
+      ],
+      "credentials": [
+        {
+          "id": "6a16da3f384211b38f54ecf4",
+          "label": "EFTMRA Trainer"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf5",
+          "label": "EFTMRA Certified Practitioner"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf6",
+          "label": "EFTMRA India faculty"
+        }
+      ],
+      "specializations": [
+        {
+          "id": "6a16da3f384211b38f54ecf7",
+          "label": "EFT foundations"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf8",
+          "label": "Student practice"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf9",
+          "label": "Emotional wellbeing"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecfa",
+          "label": "Professional learning"
+        }
+      ],
+      "email": "hello@eftmraindia.com",
+      "socialLinks": [],
+      "meta": {
+        "title": null,
+        "description": null,
+        "image": null
+      },
+      "status": "published",
+      "displayOrder": 5,
+      "showOnHomepage": true,
+      "slug": "divya-srivastava",
+      "role": "Trainer · EFTMRA India",
+      "site": {
+        "id": 1,
+        "name": "EFTMRA India",
+        "theme": {
+          "preset": "main",
+          "primaryColor": "#4A9DAE",
+          "secondaryColor": "#1A3B4C",
+          "accentColor": "#EFF8FA",
+          "surfaceColor": "#FFFFFF",
+          "textColor": "#1A3B4C",
+          "mutedColor": "#6B8898",
+          "radiusBrand": null,
+          "shadowSoft": null,
+          "customTokens": [
+            {
+              "id": "69f9f108fa2aff1b97cdec8d",
+              "token": "eftmra-midnight",
+              "label": "EFTMRA Midnight",
+              "value": "#1A3B4C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8e",
+              "token": "eftmra-deep-ocean",
+              "label": "EFTMRA Deep Ocean",
+              "value": "#2B6A7C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8f",
+              "token": "eftmra-sapphire",
+              "label": "EFTMRA Sapphire",
+              "value": "#4A9DAE"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec90",
+              "token": "eftmra-amber",
+              "label": "EFTMRA Amber",
+              "value": "#C9A84C"
+            }
+          ]
+        },
+        "micrositeSubmenu": {
+          "title": "",
+          "icon": "auto",
+          "logoImage": null,
+          "links": []
+        },
+        "footer": {
+          "backgroundColor": null,
+          "textColor": null,
+          "logoText": null,
+          "logoImage": null,
+          "logoHref": null,
+          "tagline": null,
+          "columns": [],
+          "copyrightText": null,
+          "socialLinks": []
+        },
+        "slug": "/",
+        "domain": null,
+        "layoutType": "platform-home",
+        "updatedAt": "2026-05-27T11:49:22.032Z",
+        "createdAt": "2026-04-17T10:38:04.690Z"
+      },
+      "updatedAt": "2026-05-27T12:54:45.853Z",
+      "createdAt": "2026-05-21T15:37:14.388Z"
+    },
+    "authorName": "new test",
+    "authorEmail": "arundas.sdl@gmail.com",
+    "authorRole": "test",
+    "trainingAttended": "Advanced EFT Level 3 Workshop — Mumbai",
+    "dateLabel": "May 2026",
+    "quote": "test new review test new review",
+    "rating": 5,
+    "status": "draft",
+    "displayOrder": 0,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "training": {
+      "id": 25,
+      "title": "Advanced EFT Level 3 Workshop",
+      "description": "An Advanced EFT Level 3 workshop with Divya Srivastava in Mumbai, focused on trauma processing, parts-work, titration, pacing, shadow work, and conflict resolution.",
+      "levelLabel": "Level 3",
+      "levelKey": "l3",
+      "badge": "Advanced EFT Level 3",
+      "badgeTone": "blue",
+      "image": {
+        "id": 990,
+        "alt": null,
+        "updatedAt": "2026-05-06T08:55:15.756Z",
+        "createdAt": "2026-05-06T08:55:15.756Z",
+        "url": "http://localhost:3001/api/media/file/divya-srivastava-profile.png",
+        "thumbnailURL": null,
+        "filename": "divya-srivastava-profile.png",
+        "mimeType": "image/png",
+        "filesize": 197929,
+        "width": 405,
+        "height": 389,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "imageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "posterImage": {
+        "id": 981,
+        "alt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+        "updatedAt": "2026-05-05T06:52:43.791Z",
+        "createdAt": "2026-05-05T06:52:43.790Z",
+        "url": "http://localhost:3001/api/media/file/Divya-EFT-3.jpeg",
+        "thumbnailURL": null,
+        "filename": "Divya-EFT-3.jpeg",
+        "mimeType": "image/jpeg",
+        "filesize": 135663,
+        "width": 1080,
+        "height": 1080,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "posterImageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "startDate": "2026-05-29T18:30:00.000Z",
+      "endDate": "2026-05-30T18:30:00.000Z",
+      "format": "In-person",
+      "cityLabel": "Mumbai",
+      "venue": "Mumbai",
+      "schedule": "30–31 May 2026 · 10:00 a.m. - 6:00 p.m.",
+      "requirement": "For practitioners ready for advanced EFT Level 3 work",
+      "availability": "Registration open",
+      "availabilityTone": "low",
+      "cityKey": "mumbai",
+      "cityText": "Mumbai",
+      "monthKey": "may",
+      "monthLabel": "MAY",
+      "dateText": "30 May-31, 2026",
+      "aboutParagraphs": [
+        {
+          "id": "6a16da3c384211b38f54e78e",
+          "content": "This training is delivered through EFTMRA India's internationally aligned curriculum, combining practical tapping tools, trauma-aware teaching, and a clear pathway into deeper professional practice."
+        },
+        {
+          "id": "6a16da3c384211b38f54e78f",
+          "content": "Participants leave with structured next steps, practice guidance, and access to the wider EFTMRA learning community so the training continues to support their growth beyond the room."
+        }
+      ],
+      "outcomes": [
+        {
+          "id": "6a16da3c384211b38f54e790",
+          "label": "Integrate EFT with parts-work"
+        },
+        {
+          "id": "6a16da3c384211b38f54e791",
+          "label": "Use titration and pacing techniques"
+        },
+        {
+          "id": "6a16da3c384211b38f54e792",
+          "label": "Apply tapping and Jungian shadow-work"
+        },
+        {
+          "id": "6a16da3c384211b38f54e793",
+          "label": "Use Gestalt-based techniques for conflict-resolution"
+        }
+      ],
+      "audiences": [
+        {
+          "id": "6a16da3c384211b38f54e794",
+          "title": "Helping Professionals",
+          "description": "Therapists, coaches, counsellors, healers, doctors and wellness practitioners looking to expand their toolkit."
+        },
+        {
+          "id": "6a16da3c384211b38f54e795",
+          "title": "Career Changers",
+          "description": "People seeking a structured, high-quality entry point into transformational work and client practice."
+        },
+        {
+          "id": "6a16da3c384211b38f54e796",
+          "title": "Personal Growth Seekers",
+          "description": "Those who want to deepen their own healing journey while learning skills they can later share with others."
+        }
+      ],
+      "trainerName": "Divya Srivastava",
+      "trainerRole": "EFTMRA India Trainer",
+      "trainerImage": {
+        "id": 990,
+        "alt": null,
+        "updatedAt": "2026-05-06T08:55:15.756Z",
+        "createdAt": "2026-05-06T08:55:15.756Z",
+        "url": "http://localhost:3001/api/media/file/divya-srivastava-profile.png",
+        "thumbnailURL": null,
+        "filename": "divya-srivastava-profile.png",
+        "mimeType": "image/png",
+        "filesize": 197929,
+        "width": 405,
+        "height": 389,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "trainerImageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "trainerBio": "Divya leads advanced EFT work focused on trauma processing, parts-work, titration, pacing, and conflict-resolution techniques.",
+      "trainerCredentials": [
+        {
+          "id": "6a16da3c384211b38f54e797",
+          "label": "EFTMRA India Trainer"
+        }
+      ],
+      "scheduleDays": [
+        {
+          "id": "6a16da3c384211b38f54e79b",
+          "dayLabel": "Day 1",
+          "dayTitle": "Foundations",
+          "dayDate": "Training Day 1",
+          "theme": "Core principles and structure",
+          "topics": [
+            {
+              "id": "6a16da3c384211b38f54e798",
+              "label": "Orientation, principles and live demonstrations"
+            },
+            {
+              "id": "6a16da3c384211b38f54e799",
+              "label": "Foundational techniques and teaching framework"
+            },
+            {
+              "id": "6a16da3c384211b38f54e79a",
+              "label": "Practice rounds with trainer guidance"
+            }
+          ]
+        },
+        {
+          "id": "6a16da3c384211b38f54e79f",
+          "dayLabel": "Day 2",
+          "dayTitle": "Application",
+          "dayDate": "Training Day 2",
+          "theme": "Practice, nuance and confidence",
+          "topics": [
+            {
+              "id": "6a16da3c384211b38f54e79c",
+              "label": "Deeper application with case examples"
+            },
+            {
+              "id": "6a16da3c384211b38f54e79d",
+              "label": "Practice sessions, debriefs and Q&A"
+            },
+            {
+              "id": "6a16da3c384211b38f54e79e",
+              "label": "Troubleshooting common sticking points"
+            }
+          ]
+        },
+        {
+          "id": "6a16da3c384211b38f54e7a3",
+          "dayLabel": "Day 3",
+          "dayTitle": "Integration",
+          "dayDate": "Training Day 3",
+          "theme": "Professional use and next steps",
+          "topics": [
+            {
+              "id": "6a16da3c384211b38f54e7a0",
+              "label": "Ethics, scope, confidence and integration"
+            },
+            {
+              "id": "6a16da3c384211b38f54e7a1",
+              "label": "Certification or pathway requirements"
+            },
+            {
+              "id": "6a16da3c384211b38f54e7a2",
+              "label": "Closing supervision, reflection and action plan"
+            }
+          ]
+        }
+      ],
+      "certificationSteps": [
+        {
+          "id": "6a16da3c384211b38f54e7a4",
+          "stepLabel": "1",
+          "title": "Complete the live training",
+          "description": "Attend the full training and receive your EFTMRA India certificate of completion.",
+          "highlight": null
+        },
+        {
+          "id": "6a16da3c384211b38f54e7a5",
+          "stepLabel": "2",
+          "title": "Continue your supervised learning",
+          "description": "Follow the recommended coursework, practice hours, and mentoring guidance for your chosen level.",
+          "highlight": null
+        },
+        {
+          "id": "6a16da3c384211b38f54e7a6",
+          "stepLabel": "✓",
+          "title": "Progress toward recognition",
+          "description": "Move forward with the relevant EFTMRA U.K. pathway and professional development steps for your programme.",
+          "highlight": true
+        }
+      ],
+      "stats": [
+        {
+          "id": "6a16da3c384211b38f54e7a7",
+          "value": "3",
+          "label": "Advanced Days"
+        },
+        {
+          "id": "6a16da3c384211b38f54e7a8",
+          "value": "1",
+          "label": "Next-Level Module"
+        }
+      ],
+      "venueName": "Mumbai",
+      "venueAddress": "Mumbai",
+      "venueGoogleMapLocation": null,
+      "venueImage": {
+        "id": 981,
+        "alt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+        "updatedAt": "2026-05-05T06:52:43.791Z",
+        "createdAt": "2026-05-05T06:52:43.790Z",
+        "url": "http://localhost:3001/api/media/file/Divya-EFT-3.jpeg",
+        "thumbnailURL": null,
+        "filename": "Divya-EFT-3.jpeg",
+        "mimeType": "image/jpeg",
+        "filesize": 135663,
+        "width": 1080,
+        "height": 1080,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "venueImageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "venueNotes": [
+        {
+          "id": "6a16da3c384211b38f54e7a9",
+          "icon": "room",
+          "label": "Dedicated training room — fully prepared for live teaching and partner practice"
+        },
+        {
+          "id": "6a16da3c384211b38f54e7aa",
+          "icon": "location",
+          "label": "Full venue details are shared again after registration"
+        },
+        {
+          "id": "6a16da3c384211b38f54e7ab",
+          "icon": "info",
+          "label": "Tea, coffee and break logistics are confirmed with your joining instructions"
+        }
+      ],
+      "galleryIntro": null,
+      "associatedGallery": {
+        "docs": [],
+        "hasNextPage": false
+      },
+      "galleryVideoLabel": null,
+      "galleryVideoUrl": null,
+      "galleryShareTitle": null,
+      "galleryShareDescription": null,
+      "submittedReviews": {
+        "docs": [
+          41,
+          40
+        ],
+        "hasNextPage": false
+      },
+      "reviewsBreakdown": [
+        {
+          "id": "6a16da3c384211b38f54e7ac",
+          "stars": 5,
+          "count": 0
+        },
+        {
+          "id": "6a16da3c384211b38f54e7ad",
+          "stars": 4,
+          "count": 0
+        },
+        {
+          "id": "6a16da3c384211b38f54e7ae",
+          "stars": 3,
+          "count": 0
+        },
+        {
+          "id": "6a16da3c384211b38f54e7af",
+          "stars": 2,
+          "count": 0
+        },
+        {
+          "id": "6a16da3c384211b38f54e7b0",
+          "stars": 1,
+          "count": 0
+        }
+      ],
+      "reviewsList": [],
+      "rating": null,
+      "reviews": 0,
+      "reviewsSummaryAverage": null,
+      "reviewsSummaryCount": 0,
+      "formTitle": null,
+      "submitLabel": null,
+      "successTitle": null,
+      "successMessage": null,
+      "termsLabel": null,
+      "termsHref": null,
+      "cancellationLabel": null,
+      "cancellationHref": null,
+      "availabilityText": null,
+      "meta": {
+        "title": null,
+        "description": null,
+        "image": {
+          "id": 981,
+          "alt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+          "updatedAt": "2026-05-05T06:52:43.791Z",
+          "createdAt": "2026-05-05T06:52:43.790Z",
+          "url": "http://localhost:3001/api/media/file/Divya-EFT-3.jpeg",
+          "thumbnailURL": null,
+          "filename": "Divya-EFT-3.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 135663,
+          "width": 1080,
+          "height": 1080,
+          "focalX": 50,
+          "focalY": 50
+        }
+      },
+      "slug": "advanced-eft-level-3-workshop-mumbai-may-2026",
+      "status": "published",
+      "price": "35000",
+      "priceNote": "details shared on registration",
+      "site": {
+        "id": 1,
+        "name": "EFTMRA India",
+        "theme": {
+          "preset": "main",
+          "primaryColor": "#4A9DAE",
+          "secondaryColor": "#1A3B4C",
+          "accentColor": "#EFF8FA",
+          "surfaceColor": "#FFFFFF",
+          "textColor": "#1A3B4C",
+          "mutedColor": "#6B8898",
+          "radiusBrand": null,
+          "shadowSoft": null,
+          "customTokens": [
+            {
+              "id": "69f9f108fa2aff1b97cdec8d",
+              "token": "eftmra-midnight",
+              "label": "EFTMRA Midnight",
+              "value": "#1A3B4C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8e",
+              "token": "eftmra-deep-ocean",
+              "label": "EFTMRA Deep Ocean",
+              "value": "#2B6A7C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8f",
+              "token": "eftmra-sapphire",
+              "label": "EFTMRA Sapphire",
+              "value": "#4A9DAE"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec90",
+              "token": "eftmra-amber",
+              "label": "EFTMRA Amber",
+              "value": "#C9A84C"
+            }
+          ]
+        },
+        "micrositeSubmenu": {
+          "title": "",
+          "icon": "auto",
+          "logoImage": null,
+          "links": []
+        },
+        "footer": {
+          "backgroundColor": null,
+          "textColor": null,
+          "logoText": null,
+          "logoImage": null,
+          "logoHref": null,
+          "tagline": null,
+          "columns": [],
+          "copyrightText": null,
+          "socialLinks": []
+        },
+        "slug": "/",
+        "domain": null,
+        "layoutType": "platform-home",
+        "updatedAt": "2026-05-27T11:49:22.032Z",
+        "createdAt": "2026-04-17T10:38:04.690Z"
+      },
+      "updatedAt": "2026-05-27T11:49:16.273Z",
+      "createdAt": "2026-05-05T07:05:32.074Z"
+    },
+    "updatedAt": "2026-05-27T11:49:16.309Z",
+    "createdAt": "2026-05-23T08:53:35.487Z"
+  },
+  {
+    "id": 40,
+    "trainer": {
+      "id": 7,
+      "name": "Divya Srivastava",
+      "tagline": "Divya Srivastava is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+      "image": {
+        "id": 1014,
+        "alt": null,
+        "updatedAt": "2026-05-27T12:54:27.737Z",
+        "createdAt": "2026-05-27T12:54:27.737Z",
+        "url": "http://localhost:3001/api/media/file/divya-srivastava.png",
+        "thumbnailURL": null,
+        "filename": "divya-srivastava.png",
+        "mimeType": "image/png",
+        "filesize": 608701,
+        "width": 1281,
+        "height": 1227,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "imageAlt": "Divya Srivastava",
+      "aboutLabel": "About Divya",
+      "aboutTitle": "Certified EFTMRA Training with Heart",
+      "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+      "aboutParagraphs": [
+        {
+          "id": "6a16da3f384211b38f54ecf2",
+          "content": "Divya Srivastava has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf3",
+          "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+        }
+      ],
+      "credentials": [
+        {
+          "id": "6a16da3f384211b38f54ecf4",
+          "label": "EFTMRA Trainer"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf5",
+          "label": "EFTMRA Certified Practitioner"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf6",
+          "label": "EFTMRA India faculty"
+        }
+      ],
+      "specializations": [
+        {
+          "id": "6a16da3f384211b38f54ecf7",
+          "label": "EFT foundations"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf8",
+          "label": "Student practice"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecf9",
+          "label": "Emotional wellbeing"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecfa",
+          "label": "Professional learning"
+        }
+      ],
+      "email": "hello@eftmraindia.com",
+      "socialLinks": [],
+      "meta": {
+        "title": null,
+        "description": null,
+        "image": null
+      },
+      "status": "published",
+      "displayOrder": 5,
+      "showOnHomepage": true,
+      "slug": "divya-srivastava",
+      "role": "Trainer · EFTMRA India",
+      "site": {
+        "id": 1,
+        "name": "EFTMRA India",
+        "theme": {
+          "preset": "main",
+          "primaryColor": "#4A9DAE",
+          "secondaryColor": "#1A3B4C",
+          "accentColor": "#EFF8FA",
+          "surfaceColor": "#FFFFFF",
+          "textColor": "#1A3B4C",
+          "mutedColor": "#6B8898",
+          "radiusBrand": null,
+          "shadowSoft": null,
+          "customTokens": [
+            {
+              "id": "69f9f108fa2aff1b97cdec8d",
+              "token": "eftmra-midnight",
+              "label": "EFTMRA Midnight",
+              "value": "#1A3B4C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8e",
+              "token": "eftmra-deep-ocean",
+              "label": "EFTMRA Deep Ocean",
+              "value": "#2B6A7C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8f",
+              "token": "eftmra-sapphire",
+              "label": "EFTMRA Sapphire",
+              "value": "#4A9DAE"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec90",
+              "token": "eftmra-amber",
+              "label": "EFTMRA Amber",
+              "value": "#C9A84C"
+            }
+          ]
+        },
+        "micrositeSubmenu": {
+          "title": "",
+          "icon": "auto",
+          "logoImage": null,
+          "links": []
+        },
+        "footer": {
+          "backgroundColor": null,
+          "textColor": null,
+          "logoText": null,
+          "logoImage": null,
+          "logoHref": null,
+          "tagline": null,
+          "columns": [],
+          "copyrightText": null,
+          "socialLinks": []
+        },
+        "slug": "/",
+        "domain": null,
+        "layoutType": "platform-home",
+        "updatedAt": "2026-05-27T11:49:22.032Z",
+        "createdAt": "2026-04-17T10:38:04.690Z"
+      },
+      "updatedAt": "2026-05-27T12:54:45.853Z",
+      "createdAt": "2026-05-21T15:37:14.388Z"
+    },
+    "authorName": "test",
+    "authorEmail": "arundas.sdl@gmail.com",
+    "authorRole": "test",
+    "trainingAttended": "Advanced EFT Level 3 Workshop — Mumbai",
+    "dateLabel": "May 2026",
+    "quote": "test review test review test review test review test review",
+    "rating": 5,
+    "status": "published",
+    "displayOrder": 0,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "training": {
+      "id": 25,
+      "title": "Advanced EFT Level 3 Workshop",
+      "description": "An Advanced EFT Level 3 workshop with Divya Srivastava in Mumbai, focused on trauma processing, parts-work, titration, pacing, shadow work, and conflict resolution.",
+      "levelLabel": "Level 3",
+      "levelKey": "l3",
+      "badge": "Advanced EFT Level 3",
+      "badgeTone": "blue",
+      "image": {
+        "id": 990,
+        "alt": null,
+        "updatedAt": "2026-05-06T08:55:15.756Z",
+        "createdAt": "2026-05-06T08:55:15.756Z",
+        "url": "http://localhost:3001/api/media/file/divya-srivastava-profile.png",
+        "thumbnailURL": null,
+        "filename": "divya-srivastava-profile.png",
+        "mimeType": "image/png",
+        "filesize": 197929,
+        "width": 405,
+        "height": 389,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "imageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "posterImage": {
+        "id": 981,
+        "alt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+        "updatedAt": "2026-05-05T06:52:43.791Z",
+        "createdAt": "2026-05-05T06:52:43.790Z",
+        "url": "http://localhost:3001/api/media/file/Divya-EFT-3.jpeg",
+        "thumbnailURL": null,
+        "filename": "Divya-EFT-3.jpeg",
+        "mimeType": "image/jpeg",
+        "filesize": 135663,
+        "width": 1080,
+        "height": 1080,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "posterImageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "startDate": "2026-05-29T18:30:00.000Z",
+      "endDate": "2026-05-30T18:30:00.000Z",
+      "format": "In-person",
+      "cityLabel": "Mumbai",
+      "venue": "Mumbai",
+      "schedule": "30–31 May 2026 · 10:00 a.m. - 6:00 p.m.",
+      "requirement": "For practitioners ready for advanced EFT Level 3 work",
+      "availability": "Registration open",
+      "availabilityTone": "low",
+      "cityKey": "mumbai",
+      "cityText": "Mumbai",
+      "monthKey": "may",
+      "monthLabel": "MAY",
+      "dateText": "30 May-31, 2026",
+      "aboutParagraphs": [
+        {
+          "id": "6a16da3c384211b38f54e78e",
+          "content": "This training is delivered through EFTMRA India's internationally aligned curriculum, combining practical tapping tools, trauma-aware teaching, and a clear pathway into deeper professional practice."
+        },
+        {
+          "id": "6a16da3c384211b38f54e78f",
+          "content": "Participants leave with structured next steps, practice guidance, and access to the wider EFTMRA learning community so the training continues to support their growth beyond the room."
+        }
+      ],
+      "outcomes": [
+        {
+          "id": "6a16da3c384211b38f54e790",
+          "label": "Integrate EFT with parts-work"
+        },
+        {
+          "id": "6a16da3c384211b38f54e791",
+          "label": "Use titration and pacing techniques"
+        },
+        {
+          "id": "6a16da3c384211b38f54e792",
+          "label": "Apply tapping and Jungian shadow-work"
+        },
+        {
+          "id": "6a16da3c384211b38f54e793",
+          "label": "Use Gestalt-based techniques for conflict-resolution"
+        }
+      ],
+      "audiences": [
+        {
+          "id": "6a16da3c384211b38f54e794",
+          "title": "Helping Professionals",
+          "description": "Therapists, coaches, counsellors, healers, doctors and wellness practitioners looking to expand their toolkit."
+        },
+        {
+          "id": "6a16da3c384211b38f54e795",
+          "title": "Career Changers",
+          "description": "People seeking a structured, high-quality entry point into transformational work and client practice."
+        },
+        {
+          "id": "6a16da3c384211b38f54e796",
+          "title": "Personal Growth Seekers",
+          "description": "Those who want to deepen their own healing journey while learning skills they can later share with others."
+        }
+      ],
+      "trainerName": "Divya Srivastava",
+      "trainerRole": "EFTMRA India Trainer",
+      "trainerImage": {
+        "id": 990,
+        "alt": null,
+        "updatedAt": "2026-05-06T08:55:15.756Z",
+        "createdAt": "2026-05-06T08:55:15.756Z",
+        "url": "http://localhost:3001/api/media/file/divya-srivastava-profile.png",
+        "thumbnailURL": null,
+        "filename": "divya-srivastava-profile.png",
+        "mimeType": "image/png",
+        "filesize": 197929,
+        "width": 405,
+        "height": 389,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "trainerImageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "trainerBio": "Divya leads advanced EFT work focused on trauma processing, parts-work, titration, pacing, and conflict-resolution techniques.",
+      "trainerCredentials": [
+        {
+          "id": "6a16da3c384211b38f54e797",
+          "label": "EFTMRA India Trainer"
+        }
+      ],
+      "scheduleDays": [
+        {
+          "id": "6a16da3c384211b38f54e79b",
+          "dayLabel": "Day 1",
+          "dayTitle": "Foundations",
+          "dayDate": "Training Day 1",
+          "theme": "Core principles and structure",
+          "topics": [
+            {
+              "id": "6a16da3c384211b38f54e798",
+              "label": "Orientation, principles and live demonstrations"
+            },
+            {
+              "id": "6a16da3c384211b38f54e799",
+              "label": "Foundational techniques and teaching framework"
+            },
+            {
+              "id": "6a16da3c384211b38f54e79a",
+              "label": "Practice rounds with trainer guidance"
+            }
+          ]
+        },
+        {
+          "id": "6a16da3c384211b38f54e79f",
+          "dayLabel": "Day 2",
+          "dayTitle": "Application",
+          "dayDate": "Training Day 2",
+          "theme": "Practice, nuance and confidence",
+          "topics": [
+            {
+              "id": "6a16da3c384211b38f54e79c",
+              "label": "Deeper application with case examples"
+            },
+            {
+              "id": "6a16da3c384211b38f54e79d",
+              "label": "Practice sessions, debriefs and Q&A"
+            },
+            {
+              "id": "6a16da3c384211b38f54e79e",
+              "label": "Troubleshooting common sticking points"
+            }
+          ]
+        },
+        {
+          "id": "6a16da3c384211b38f54e7a3",
+          "dayLabel": "Day 3",
+          "dayTitle": "Integration",
+          "dayDate": "Training Day 3",
+          "theme": "Professional use and next steps",
+          "topics": [
+            {
+              "id": "6a16da3c384211b38f54e7a0",
+              "label": "Ethics, scope, confidence and integration"
+            },
+            {
+              "id": "6a16da3c384211b38f54e7a1",
+              "label": "Certification or pathway requirements"
+            },
+            {
+              "id": "6a16da3c384211b38f54e7a2",
+              "label": "Closing supervision, reflection and action plan"
+            }
+          ]
+        }
+      ],
+      "certificationSteps": [
+        {
+          "id": "6a16da3c384211b38f54e7a4",
+          "stepLabel": "1",
+          "title": "Complete the live training",
+          "description": "Attend the full training and receive your EFTMRA India certificate of completion.",
+          "highlight": null
+        },
+        {
+          "id": "6a16da3c384211b38f54e7a5",
+          "stepLabel": "2",
+          "title": "Continue your supervised learning",
+          "description": "Follow the recommended coursework, practice hours, and mentoring guidance for your chosen level.",
+          "highlight": null
+        },
+        {
+          "id": "6a16da3c384211b38f54e7a6",
+          "stepLabel": "✓",
+          "title": "Progress toward recognition",
+          "description": "Move forward with the relevant EFTMRA U.K. pathway and professional development steps for your programme.",
+          "highlight": true
+        }
+      ],
+      "stats": [
+        {
+          "id": "6a16da3c384211b38f54e7a7",
+          "value": "3",
+          "label": "Advanced Days"
+        },
+        {
+          "id": "6a16da3c384211b38f54e7a8",
+          "value": "1",
+          "label": "Next-Level Module"
+        }
+      ],
+      "venueName": "Mumbai",
+      "venueAddress": "Mumbai",
+      "venueGoogleMapLocation": null,
+      "venueImage": {
+        "id": 981,
+        "alt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+        "updatedAt": "2026-05-05T06:52:43.791Z",
+        "createdAt": "2026-05-05T06:52:43.790Z",
+        "url": "http://localhost:3001/api/media/file/Divya-EFT-3.jpeg",
+        "thumbnailURL": null,
+        "filename": "Divya-EFT-3.jpeg",
+        "mimeType": "image/jpeg",
+        "filesize": 135663,
+        "width": 1080,
+        "height": 1080,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "venueImageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "venueNotes": [
+        {
+          "id": "6a16da3c384211b38f54e7a9",
+          "icon": "room",
+          "label": "Dedicated training room — fully prepared for live teaching and partner practice"
+        },
+        {
+          "id": "6a16da3c384211b38f54e7aa",
+          "icon": "location",
+          "label": "Full venue details are shared again after registration"
+        },
+        {
+          "id": "6a16da3c384211b38f54e7ab",
+          "icon": "info",
+          "label": "Tea, coffee and break logistics are confirmed with your joining instructions"
+        }
+      ],
+      "galleryIntro": null,
+      "associatedGallery": {
+        "docs": [],
+        "hasNextPage": false
+      },
+      "galleryVideoLabel": null,
+      "galleryVideoUrl": null,
+      "galleryShareTitle": null,
+      "galleryShareDescription": null,
+      "submittedReviews": {
+        "docs": [
+          41,
+          40
+        ],
+        "hasNextPage": false
+      },
+      "reviewsBreakdown": [
+        {
+          "id": "6a16da3c384211b38f54e7ac",
+          "stars": 5,
+          "count": 0
+        },
+        {
+          "id": "6a16da3c384211b38f54e7ad",
+          "stars": 4,
+          "count": 0
+        },
+        {
+          "id": "6a16da3c384211b38f54e7ae",
+          "stars": 3,
+          "count": 0
+        },
+        {
+          "id": "6a16da3c384211b38f54e7af",
+          "stars": 2,
+          "count": 0
+        },
+        {
+          "id": "6a16da3c384211b38f54e7b0",
+          "stars": 1,
+          "count": 0
+        }
+      ],
+      "reviewsList": [],
+      "rating": null,
+      "reviews": 0,
+      "reviewsSummaryAverage": null,
+      "reviewsSummaryCount": 0,
+      "formTitle": null,
+      "submitLabel": null,
+      "successTitle": null,
+      "successMessage": null,
+      "termsLabel": null,
+      "termsHref": null,
+      "cancellationLabel": null,
+      "cancellationHref": null,
+      "availabilityText": null,
+      "meta": {
+        "title": null,
+        "description": null,
+        "image": {
+          "id": 981,
+          "alt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+          "updatedAt": "2026-05-05T06:52:43.791Z",
+          "createdAt": "2026-05-05T06:52:43.790Z",
+          "url": "http://localhost:3001/api/media/file/Divya-EFT-3.jpeg",
+          "thumbnailURL": null,
+          "filename": "Divya-EFT-3.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 135663,
+          "width": 1080,
+          "height": 1080,
+          "focalX": 50,
+          "focalY": 50
+        }
+      },
+      "slug": "advanced-eft-level-3-workshop-mumbai-may-2026",
+      "status": "published",
+      "price": "35000",
+      "priceNote": "details shared on registration",
+      "site": {
+        "id": 1,
+        "name": "EFTMRA India",
+        "theme": {
+          "preset": "main",
+          "primaryColor": "#4A9DAE",
+          "secondaryColor": "#1A3B4C",
+          "accentColor": "#EFF8FA",
+          "surfaceColor": "#FFFFFF",
+          "textColor": "#1A3B4C",
+          "mutedColor": "#6B8898",
+          "radiusBrand": null,
+          "shadowSoft": null,
+          "customTokens": [
+            {
+              "id": "69f9f108fa2aff1b97cdec8d",
+              "token": "eftmra-midnight",
+              "label": "EFTMRA Midnight",
+              "value": "#1A3B4C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8e",
+              "token": "eftmra-deep-ocean",
+              "label": "EFTMRA Deep Ocean",
+              "value": "#2B6A7C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8f",
+              "token": "eftmra-sapphire",
+              "label": "EFTMRA Sapphire",
+              "value": "#4A9DAE"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec90",
+              "token": "eftmra-amber",
+              "label": "EFTMRA Amber",
+              "value": "#C9A84C"
+            }
+          ]
+        },
+        "micrositeSubmenu": {
+          "title": "",
+          "icon": "auto",
+          "logoImage": null,
+          "links": []
+        },
+        "footer": {
+          "backgroundColor": null,
+          "textColor": null,
+          "logoText": null,
+          "logoImage": null,
+          "logoHref": null,
+          "tagline": null,
+          "columns": [],
+          "copyrightText": null,
+          "socialLinks": []
+        },
+        "slug": "/",
+        "domain": null,
+        "layoutType": "platform-home",
+        "updatedAt": "2026-05-27T11:49:22.032Z",
+        "createdAt": "2026-04-17T10:38:04.690Z"
+      },
+      "updatedAt": "2026-05-27T11:49:16.273Z",
+      "createdAt": "2026-05-05T07:05:32.074Z"
+    },
+    "updatedAt": "2026-05-27T11:49:16.340Z",
+    "createdAt": "2026-05-23T07:18:49.017Z"
+  }
+]

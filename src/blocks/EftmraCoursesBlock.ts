@@ -1,0 +1,96 @@
+import type { Block } from "payload";
+
+export const EftmraCoursesBlock: Block = {
+  slug: "eftmra-courses",
+  fields: [
+    { name: "eyebrow", type: "text" },
+    { name: "title", type: "text", required: true },
+    { name: "description", type: "textarea" },
+    {
+      name: "layoutVariant",
+      type: "select",
+      defaultValue: "default",
+      options: [
+        { label: "Default", value: "default" },
+        { label: "Training Listing", value: "listing" },
+      ],
+    },
+    {
+      name: "courses",
+      type: "array",
+      minRows: 1,
+      maxRows: 12,
+      fields: [
+        { name: "badge", type: "text" },
+        {
+          name: "badgeTone",
+          type: "select",
+          defaultValue: "default",
+          options: [
+            { label: "Default", value: "default" },
+            { label: "Blue", value: "blue" },
+            { label: "Amber", value: "amber" },
+          ],
+        },
+        { name: "title", type: "text", required: true },
+        { name: "description", type: "textarea", required: true },
+        { name: "location", type: "text" },
+        { name: "image", type: "upload", relationTo: "media" },
+        { name: "imageAlt", type: "text" },
+        { name: "levelKey", type: "text" },
+        { name: "levelLabel", type: "text" },
+        { name: "cityKey", type: "text" },
+        { name: "cityLabel", type: "text" },
+        { name: "monthKey", type: "text" },
+        { name: "monthLabel", type: "text" },
+        { name: "startDate", type: "date" },
+        { name: "endDate", type: "date" },
+        { name: "format", type: "text" },
+        { name: "dateText", type: "text" },
+        { name: "cityText", type: "text" },
+        { name: "schedule", type: "text" },
+        { name: "venue", type: "text" },
+        { name: "requirement", type: "text" },
+        { name: "trainerName", type: "text" },
+        { name: "trainerRole", type: "text" },
+        { name: "trainerImage", type: "upload", relationTo: "media" },
+        { name: "trainerImageAlt", type: "text" },
+        { name: "trainerBio", type: "textarea" },
+        {
+          name: "trainerCredentials",
+          type: "array",
+          fields: [{ name: "label", type: "text", required: true }],
+        },
+        { name: "availability", type: "text" },
+        {
+          name: "availabilityTone",
+          type: "select",
+          defaultValue: "open",
+          options: [
+            { label: "Open", value: "open" },
+            { label: "Low", value: "low" },
+            { label: "Full", value: "full" },
+          ],
+        },
+        { name: "price", type: "text" },
+        { name: "priceNote", type: "text" },
+        {
+          name: "cta",
+          type: "group",
+          fields: [
+            { name: "label", type: "text" },
+            { name: "href", type: "text" },
+          ],
+        },
+      ],
+    },
+    {
+      name: "sectionCTA",
+      type: "group",
+      fields: [
+        { name: "label", type: "text" },
+        { name: "href", type: "text" },
+      ],
+    },
+  ],
+};

@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 24,
+    "title": "Held by Divya Srivastava in Mumbai",
+    "description": "Training event photos from sessions held by Divya Srivastava in Mumbai.",
+    "coverImageAlt": "Held by Divya Srivastava in Mumbai",
+    "coverImage": {
+      "id": 817,
+      "alt": "WhatsApp Image 2022 07 25 at 1.50.05 PM",
+      "updatedAt": "2026-04-24T15:37:16.250Z",
+      "createdAt": "2026-04-24T15:37:16.250Z",
+      "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-25-at-1.50.05-PM.jpeg",
+      "thumbnailURL": null,
+      "filename": "WhatsApp-Image-2022-07-25-at-1.50.05-PM.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 108756,
+      "width": 1200,
+      "height": 1600,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "images": [
+      {
+        "id": "6a16da40384211b38f54ed38",
+        "image": {
+          "id": 817,
+          "alt": "WhatsApp Image 2022 07 25 at 1.50.05 PM",
+          "updatedAt": "2026-04-24T15:37:16.250Z",
+          "createdAt": "2026-04-24T15:37:16.250Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-25-at-1.50.05-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-25-at-1.50.05-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 108756,
+          "width": 1200,
+          "height": 1600,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 25 at 1.50.05 PM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed39",
+        "image": {
+          "id": 818,
+          "alt": "WhatsApp Image 2022 07 25 at 1.50.05 PM 1",
+          "updatedAt": "2026-04-24T15:37:20.314Z",
+          "createdAt": "2026-04-24T15:37:20.314Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-25-at-1.50.05-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-25-at-1.50.05-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 178988,
+          "width": 1392,
+          "height": 1009,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 25 at 1.50.05 PM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed3a",
+        "image": {
+          "id": 819,
+          "alt": "WhatsApp Image 2022 07 25 at 1.50.05 PM 2",
+          "updatedAt": "2026-04-24T15:37:22.307Z",
+          "createdAt": "2026-04-24T15:37:22.307Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-25-at-1.50.05-PM-2.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-25-at-1.50.05-PM-2.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 104169,
+          "width": 653,
+          "height": 1024,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 25 at 1.50.05 PM 2"
+      },
+      {
+        "id": "6a16da40384211b38f54ed3b",
+        "image": {
+          "id": 820,
+          "alt": "WhatsApp Image 2022 07 25 at 1.50.06 PM",
+          "updatedAt": "2026-04-24T15:37:24.586Z",
+          "createdAt": "2026-04-24T15:37:24.586Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-25-at-1.50.06-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-25-at-1.50.06-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 190096,
+          "width": 1058,
+          "height": 1001,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 25 at 1.50.06 PM"
+      }
+    ],
+    "image": null,
+    "imageAlt": null,
+    "slug": "held-by-divya-srivastava-in-mumbai",
+    "status": "published",
+    "showInGalleryPage": true,
+    "displayOrder": 4,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "practitioners": [],
+    "training": null,
+    "updatedAt": "2026-05-27T11:49:20.088Z",
+    "createdAt": "2026-05-05T06:10:33.882Z"
+  },
+  {
+    "id": 23,
+    "title": "Held by Dr. Shilpa Gupta in New Delhi",
+    "description": "Training event photos from sessions held by Dr. Shilpa Gupta in New Delhi.",
+    "coverImageAlt": "Held by Dr. Shilpa Gupta in New Delhi",
+    "coverImage": {
+      "id": 813,
+      "alt": "WhatsApp Image 2022 07 04 at 7.59.51 PM 1",
+      "updatedAt": "2026-04-24T15:37:07.691Z",
+      "createdAt": "2026-04-24T15:37:07.691Z",
+      "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-04-at-7.59.51-PM-1.jpeg",
+      "thumbnailURL": null,
+      "filename": "WhatsApp-Image-2022-07-04-at-7.59.51-PM-1.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 92556,
+      "width": 768,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "images": [
+      {
+        "id": "6a16da40384211b38f54ed3c",
+        "image": {
+          "id": 813,
+          "alt": "WhatsApp Image 2022 07 04 at 7.59.51 PM 1",
+          "updatedAt": "2026-04-24T15:37:07.691Z",
+          "createdAt": "2026-04-24T15:37:07.691Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-04-at-7.59.51-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-04-at-7.59.51-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 92556,
+          "width": 768,
+          "height": 1024,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 04 at 7.59.51 PM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed3d",
+        "image": {
+          "id": 814,
+          "alt": "WhatsApp Image 2022 07 04 at 7.59.51 PM",
+          "updatedAt": "2026-04-24T15:37:09.452Z",
+          "createdAt": "2026-04-24T15:37:09.452Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-04-at-7.59.51-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-04-at-7.59.51-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 102179,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 04 at 7.59.51 PM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed3e",
+        "image": {
+          "id": 815,
+          "alt": "WhatsApp Image 2022 07 04 at 7.59.52 PM 1",
+          "updatedAt": "2026-04-24T15:37:11.573Z",
+          "createdAt": "2026-04-24T15:37:11.573Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-04-at-7.59.52-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-04-at-7.59.52-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 130783,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 04 at 7.59.52 PM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed3f",
+        "image": {
+          "id": 816,
+          "alt": "WhatsApp Image 2022 07 04 at 7.59.52 PM",
+          "updatedAt": "2026-04-24T15:37:13.705Z",
+          "createdAt": "2026-04-24T15:37:13.705Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-04-at-7.59.52-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-04-at-7.59.52-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 141480,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": null
+      }
+    ],
+    "image": null,
+    "imageAlt": null,
+    "slug": "held-by-dr-shilpa-gupta-in-new-delhi",
+    "status": "published",
+    "showInGalleryPage": true,
+    "displayOrder": 3,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "practitioners": [],
+    "training": null,
+    "updatedAt": "2026-05-27T11:49:20.102Z",
+    "createdAt": "2026-05-05T06:10:33.876Z"
+  },
+  {
+    "id": 22,
+    "title": "Held by Leena in Mumbai",
+    "description": "Training event photos from sessions held by Leena in Mumbai.",
+    "coverImageAlt": "Held by Leena in Mumbai",
+    "coverImage": {
+      "id": 809,
+      "alt": "WhatsApp Image 2022 04 19 at 12.16.14 AM 1",
+      "updatedAt": "2026-04-24T15:37:00.637Z",
+      "createdAt": "2026-04-24T15:37:00.637Z",
+      "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-04-19-at-12.16.14-AM-1.jpeg",
+      "thumbnailURL": null,
+      "filename": "WhatsApp-Image-2022-04-19-at-12.16.14-AM-1.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 45062,
+      "width": 720,
+      "height": 405,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "images": [
+      {
+        "id": "6a16da40384211b38f54ed40",
+        "image": {
+          "id": 809,
+          "alt": "WhatsApp Image 2022 04 19 at 12.16.14 AM 1",
+          "updatedAt": "2026-04-24T15:37:00.637Z",
+          "createdAt": "2026-04-24T15:37:00.637Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-04-19-at-12.16.14-AM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-04-19-at-12.16.14-AM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 45062,
+          "width": 720,
+          "height": 405,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 04 19 at 12.16.14 AM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed41",
+        "image": {
+          "id": 810,
+          "alt": "WhatsApp Image 2022 04 19 at 12.16.13 AM",
+          "updatedAt": "2026-04-24T15:37:02.073Z",
+          "createdAt": "2026-04-24T15:37:02.073Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-04-19-at-12.16.13-AM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-04-19-at-12.16.13-AM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 50754,
+          "width": 720,
+          "height": 540,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 04 19 at 12.16.13 AM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed42",
+        "image": {
+          "id": 811,
+          "alt": "WhatsApp Image 2022 04 19 at 12.16.13 AM 1",
+          "updatedAt": "2026-04-24T15:37:03.570Z",
+          "createdAt": "2026-04-24T15:37:03.570Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-04-19-at-12.16.13-AM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-04-19-at-12.16.13-AM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 56142,
+          "width": 720,
+          "height": 538,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 04 19 at 12.16.13 AM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed43",
+        "image": {
+          "id": 812,
+          "alt": "Leena web",
+          "updatedAt": "2026-04-24T15:37:05.957Z",
+          "createdAt": "2026-04-24T15:37:05.957Z",
+          "url": "http://localhost:3001/api/media/file/Leena-web.jpg",
+          "thumbnailURL": null,
+          "filename": "Leena-web.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 47441,
+          "width": 720,
+          "height": 540,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "Leena web"
+      }
+    ],
+    "image": null,
+    "imageAlt": null,
+    "slug": "held-by-leena-in-mumbai",
+    "status": "published",
+    "showInGalleryPage": true,
+    "displayOrder": 2,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "practitioners": [],
+    "training": null,
+    "updatedAt": "2026-05-27T11:49:20.116Z",
+    "createdAt": "2026-05-05T06:10:33.867Z"
+  },
+  {
+    "id": 21,
+    "title": "Held by Mridula in Bangalore",
+    "description": "Training event photos from sessions held by Mridula in Bangalore.",
+    "coverImageAlt": "Held by Mridula in Bangalore",
+    "coverImage": {
+      "id": 805,
+      "alt": "WhatsApp Image 2022 07 29 at 1.17.22 PM",
+      "updatedAt": "2026-04-24T15:36:53.068Z",
+      "createdAt": "2026-04-24T15:36:53.068Z",
+      "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-29-at-1.17.22-PM.jpeg",
+      "thumbnailURL": null,
+      "filename": "WhatsApp-Image-2022-07-29-at-1.17.22-PM.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 116976,
+      "width": 768,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "images": [
+      {
+        "id": "6a16da40384211b38f54ed44",
+        "image": {
+          "id": 805,
+          "alt": "WhatsApp Image 2022 07 29 at 1.17.22 PM",
+          "updatedAt": "2026-04-24T15:36:53.068Z",
+          "createdAt": "2026-04-24T15:36:53.068Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-29-at-1.17.22-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-29-at-1.17.22-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 116976,
+          "width": 768,
+          "height": 1024,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 29 at 1.17.22 PM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed45",
+        "image": {
+          "id": 806,
+          "alt": "WhatsApp Image 2022 07 29 at 1.10.02 PM 1",
+          "updatedAt": "2026-04-24T15:36:55.186Z",
+          "createdAt": "2026-04-24T15:36:55.186Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-29-at-1.10.02-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-29-at-1.10.02-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 140171,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 29 at 1.10.02 PM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed46",
+        "image": {
+          "id": 807,
+          "alt": "WhatsApp Image 2022 07 29 at 1.10.02 PM",
+          "updatedAt": "2026-04-24T15:36:57.266Z",
+          "createdAt": "2026-04-24T15:36:57.266Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-29-at-1.10.02-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-29-at-1.10.02-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 132388,
+          "width": 768,
+          "height": 1024,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 29 at 1.10.02 PM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed47",
+        "image": {
+          "id": 808,
+          "alt": "WhatsApp Image 2022 07 29 at 1.17.22 PM 1",
+          "updatedAt": "2026-04-24T15:36:59.235Z",
+          "createdAt": "2026-04-24T15:36:59.235Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-29-at-1.17.22-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-29-at-1.17.22-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 125747,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 29 at 1.17.22 PM 1"
+      }
+    ],
+    "image": null,
+    "imageAlt": null,
+    "slug": "held-by-mridula-in-bangalore",
+    "status": "published",
+    "showInGalleryPage": true,
+    "displayOrder": 1,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "practitioners": [],
+    "training": null,
+    "updatedAt": "2026-05-27T11:49:20.128Z",
+    "createdAt": "2026-05-05T06:10:33.850Z"
+  },
+  {
+    "id": 20,
+    "title": "Held by Mridula in Bangalore",
+    "description": "Photos and highlights from EFTMRA India trainings, workshops, and community sessions.",
+    "coverImageAlt": "Held by Mridula in Bangalore",
+    "coverImage": {
+      "id": 4,
+      "alt": "Mridula Nair",
+      "updatedAt": "2026-04-17T10:38:04.008Z",
+      "createdAt": "2026-04-17T10:38:04.008Z",
+      "url": "http://localhost:3001/api/media/file/Mridula-Photo.webp",
+      "thumbnailURL": null,
+      "filename": "Mridula-Photo.webp",
+      "mimeType": "image/webp",
+      "filesize": 3512,
+      "width": 150,
+      "height": 150,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "images": [
+      {
+        "id": "6a16da40384211b38f54ed48",
+        "image": {
+          "id": 816,
+          "alt": "WhatsApp Image 2022 07 04 at 7.59.52 PM",
+          "updatedAt": "2026-04-24T15:37:13.705Z",
+          "createdAt": "2026-04-24T15:37:13.705Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-04-at-7.59.52-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-04-at-7.59.52-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 141480,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": null
+      },
+      {
+        "id": "6a16da40384211b38f54ed49",
+        "image": {
+          "id": 842,
+          "alt": "Geetanjali Sharma",
+          "updatedAt": "2026-04-27T07:33:25.276Z",
+          "createdAt": "2026-04-27T07:33:25.276Z",
+          "url": "http://localhost:3001/api/media/file/geetanali-sharma.webp",
+          "thumbnailURL": null,
+          "filename": "geetanali-sharma.webp",
+          "mimeType": "image/webp",
+          "filesize": 109734,
+          "width": 1086,
+          "height": 1448,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": null
+      },
+      {
+        "id": "6a16da40384211b38f54ed4a",
+        "image": {
+          "id": 820,
+          "alt": "WhatsApp Image 2022 07 25 at 1.50.06 PM",
+          "updatedAt": "2026-04-24T15:37:24.586Z",
+          "createdAt": "2026-04-24T15:37:24.586Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-25-at-1.50.06-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-25-at-1.50.06-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 190096,
+          "width": 1058,
+          "height": 1001,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 25 at 1.50.06 PM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed4b",
+        "image": {
+          "id": 819,
+          "alt": "WhatsApp Image 2022 07 25 at 1.50.05 PM 2",
+          "updatedAt": "2026-04-24T15:37:22.307Z",
+          "createdAt": "2026-04-24T15:37:22.307Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-25-at-1.50.05-PM-2.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-25-at-1.50.05-PM-2.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 104169,
+          "width": 653,
+          "height": 1024,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 25 at 1.50.05 PM 2"
+      },
+      {
+        "id": "6a16da40384211b38f54ed4c",
+        "image": {
+          "id": 818,
+          "alt": "WhatsApp Image 2022 07 25 at 1.50.05 PM 1",
+          "updatedAt": "2026-04-24T15:37:20.314Z",
+          "createdAt": "2026-04-24T15:37:20.314Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-25-at-1.50.05-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-25-at-1.50.05-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 178988,
+          "width": 1392,
+          "height": 1009,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 25 at 1.50.05 PM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed4d",
+        "image": {
+          "id": 817,
+          "alt": "WhatsApp Image 2022 07 25 at 1.50.05 PM",
+          "updatedAt": "2026-04-24T15:37:16.250Z",
+          "createdAt": "2026-04-24T15:37:16.250Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-25-at-1.50.05-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-25-at-1.50.05-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 108756,
+          "width": 1200,
+          "height": 1600,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 25 at 1.50.05 PM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed4e",
+        "image": {
+          "id": 815,
+          "alt": "WhatsApp Image 2022 07 04 at 7.59.52 PM 1",
+          "updatedAt": "2026-04-24T15:37:11.573Z",
+          "createdAt": "2026-04-24T15:37:11.573Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-04-at-7.59.52-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-04-at-7.59.52-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 130783,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 04 at 7.59.52 PM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed4f",
+        "image": {
+          "id": 814,
+          "alt": "WhatsApp Image 2022 07 04 at 7.59.51 PM",
+          "updatedAt": "2026-04-24T15:37:09.452Z",
+          "createdAt": "2026-04-24T15:37:09.452Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-04-at-7.59.51-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-04-at-7.59.51-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 102179,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 04 at 7.59.51 PM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed50",
+        "image": {
+          "id": 813,
+          "alt": "WhatsApp Image 2022 07 04 at 7.59.51 PM 1",
+          "updatedAt": "2026-04-24T15:37:07.691Z",
+          "createdAt": "2026-04-24T15:37:07.691Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-04-at-7.59.51-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-04-at-7.59.51-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 92556,
+          "width": 768,
+          "height": 1024,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 04 at 7.59.51 PM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed51",
+        "image": {
+          "id": 812,
+          "alt": "Leena web",
+          "updatedAt": "2026-04-24T15:37:05.957Z",
+          "createdAt": "2026-04-24T15:37:05.957Z",
+          "url": "http://localhost:3001/api/media/file/Leena-web.jpg",
+          "thumbnailURL": null,
+          "filename": "Leena-web.jpg",
+          "mimeType": "image/jpeg",
+          "filesize": 47441,
+          "width": 720,
+          "height": 540,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "Leena web"
+      },
+      {
+        "id": "6a16da40384211b38f54ed52",
+        "image": {
+          "id": 811,
+          "alt": "WhatsApp Image 2022 04 19 at 12.16.13 AM 1",
+          "updatedAt": "2026-04-24T15:37:03.570Z",
+          "createdAt": "2026-04-24T15:37:03.570Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-04-19-at-12.16.13-AM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-04-19-at-12.16.13-AM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 56142,
+          "width": 720,
+          "height": 538,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 04 19 at 12.16.13 AM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed53",
+        "image": {
+          "id": 810,
+          "alt": "WhatsApp Image 2022 04 19 at 12.16.13 AM",
+          "updatedAt": "2026-04-24T15:37:02.073Z",
+          "createdAt": "2026-04-24T15:37:02.073Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-04-19-at-12.16.13-AM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-04-19-at-12.16.13-AM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 50754,
+          "width": 720,
+          "height": 540,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 04 19 at 12.16.13 AM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed54",
+        "image": {
+          "id": 809,
+          "alt": "WhatsApp Image 2022 04 19 at 12.16.14 AM 1",
+          "updatedAt": "2026-04-24T15:37:00.637Z",
+          "createdAt": "2026-04-24T15:37:00.637Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-04-19-at-12.16.14-AM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-04-19-at-12.16.14-AM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 45062,
+          "width": 720,
+          "height": 405,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 04 19 at 12.16.14 AM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed55",
+        "image": {
+          "id": 808,
+          "alt": "WhatsApp Image 2022 07 29 at 1.17.22 PM 1",
+          "updatedAt": "2026-04-24T15:36:59.235Z",
+          "createdAt": "2026-04-24T15:36:59.235Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-29-at-1.17.22-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-29-at-1.17.22-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 125747,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 29 at 1.17.22 PM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed56",
+        "image": {
+          "id": 807,
+          "alt": "WhatsApp Image 2022 07 29 at 1.10.02 PM",
+          "updatedAt": "2026-04-24T15:36:57.266Z",
+          "createdAt": "2026-04-24T15:36:57.266Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-29-at-1.10.02-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-29-at-1.10.02-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 132388,
+          "width": 768,
+          "height": 1024,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 29 at 1.10.02 PM"
+      },
+      {
+        "id": "6a16da40384211b38f54ed57",
+        "image": {
+          "id": 806,
+          "alt": "WhatsApp Image 2022 07 29 at 1.10.02 PM 1",
+          "updatedAt": "2026-04-24T15:36:55.186Z",
+          "createdAt": "2026-04-24T15:36:55.186Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-29-at-1.10.02-PM-1.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-29-at-1.10.02-PM-1.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 140171,
+          "width": 1024,
+          "height": 768,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 29 at 1.10.02 PM 1"
+      },
+      {
+        "id": "6a16da40384211b38f54ed58",
+        "image": {
+          "id": 805,
+          "alt": "WhatsApp Image 2022 07 29 at 1.17.22 PM",
+          "updatedAt": "2026-04-24T15:36:53.068Z",
+          "createdAt": "2026-04-24T15:36:53.068Z",
+          "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2022-07-29-at-1.17.22-PM.jpeg",
+          "thumbnailURL": null,
+          "filename": "WhatsApp-Image-2022-07-29-at-1.17.22-PM.jpeg",
+          "mimeType": "image/jpeg",
+          "filesize": 116976,
+          "width": 768,
+          "height": 1024,
+          "focalX": 50,
+          "focalY": 50
+        },
+        "alt": null,
+        "caption": "WhatsApp Image 2022 07 29 at 1.17.22 PM"
+      }
+    ],
+    "image": null,
+    "imageAlt": null,
+    "slug": "eftmra-india-gallery",
+    "status": "published",
+    "showInGalleryPage": false,
+    "displayOrder": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "practitioners": [],
+    "training": null,
+    "updatedAt": "2026-05-27T11:49:20.139Z",
+    "createdAt": "2026-05-05T05:23:51.065Z"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "fullName": "Arundas",
+    "agree": true,
+    "practitionerName": "Aakriti Todi",
+    "email": "arundas.sdl@gmail.com",
+    "phone": "9999999999",
+    "status": "new",
+    "submittedAt": "2026-05-04T10:18:15.851Z",
+    "practitioner": {
+      "id": 2,
+      "name": "Aakriti Todi",
+      "profileTagline": "Registered EFT Practitioner with EFTMRA India.",
+      "accent": "deep-teal",
+      "image": {
+        "id": 675,
+        "alt": "Aakriti Todi",
+        "updatedAt": "2026-04-23T05:29:35.960Z",
+        "createdAt": "2026-04-23T05:29:35.960Z",
+        "url": "http://localhost:3001/api/media/file/aakriti-todi-5.webp",
+        "thumbnailURL": null,
+        "filename": "aakriti-todi-5.webp",
+        "mimeType": "image/webp",
+        "filesize": 195478,
+        "width": 1200,
+        "height": 1600,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "imageAlt": "Aakriti Todi",
+      "cityLabel": "Guwahati",
+      "cityKey": "guwahati",
+      "state": "Assam",
+      "country": "India",
+      "hours": "9:30am - 4pm",
+      "membershipNumber": "4314",
+      "certificationYear": null,
+      "languages": [
+        {
+          "id": "6a16da3f384211b38f54ecd6",
+          "label": "English"
+        }
+      ],
+      "specialties": [
+        {
+          "id": "6a16da3f384211b38f54ecd7",
+          "label": "EFT Practitioners"
+        }
+      ],
+      "credentials": [
+        {
+          "id": "6a16da3f384211b38f54ecd8",
+          "label": "EFT Practitioner"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecd9",
+          "label": "EFT Practitioners"
+        }
+      ],
+      "certificates": [
+        {
+          "id": "6a16da3f384211b38f54ecda",
+          "title": "EFT Practitioner Certificate",
+          "file": {
+            "id": 888,
+            "alt": "EFT Practitioner Certificate",
+            "updatedAt": "2026-04-27T08:56:51.761Z",
+            "createdAt": "2026-04-27T08:56:51.761Z",
+            "url": "http://localhost:3001/api/media/file/aakriti-todi.pdf",
+            "thumbnailURL": null,
+            "filename": "aakriti-todi.pdf",
+            "mimeType": "application/pdf",
+            "filesize": 542508,
+            "width": null,
+            "height": null,
+            "focalX": null,
+            "focalY": null
+          },
+          "sourceUrl": "https://www.eftmraindia.com/wp-content/uploads/2025/11/Aakriti-Todi.pdf"
+        }
+      ],
+      "email": "guwahatigraphology@gmail.com",
+      "phone": "9706014885",
+      "whatsapp": "9706014885",
+      "website": null,
+      "linkedin": "https://www.linkedin.com/in/aakriti-todi-6460ba248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "instagram": null,
+      "facebook": null,
+      "bio": "Practice address: House no 48, Shaktigarh Path, Bhangagarh, Guwahati -781005, Assam",
+      "approach": null,
+      "submittedReviews": {
+        "docs": [],
+        "hasNextPage": false
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "image": null
+      },
+      "slug": "aakriti-todi",
+      "status": "published",
+      "role": "EFT Practitioner",
+      "showOnHomepage": false,
+      "availabilityMode": "in-person",
+      "sessionFee": null,
+      "site": {
+        "id": 1,
+        "name": "EFTMRA India",
+        "theme": {
+          "preset": "main",
+          "primaryColor": "#4A9DAE",
+          "secondaryColor": "#1A3B4C",
+          "accentColor": "#EFF8FA",
+          "surfaceColor": "#FFFFFF",
+          "textColor": "#1A3B4C",
+          "mutedColor": "#6B8898",
+          "radiusBrand": null,
+          "shadowSoft": null,
+          "customTokens": [
+            {
+              "id": "69f9f108fa2aff1b97cdec8d",
+              "token": "eftmra-midnight",
+              "label": "EFTMRA Midnight",
+              "value": "#1A3B4C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8e",
+              "token": "eftmra-deep-ocean",
+              "label": "EFTMRA Deep Ocean",
+              "value": "#2B6A7C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8f",
+              "token": "eftmra-sapphire",
+              "label": "EFTMRA Sapphire",
+              "value": "#4A9DAE"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec90",
+              "token": "eftmra-amber",
+              "label": "EFTMRA Amber",
+              "value": "#C9A84C"
+            }
+          ]
+        },
+        "micrositeSubmenu": {
+          "title": "",
+          "icon": "auto",
+          "logoImage": null,
+          "links": []
+        },
+        "footer": {
+          "backgroundColor": null,
+          "textColor": null,
+          "logoText": null,
+          "logoImage": null,
+          "logoHref": null,
+          "tagline": null,
+          "columns": [],
+          "copyrightText": null,
+          "socialLinks": []
+        },
+        "slug": "/",
+        "domain": null,
+        "layoutType": "platform-home",
+        "updatedAt": "2026-05-27T11:49:22.032Z",
+        "createdAt": "2026-04-17T10:38:04.690Z"
+      },
+      "category": "eft-practitioner",
+      "categoryKeys": [
+        "eft-practitioner"
+      ],
+      "updatedAt": "2026-05-27T11:49:19.378Z",
+      "createdAt": "2026-04-20T09:46:07.796Z"
+    },
+    "siteSlug": null,
+    "updatedAt": "2026-05-04T10:18:15.919Z",
+    "createdAt": "2026-05-04T10:18:15.919Z"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "id": 2,
+    "fullName": "test tt",
+    "firstName": "test",
+    "lastName": "tt",
+    "profileTagline": "",
+    "professionalBio": "test bbcv",
+    "membershipNumber": "fdsfsdf",
+    "certificationYear": "2025",
+    "prerequisiteL12MembershipNumber": "",
+    "prerequisiteL12CertificationYear": "",
+    "prerequisiteL12CertificateFileName": "",
+    "prerequisiteL3MembershipNumber": "",
+    "prerequisiteL3CertificationYear": "",
+    "prerequisiteL3CertificateFileName": "",
+    "timezone": "Asia/Kolkata",
+    "currencySymbol": "₹",
+    "currencyCode": "INR",
+    "notes": null,
+    "email": "test@ggg.com",
+    "phone": "9999999999",
+    "whatsapp": "",
+    "website": "",
+    "linkedin": "",
+    "instagram": "",
+    "facebook": "",
+    "profilePhoto": {
+      "id": 1010,
+      "alt": "test tt profile photo",
+      "updatedAt": "2026-05-25T11:02:40.566Z",
+      "createdAt": "2026-05-25T11:02:40.566Z",
+      "url": "http://localhost:3001/api/media/file/eftmraindia-logo-2.png",
+      "thumbnailURL": null,
+      "filename": "eftmraindia-logo-2.png",
+      "mimeType": "image/png",
+      "filesize": 75210,
+      "width": 2400,
+      "height": 592,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "profilePhotoFileName": "eftmraindia-logo.png",
+    "certificateFile": {
+      "id": 1011,
+      "alt": "test tt primary certificate",
+      "updatedAt": "2026-05-25T11:02:42.050Z",
+      "createdAt": "2026-05-25T11:02:42.050Z",
+      "url": "http://localhost:3001/api/media/file/pexels-photo-7447254.jpeg",
+      "thumbnailURL": null,
+      "filename": "pexels-photo-7447254.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 300360,
+      "width": 2400,
+      "height": 1600,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "certificateFileName": "pexels-photo-7447253.jpeg",
+    "prerequisiteL12CertificateFile": null,
+    "prerequisiteL3CertificateFile": null,
+    "city": "ttt",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "availabilityStart": "09:00",
+    "availabilityEnd": "18:00",
+    "modeOfPractice": "Online & In-person",
+    "languages": [
+      {
+        "id": "6a142c5243c88b3fd591bbbd",
+        "label": "English"
+      },
+      {
+        "id": "6a142c5243c88b3fd591bbbe",
+        "label": "Hindi"
+      }
+    ],
+    "specialties": [
+      {
+        "id": "6a142c5243c88b3fd591bbbf",
+        "label": "Addictions"
+      },
+      {
+        "id": "6a142c5243c88b3fd591bbc0",
+        "label": "Anxiety & Stress"
+      },
+      {
+        "id": "6a142c5243c88b3fd591bbc1",
+        "label": "Relationships"
+      }
+    ],
+    "status": "new",
+    "declarationAccepted": true,
+    "submittedAt": "2026-05-25T11:02:40.040Z",
+    "sessionFee": "5000",
+    "category": "eft-practitioner",
+    "siteSlug": "/",
+    "practitioner": null,
+    "updatedAt": "2026-05-25T11:02:42.455Z",
+    "createdAt": "2026-05-25T11:02:42.454Z"
+  },
+  {
+    "id": 1,
+    "fullName": "test tetet",
+    "firstName": null,
+    "lastName": null,
+    "profileTagline": "",
+    "professionalBio": "testse ",
+    "membershipNumber": "fdsdf",
+    "certificationYear": "2017",
+    "prerequisiteL12MembershipNumber": "",
+    "prerequisiteL12CertificationYear": "2016",
+    "prerequisiteL12CertificateFileName": "",
+    "prerequisiteL3MembershipNumber": "",
+    "prerequisiteL3CertificationYear": "",
+    "prerequisiteL3CertificateFileName": "",
+    "timezone": "Asia/Kolkata",
+    "currencySymbol": null,
+    "currencyCode": null,
+    "notes": null,
+    "email": "test@gfg.com",
+    "phone": "99999999999",
+    "whatsapp": "",
+    "website": "",
+    "linkedin": "",
+    "instagram": "",
+    "facebook": "",
+    "profilePhoto": null,
+    "profilePhotoFileName": "",
+    "certificateFile": null,
+    "certificateFileName": "eftmraindia-logo.png",
+    "prerequisiteL12CertificateFile": null,
+    "prerequisiteL3CertificateFile": null,
+    "city": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "availabilityStart": "09:00",
+    "availabilityEnd": "18:00",
+    "modeOfPractice": "Online & In-person",
+    "languages": [
+      {
+        "id": "6a140b1a019b12f0b7f122ae",
+        "label": "English"
+      },
+      {
+        "id": "6a140b1a019b12f0b7f122af",
+        "label": "Hindi"
+      }
+    ],
+    "specialties": [
+      {
+        "id": "6a140b1a019b12f0b7f122b0",
+        "label": "Anxiety & Stress"
+      },
+      {
+        "id": "6a140b1a019b12f0b7f122b1",
+        "label": "Trauma & PTSD"
+      },
+      {
+        "id": "6a140b1a019b12f0b7f122b2",
+        "label": "Depression"
+      }
+    ],
+    "status": "new",
+    "declarationAccepted": true,
+    "submittedAt": "2026-05-25T08:40:57.964Z",
+    "sessionFee": "25000",
+    "category": "eft-practitioner",
+    "siteSlug": "/",
+    "practitioner": null,
+    "updatedAt": "2026-05-25T08:40:58.274Z",
+    "createdAt": "2026-05-25T08:40:58.274Z"
+  }
+]

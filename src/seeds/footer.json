@@ -1,0 +1,132 @@
+{
+  "id": 1,
+  "backgroundColor": "#1A3B4C",
+  "textColor": "#FFFFFF",
+  "logoText": "",
+  "logoImage": {
+    "id": 1003,
+    "alt": null,
+    "updatedAt": "2026-05-11T11:35:09.554Z",
+    "createdAt": "2026-05-11T11:35:09.554Z",
+    "url": "http://localhost:3001/api/media/file/eftmra-logo-bg-1.png",
+    "thumbnailURL": null,
+    "filename": "eftmra-logo-bg-1.png",
+    "mimeType": "image/png",
+    "filesize": 331893,
+    "width": 6010,
+    "height": 1482,
+    "focalX": 50,
+    "focalY": 50
+  },
+  "logoHref": "/",
+  "tagline": "India's leading EFT academy, training and certifying practitioners to global standards.",
+  "columns": [
+    {
+      "id": "69ef05b3235078a98486d48c",
+      "title": "Quick Links",
+      "content": null,
+      "links": [
+        {
+          "id": "69ef05b3235078a98486d486",
+          "label": "Home",
+          "href": "/"
+        },
+        {
+          "id": "69ef05b3235078a98486d487",
+          "label": "EFT Trainings",
+          "href": "/eft-training"
+        },
+        {
+          "id": "69ef05b3235078a98486d488",
+          "label": "Practitioners",
+          "href": "/practitioners"
+        },
+        {
+          "id": "69ef05b3235078a98486d489",
+          "label": "About EFTMRA",
+          "href": "/about"
+        },
+        {
+          "id": "69ef05b3235078a98486d48a",
+          "label": "Testimonials",
+          "href": "/testimonials"
+        },
+        {
+          "id": "69ef05b3235078a98486d48b",
+          "label": "Contact Us",
+          "href": "/contact"
+        }
+      ]
+    },
+    {
+      "id": "69fb1761517a55d0072423bc",
+      "title": "Quick Links",
+      "content": null,
+      "links": [
+        {
+          "id": "69fb1767517a55d0072423be",
+          "label": "Terms of Service",
+          "href": "/terms-of-service"
+        },
+        {
+          "id": "69fb178e517a55d0072423c0",
+          "label": "Disclaimer",
+          "href": "/disclaimer"
+        },
+        {
+          "id": "69fb17b4517a55d0072423c2",
+          "label": "Refund Policy",
+          "href": "/refund-policy"
+        },
+        {
+          "id": "69fb17c3517a55d0072423c4",
+          "label": "Privacy Policy",
+          "href": "/privacy-policy"
+        }
+      ]
+    },
+    {
+      "id": "69ef05b3235078a98486d48f",
+      "title": "Contact Us",
+      "content": "#2995, 12A Main, 5th Cross,\nIndiranagar 2nd Stage,\nBangalore – 560038",
+      "links": [
+        {
+          "id": "69ef05b3235078a98486d48d",
+          "label": "hello@eftmraindia.com",
+          "href": "mailto:hello@eftmraindia.com"
+        },
+        {
+          "id": "69ef05b3235078a98486d48e",
+          "label": "+91 96633 33144",
+          "href": "tel:+919663333144"
+        }
+      ]
+    }
+  ],
+  "copyrightText": "© {Y} EFTMRA India. All rights reserved.",
+  "socialLinks": [
+    {
+      "id": "69ef05b3235078a98486d490",
+      "platform": "facebook",
+      "href": "https://www.facebook.com/EFT-MRA-India-EFT-Matrix-Reimprinting-Train-Mentor-110368871415358"
+    },
+    {
+      "id": "69ef05b3235078a98486d491",
+      "platform": "instagram",
+      "href": "https://www.instagram.com/eftmraindia/"
+    },
+    {
+      "id": "69ef05b3235078a98486d492",
+      "platform": "youtube",
+      "href": "https://www.youtube.com/@eftmraindia-eftmatrixreimp2451"
+    },
+    {
+      "id": "69ef05b3235078a98486d493",
+      "platform": "whatsapp",
+      "href": "https://api.whatsapp.com/send?phone=+918073726665"
+    }
+  ],
+  "updatedAt": "2026-05-27T11:49:20.322Z",
+  "createdAt": "2026-04-17T10:50:28.802Z",
+  "globalType": "footer"
+}

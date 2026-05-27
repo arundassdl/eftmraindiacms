@@ -1,0 +1,1530 @@
+[
+  {
+    "id": 11,
+    "name": "EFTMRA India Trainer",
+    "tagline": "This EFTMRA India training introduces practical, evidence-informed EFT skills for client work and professional confidence.",
+    "image": {
+      "id": 991,
+      "alt": null,
+      "updatedAt": "2026-05-06T10:20:11.907Z",
+      "createdAt": "2026-05-06T10:20:11.906Z",
+      "url": "http://localhost:3001/api/media/file/mridula-nair-profile.png",
+      "thumbnailURL": null,
+      "filename": "mridula-nair-profile.png",
+      "mimeType": "image/png",
+      "filesize": 113613,
+      "width": 289,
+      "height": 245,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Emotional Freedom Techniques Practitioner Certification Bangalore March 2026",
+    "aboutLabel": "About EFTMRA",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "This EFTMRA India training introduces practical, evidence-informed EFT skills for client work and professional confidence.",
+    "aboutParagraphs": [],
+    "credentials": [],
+    "specializations": [],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 100,
+    "showOnHomepage": false,
+    "slug": "eftmra-india-trainer",
+    "role": "Trainer · EFTMRA India",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:19.937Z",
+    "createdAt": "2026-05-25T07:15:06.580Z"
+  },
+  {
+    "id": 12,
+    "name": "Karl Dawson",
+    "tagline": "Director of Training for the EFT and Matrix Reimprinting Academy (EFTMRA), the world’s largest EFT certification body, with over 10,000 practitioners worldwide. EFTMRA trainers and practitioners span Europe, North and South America, Asia, and Australia, forming a truly global healing community.\n",
+    "image": {
+      "id": 979,
+      "alt": "Karl Dawson",
+      "updatedAt": "2026-04-30T11:21:57.317Z",
+      "createdAt": "2026-04-30T11:21:57.316Z",
+      "url": "http://localhost:3001/api/media/file/Karl%20Dawson.png",
+      "thumbnailURL": null,
+      "filename": "Karl Dawson.png",
+      "mimeType": "image/png",
+      "filesize": 619699,
+      "width": 776,
+      "height": 834,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": null,
+    "aboutLabel": "About Karl",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "Director of Training for the EFT and Matrix Reimprinting Academy (EFTMRA), the world’s largest EFT certification body, with over 10,000 practitioners worldwide. EFTMRA trainers and practitioners span Europe, North and South America, Asia, and Australia, forming a truly global healing community.\n",
+    "aboutParagraphs": [],
+    "credentials": [],
+    "specializations": [],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 100,
+    "showOnHomepage": false,
+    "slug": "karl-dawson",
+    "role": "Director of Training for the EFT and Matrix Reimprinting Academy (EFTMRA)",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:19.925Z",
+    "createdAt": "2026-05-25T07:15:06.580Z"
+  },
+  {
+    "id": 9,
+    "name": "Seema Gorowara",
+    "tagline": "Seema Gorowara is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+    "image": {
+      "id": 32,
+      "alt": "Seema Gorowara",
+      "updatedAt": "2026-04-17T12:12:46.463Z",
+      "createdAt": "2026-04-17T12:12:46.463Z",
+      "url": "http://localhost:3001/api/media/file/Seema-Gorowara.webp",
+      "thumbnailURL": null,
+      "filename": "Seema-Gorowara.webp",
+      "mimeType": "image/webp",
+      "filesize": 3962,
+      "width": 150,
+      "height": 150,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Seema Gorowara",
+    "aboutLabel": "About Seema",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3f384211b38f54ece0",
+        "content": "Seema Gorowara has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+      },
+      {
+        "id": "6a16da3f384211b38f54ece1",
+        "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+      }
+    ],
+    "credentials": [
+      {
+        "id": "6a16da3f384211b38f54ece2",
+        "label": "EFTMRA Trainer"
+      },
+      {
+        "id": "6a16da3f384211b38f54ece3",
+        "label": "EFTMRA Certified Practitioner"
+      },
+      {
+        "id": "6a16da3f384211b38f54ece4",
+        "label": "EFTMRA India faculty"
+      }
+    ],
+    "specializations": [
+      {
+        "id": "6a16da3f384211b38f54ece5",
+        "label": "EFT foundations"
+      },
+      {
+        "id": "6a16da3f384211b38f54ece6",
+        "label": "Student practice"
+      },
+      {
+        "id": "6a16da3f384211b38f54ece7",
+        "label": "Emotional wellbeing"
+      },
+      {
+        "id": "6a16da3f384211b38f54ece8",
+        "label": "Professional learning"
+      }
+    ],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 10,
+    "showOnHomepage": false,
+    "slug": "seema-gorowara",
+    "role": "Trainer · EFTMRA India",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:19.952Z",
+    "createdAt": "2026-05-21T15:37:14.418Z"
+  },
+  {
+    "id": 8,
+    "name": "Fatema Zavery",
+    "tagline": "Fatema Zavery is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+    "image": {
+      "id": 1017,
+      "alt": null,
+      "updatedAt": "2026-05-27T13:00:33.058Z",
+      "createdAt": "2026-05-27T13:00:33.058Z",
+      "url": "http://localhost:3001/api/media/file/Fatema-Zavery.png",
+      "thumbnailURL": null,
+      "filename": "Fatema-Zavery.png",
+      "mimeType": "image/png",
+      "filesize": 697663,
+      "width": 1254,
+      "height": 1254,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Fatema Zavery",
+    "aboutLabel": "About Fatema",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3f384211b38f54ece9",
+        "content": "Fatema Zavery has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+      },
+      {
+        "id": "6a16da3f384211b38f54ecea",
+        "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+      }
+    ],
+    "credentials": [
+      {
+        "id": "6a16da3f384211b38f54eceb",
+        "label": "EFTMRA Trainer"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecec",
+        "label": "EFTMRA Certified Practitioner"
+      },
+      {
+        "id": "6a16da3f384211b38f54eced",
+        "label": "EFTMRA India faculty"
+      }
+    ],
+    "specializations": [
+      {
+        "id": "6a16da3f384211b38f54ecee",
+        "label": "EFT foundations"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecef",
+        "label": "Student practice"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecf0",
+        "label": "Emotional wellbeing"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecf1",
+        "label": "Professional learning"
+      }
+    ],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 7,
+    "showOnHomepage": true,
+    "slug": "fatema-zavery",
+    "role": "Trainer · EFTMRA India",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T13:00:39.884Z",
+    "createdAt": "2026-05-21T15:37:14.403Z"
+  },
+  {
+    "id": 7,
+    "name": "Divya Srivastava",
+    "tagline": "Divya Srivastava is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+    "image": {
+      "id": 1014,
+      "alt": null,
+      "updatedAt": "2026-05-27T12:54:27.737Z",
+      "createdAt": "2026-05-27T12:54:27.737Z",
+      "url": "http://localhost:3001/api/media/file/divya-srivastava.png",
+      "thumbnailURL": null,
+      "filename": "divya-srivastava.png",
+      "mimeType": "image/png",
+      "filesize": 608701,
+      "width": 1281,
+      "height": 1227,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Divya Srivastava",
+    "aboutLabel": "About Divya",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3f384211b38f54ecf2",
+        "content": "Divya Srivastava has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+      },
+      {
+        "id": "6a16da3f384211b38f54ecf3",
+        "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+      }
+    ],
+    "credentials": [
+      {
+        "id": "6a16da3f384211b38f54ecf4",
+        "label": "EFTMRA Trainer"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecf5",
+        "label": "EFTMRA Certified Practitioner"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecf6",
+        "label": "EFTMRA India faculty"
+      }
+    ],
+    "specializations": [
+      {
+        "id": "6a16da3f384211b38f54ecf7",
+        "label": "EFT foundations"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecf8",
+        "label": "Student practice"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecf9",
+        "label": "Emotional wellbeing"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecfa",
+        "label": "Professional learning"
+      }
+    ],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 5,
+    "showOnHomepage": true,
+    "slug": "divya-srivastava",
+    "role": "Trainer · EFTMRA India",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T12:54:45.853Z",
+    "createdAt": "2026-05-21T15:37:14.388Z"
+  },
+  {
+    "id": 6,
+    "name": "Meetu Sehgal",
+    "tagline": "Meetu Sehgal is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+    "image": {
+      "id": 31,
+      "alt": "Meetu Sehgal",
+      "updatedAt": "2026-04-17T12:12:46.435Z",
+      "createdAt": "2026-04-17T12:12:46.435Z",
+      "url": "http://localhost:3001/api/media/file/Meetu-Sehgal.webp",
+      "thumbnailURL": null,
+      "filename": "Meetu-Sehgal.webp",
+      "mimeType": "image/webp",
+      "filesize": 5972,
+      "width": 150,
+      "height": 150,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Meetu Sehgal",
+    "aboutLabel": "About Meetu",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3f384211b38f54ecfb",
+        "content": "Meetu Sehgal has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+      },
+      {
+        "id": "6a16da3f384211b38f54ecfc",
+        "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+      }
+    ],
+    "credentials": [
+      {
+        "id": "6a16da3f384211b38f54ecfd",
+        "label": "EFTMRA Trainer"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecfe",
+        "label": "EFTMRA Certified Practitioner"
+      },
+      {
+        "id": "6a16da3f384211b38f54ecff",
+        "label": "EFTMRA India faculty"
+      }
+    ],
+    "specializations": [
+      {
+        "id": "6a16da3f384211b38f54ed00",
+        "label": "EFT foundations"
+      },
+      {
+        "id": "6a16da3f384211b38f54ed01",
+        "label": "Student practice"
+      },
+      {
+        "id": "6a16da3f384211b38f54ed02",
+        "label": "Emotional wellbeing"
+      },
+      {
+        "id": "6a16da3f384211b38f54ed03",
+        "label": "Professional learning"
+      }
+    ],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 9,
+    "showOnHomepage": false,
+    "slug": "meetu-sehgal",
+    "role": "Trainer · EFTMRA India",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:19.999Z",
+    "createdAt": "2026-05-21T15:37:14.372Z"
+  },
+  {
+    "id": 5,
+    "name": "Diksha Wadhwa",
+    "tagline": "Diksha Wadhwa is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+    "image": {
+      "id": 1018,
+      "alt": null,
+      "updatedAt": "2026-05-27T13:02:05.590Z",
+      "createdAt": "2026-05-27T13:02:05.590Z",
+      "url": "http://localhost:3001/api/media/file/Diksha-Wadhwa.png",
+      "thumbnailURL": null,
+      "filename": "Diksha-Wadhwa.png",
+      "mimeType": "image/png",
+      "filesize": 619491,
+      "width": 1184,
+      "height": 1328,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Diksha Wadhwa",
+    "aboutLabel": "About Diksha",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da40384211b38f54ed04",
+        "content": "Diksha Wadhwa has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+      },
+      {
+        "id": "6a16da40384211b38f54ed05",
+        "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+      }
+    ],
+    "credentials": [
+      {
+        "id": "6a16da40384211b38f54ed06",
+        "label": "EFTMRA Trainer"
+      },
+      {
+        "id": "6a16da40384211b38f54ed07",
+        "label": "EFTMRA Certified Practitioner"
+      },
+      {
+        "id": "6a16da40384211b38f54ed08",
+        "label": "EFTMRA India faculty"
+      }
+    ],
+    "specializations": [
+      {
+        "id": "6a16da40384211b38f54ed09",
+        "label": "EFT foundations"
+      },
+      {
+        "id": "6a16da40384211b38f54ed0a",
+        "label": "Student practice"
+      },
+      {
+        "id": "6a16da40384211b38f54ed0b",
+        "label": "Emotional wellbeing"
+      },
+      {
+        "id": "6a16da40384211b38f54ed0c",
+        "label": "Professional learning"
+      }
+    ],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 4,
+    "showOnHomepage": true,
+    "slug": "diksha-wadhwa",
+    "role": "Master Trainer",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T13:02:13.931Z",
+    "createdAt": "2026-05-21T15:37:14.354Z"
+  },
+  {
+    "id": 4,
+    "name": "Saumya Shharma",
+    "tagline": "Saumya Shharma is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+    "image": {
+      "id": 1016,
+      "alt": null,
+      "updatedAt": "2026-05-27T12:59:32.940Z",
+      "createdAt": "2026-05-27T12:59:32.940Z",
+      "url": "http://localhost:3001/api/media/file/Saumya-Shharma.png",
+      "thumbnailURL": null,
+      "filename": "Saumya-Shharma.png",
+      "mimeType": "image/png",
+      "filesize": 676521,
+      "width": 1254,
+      "height": 1254,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Saumya Shharma",
+    "aboutLabel": "About Saumya",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da40384211b38f54ed0d",
+        "content": "Saumya Shharma has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+      },
+      {
+        "id": "6a16da40384211b38f54ed0e",
+        "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+      }
+    ],
+    "credentials": [
+      {
+        "id": "6a16da40384211b38f54ed0f",
+        "label": "EFTMRA Trainer"
+      },
+      {
+        "id": "6a16da40384211b38f54ed10",
+        "label": "EFTMRA Certified Practitioner"
+      },
+      {
+        "id": "6a16da40384211b38f54ed11",
+        "label": "EFTMRA India faculty"
+      }
+    ],
+    "specializations": [
+      {
+        "id": "6a16da40384211b38f54ed12",
+        "label": "EFT foundations"
+      },
+      {
+        "id": "6a16da40384211b38f54ed13",
+        "label": "Student practice"
+      },
+      {
+        "id": "6a16da40384211b38f54ed14",
+        "label": "Emotional wellbeing"
+      },
+      {
+        "id": "6a16da40384211b38f54ed15",
+        "label": "Professional learning"
+      }
+    ],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 6,
+    "showOnHomepage": true,
+    "slug": "saumya-shharma",
+    "role": "Master Trainer",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T12:59:40.851Z",
+    "createdAt": "2026-05-21T15:37:14.338Z"
+  },
+  {
+    "id": 3,
+    "name": "Leena R Haldar",
+    "tagline": "Leena R Haldar is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+    "image": {
+      "id": 1015,
+      "alt": null,
+      "updatedAt": "2026-05-27T12:55:03.157Z",
+      "createdAt": "2026-05-27T12:55:03.157Z",
+      "url": "http://localhost:3001/api/media/file/Leena-R-Haldar.png",
+      "thumbnailURL": null,
+      "filename": "Leena-R-Haldar.png",
+      "mimeType": "image/png",
+      "filesize": 417379,
+      "width": 1324,
+      "height": 1188,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Leena R Haldar",
+    "aboutLabel": "About Leena",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da40384211b38f54ed16",
+        "content": "Leena R Haldar has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+      },
+      {
+        "id": "6a16da40384211b38f54ed17",
+        "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+      }
+    ],
+    "credentials": [
+      {
+        "id": "6a16da40384211b38f54ed18",
+        "label": "EFTMRA Trainer"
+      },
+      {
+        "id": "6a16da40384211b38f54ed19",
+        "label": "EFTMRA Certified Practitioner"
+      },
+      {
+        "id": "6a16da40384211b38f54ed1a",
+        "label": "EFTMRA India faculty"
+      }
+    ],
+    "specializations": [
+      {
+        "id": "6a16da40384211b38f54ed1b",
+        "label": "EFT foundations"
+      },
+      {
+        "id": "6a16da40384211b38f54ed1c",
+        "label": "Student practice"
+      },
+      {
+        "id": "6a16da40384211b38f54ed1d",
+        "label": "Emotional wellbeing"
+      },
+      {
+        "id": "6a16da40384211b38f54ed1e",
+        "label": "Professional learning"
+      }
+    ],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 3,
+    "showOnHomepage": true,
+    "slug": "leena-r-haldar",
+    "role": "Master Trainer of Trainers",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T12:55:12.006Z",
+    "createdAt": "2026-05-21T15:37:14.323Z"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Shilpa Gupta",
+    "tagline": "Dr. Shilpa Gupta is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
+    "image": {
+      "id": 1019,
+      "alt": null,
+      "updatedAt": "2026-05-27T13:07:08.033Z",
+      "createdAt": "2026-05-27T13:07:08.033Z",
+      "url": "http://localhost:3001/api/media/file/Shilpa-Gupta.png",
+      "thumbnailURL": null,
+      "filename": "Shilpa-Gupta.png",
+      "mimeType": "image/png",
+      "filesize": 786018,
+      "width": 1254,
+      "height": 1254,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Dr. Shilpa Gupta",
+    "aboutLabel": "About Shilpa",
+    "aboutTitle": "Certified EFTMRA Training with Heart",
+    "philosophy": "Training should be clear, safe, and practical, giving students the confidence to use EFT responsibly in real life.",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da40384211b38f54ed1f",
+        "content": "Dr. Shilpa Gupta has walked the EFT path as a practitioner, learner, and educator committed to passing on high standards of EFT training."
+      },
+      {
+        "id": "6a16da40384211b38f54ed20",
+        "content": "Their work supports EFTMRA India's mission to build a generation of skilled, ethical, and compassionate EFT practitioners across the country."
+      }
+    ],
+    "credentials": [
+      {
+        "id": "6a16da40384211b38f54ed21",
+        "label": "EFTMRA Trainer"
+      },
+      {
+        "id": "6a16da40384211b38f54ed22",
+        "label": "EFTMRA Certified Practitioner"
+      },
+      {
+        "id": "6a16da40384211b38f54ed23",
+        "label": "EFTMRA India faculty"
+      }
+    ],
+    "specializations": [
+      {
+        "id": "6a16da40384211b38f54ed24",
+        "label": "EFT foundations"
+      },
+      {
+        "id": "6a16da40384211b38f54ed25",
+        "label": "Student practice"
+      },
+      {
+        "id": "6a16da40384211b38f54ed26",
+        "label": "Emotional wellbeing"
+      },
+      {
+        "id": "6a16da40384211b38f54ed27",
+        "label": "Professional learning"
+      }
+    ],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 2,
+    "showOnHomepage": true,
+    "slug": "dr-shilpa-gupta",
+    "role": "Master Trainer of Trainers",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T13:07:16.126Z",
+    "createdAt": "2026-05-21T15:37:14.305Z"
+  },
+  {
+    "id": 1,
+    "name": "Mridula Nair",
+    "tagline": "Transforming lives through EFT. Leading India's internationally accredited academy with passion, expertise, and compassion.",
+    "image": {
+      "id": 1004,
+      "alt": null,
+      "updatedAt": "2026-05-18T12:35:06.174Z",
+      "createdAt": "2026-05-18T12:35:06.174Z",
+      "url": "http://localhost:3001/api/media/file/Mridula-Nair.jpeg",
+      "thumbnailURL": null,
+      "filename": "Mridula-Nair.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 103017,
+      "width": 690,
+      "height": 690,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Mridula Nair",
+    "aboutLabel": "About Mridula",
+    "aboutTitle": "A Pioneer in Emotional Healing",
+    "philosophy": "Effective EFT training is not just about techniques. It is about creating a safe, judgment-free space where practitioners can heal themselves while learning to support others with competence and compassion.",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da40384211b38f54ed28",
+        "content": "Mridula Nair is the founder and Head Master Trainer of EFTMRA India, the academy in India authorised by EFTMRA U.K. to certify practitioners to global standards."
+      },
+      {
+        "id": "6a16da40384211b38f54ed29",
+        "content": "Her journey into EFT began as a personal healing practice and evolved into a mission to build skilled, ethical, and compassionate EFT practitioners across India."
+      },
+      {
+        "id": "6a16da40384211b38f54ed2a",
+        "content": "As a Master Trainer and practitioner, Mridula brings technical expertise, lived wisdom, and years of experience working with emotional healing and transformation."
+      }
+    ],
+    "credentials": [
+      {
+        "id": "6a16da40384211b38f54ed2b",
+        "label": "EFTMRA Master Trainer of Trainers"
+      },
+      {
+        "id": "6a16da40384211b38f54ed2c",
+        "label": "EFTMRA Certified Practitioner"
+      },
+      {
+        "id": "6a16da40384211b38f54ed2d",
+        "label": "Matrix Reimprinting Practitioner"
+      },
+      {
+        "id": "6a16da40384211b38f54ed2e",
+        "label": "Postgraduate Diploma in Counselling Psychology"
+      },
+      {
+        "id": "6a16da40384211b38f54ed2f",
+        "label": "Trauma-informed training approach"
+      }
+    ],
+    "specializations": [
+      {
+        "id": "6a16da40384211b38f54ed30",
+        "label": "Trauma & PTSD"
+      },
+      {
+        "id": "6a16da40384211b38f54ed31",
+        "label": "Anxiety & emotional regulation"
+      },
+      {
+        "id": "6a16da40384211b38f54ed32",
+        "label": "Matrix Reimprinting"
+      },
+      {
+        "id": "6a16da40384211b38f54ed33",
+        "label": "Trainer development"
+      }
+    ],
+    "email": "hello@eftmraindia.com",
+    "socialLinks": [
+      {
+        "id": "6a16da40384211b38f54ed34",
+        "platform": "linkedin",
+        "href": "https://www.linkedin.com/in/mridula-nair/"
+      },
+      {
+        "id": "6a16da40384211b38f54ed35",
+        "platform": "facebook",
+        "href": "https://www.facebook.com/MridulaNairEFT"
+      },
+      {
+        "id": "6a16da40384211b38f54ed36",
+        "platform": "instagram",
+        "href": "https://www.instagram.com/redesignedthinking_/"
+      },
+      {
+        "id": "6a16da40384211b38f54ed37",
+        "platform": "youtube",
+        "href": "https://www.youtube.com/channel/UCX3xqCVe5yT36LxuyQRFtxg/featured"
+      }
+    ],
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "status": "published",
+    "displayOrder": 1,
+    "showOnHomepage": true,
+    "slug": "mridula-nair",
+    "role": "Master Trainer of Trainers · Head of EFTMRA India",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:20.074Z",
+    "createdAt": "2026-05-21T15:37:14.280Z"
+  }
+]

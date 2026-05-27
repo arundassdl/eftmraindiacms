@@ -1,0 +1,103 @@
+[
+  {
+    "id": 2,
+    "name": "Untitled Site",
+    "theme": {
+      "preset": "main",
+      "primaryColor": null,
+      "secondaryColor": null,
+      "accentColor": null,
+      "surfaceColor": null,
+      "textColor": null,
+      "mutedColor": null,
+      "radiusBrand": null,
+      "shadowSoft": null,
+      "customTokens": []
+    },
+    "micrositeSubmenu": {
+      "title": null,
+      "icon": "auto",
+      "logoImage": null,
+      "links": []
+    },
+    "footer": {
+      "backgroundColor": null,
+      "textColor": null,
+      "logoText": null,
+      "logoImage": null,
+      "logoHref": null,
+      "tagline": null,
+      "columns": [],
+      "copyrightText": null,
+      "socialLinks": []
+    },
+    "slug": "eftmra-india",
+    "domain": null,
+    "layoutType": "platform-home",
+    "updatedAt": "2026-05-27T11:49:15.651Z",
+    "createdAt": "2026-05-07T15:34:58.248Z"
+  },
+  {
+    "id": 1,
+    "name": "EFTMRA India",
+    "theme": {
+      "preset": "main",
+      "primaryColor": "#4A9DAE",
+      "secondaryColor": "#1A3B4C",
+      "accentColor": "#EFF8FA",
+      "surfaceColor": "#FFFFFF",
+      "textColor": "#1A3B4C",
+      "mutedColor": "#6B8898",
+      "radiusBrand": null,
+      "shadowSoft": null,
+      "customTokens": [
+        {
+          "id": "69f9f108fa2aff1b97cdec8d",
+          "token": "eftmra-midnight",
+          "label": "EFTMRA Midnight",
+          "value": "#1A3B4C"
+        },
+        {
+          "id": "69f9f108fa2aff1b97cdec8e",
+          "token": "eftmra-deep-ocean",
+          "label": "EFTMRA Deep Ocean",
+          "value": "#2B6A7C"
+        },
+        {
+          "id": "69f9f108fa2aff1b97cdec8f",
+          "token": "eftmra-sapphire",
+          "label": "EFTMRA Sapphire",
+          "value": "#4A9DAE"
+        },
+        {
+          "id": "69f9f108fa2aff1b97cdec90",
+          "token": "eftmra-amber",
+          "label": "EFTMRA Amber",
+          "value": "#C9A84C"
+        }
+      ]
+    },
+    "micrositeSubmenu": {
+      "title": "",
+      "icon": "auto",
+      "logoImage": null,
+      "links": []
+    },
+    "footer": {
+      "backgroundColor": null,
+      "textColor": null,
+      "logoText": null,
+      "logoImage": null,
+      "logoHref": null,
+      "tagline": null,
+      "columns": [],
+      "copyrightText": null,
+      "socialLinks": []
+    },
+    "slug": "/",
+    "domain": null,
+    "layoutType": "platform-home",
+    "updatedAt": "2026-05-27T11:49:22.032Z",
+    "createdAt": "2026-04-17T10:38:04.690Z"
+  }
+]

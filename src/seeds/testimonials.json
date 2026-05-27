@@ -1,0 +1,1234 @@
+[
+  {
+    "id": 14,
+    "name": "Divya",
+    "roleLabel": "Psychologist · Mumbai",
+    "quote": null,
+    "rating": 5,
+    "videoUrl": "https://www.eftmraindia.com/wp-content/uploads/2022/08/Divya-EFTMRA-Video-1-1.mp4",
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": {
+      "id": 803,
+      "alt": null,
+      "updatedAt": "2026-04-24T13:43:18.756Z",
+      "createdAt": "2026-04-24T13:43:18.756Z",
+      "url": "http://localhost:3001/api/media/file/Screenshot%20from%202026-04-24%2019-12-13.png",
+      "thumbnailURL": null,
+      "filename": "Screenshot from 2026-04-24 19-12-13.png",
+      "mimeType": "image/png",
+      "filesize": 1114148,
+      "width": 1915,
+      "height": 980,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "thumbnailAlt": "Divya",
+    "slug": "divya",
+    "status": "published",
+    "featured": true,
+    "showOnHomepage": false,
+    "displayOrder": 0,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "video",
+    "updatedAt": "2026-05-27T11:49:19.739Z",
+    "createdAt": "2026-04-23T17:12:40.104Z",
+    "_status": "published"
+  },
+  {
+    "id": 13,
+    "name": "Meera Nambiar",
+    "roleLabel": "EFT Practitioner · Chennai",
+    "quote": "Being listed on the EFTMRA India practitioners directory has genuinely grown my practice. Clients come to me already trusting the credential.",
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "meera-nambiar-written",
+    "status": "published",
+    "featured": false,
+    "showOnHomepage": true,
+    "displayOrder": 6,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "written",
+    "updatedAt": "2026-05-27T11:49:19.756Z",
+    "createdAt": "2026-04-21T15:31:31.627Z",
+    "_status": "published"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Nikhil Sharma",
+    "roleLabel": "General Physician · Mumbai",
+    "quote": "As a doctor, I was sceptical. By the end of Day 2 I was a convert. The scientific basis of EFT is solid, and what I witnessed in the practice room was extraordinary.",
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "dr-nikhil-sharma-written",
+    "status": "published",
+    "featured": false,
+    "showOnHomepage": true,
+    "displayOrder": 5,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "written",
+    "updatedAt": "2026-05-27T11:49:19.767Z",
+    "createdAt": "2026-04-21T15:31:31.621Z",
+    "_status": "published"
+  },
+  {
+    "id": 11,
+    "name": "Kavitha Pillai",
+    "roleLabel": "NLP Coach · Hyderabad",
+    "quote": "I enrolled to help my clients better. I ended up healing myself in the process. Mridula holds the room beautifully. It is safe, deep, and transformational.",
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": {
+      "id": 11,
+      "alt": "Akangsha Bansal",
+      "updatedAt": "2026-04-17T10:38:04.383Z",
+      "createdAt": "2026-04-17T10:38:04.383Z",
+      "url": "http://localhost:3001/api/media/file/Akangsha.webp",
+      "thumbnailURL": null,
+      "filename": "Akangsha.webp",
+      "mimeType": "image/webp",
+      "filesize": 38314,
+      "width": 1080,
+      "height": 1080,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "kavitha-pillai-written",
+    "status": "published",
+    "featured": false,
+    "showOnHomepage": true,
+    "displayOrder": 4,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "written",
+    "updatedAt": "2026-05-27T11:49:19.781Z",
+    "createdAt": "2026-04-21T15:31:31.614Z",
+    "_status": "published"
+  },
+  {
+    "id": 10,
+    "name": "Anjali Desai",
+    "roleLabel": "Clinical Psychologist · Pune",
+    "quote": "The Level 3 advanced training took my practice to a completely different dimension. The depth and rigour here is unmatched by any other training I have attended in India.",
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "anjali-desai-written",
+    "status": "published",
+    "featured": false,
+    "showOnHomepage": false,
+    "displayOrder": 3,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "written",
+    "updatedAt": "2026-05-27T11:49:19.794Z",
+    "createdAt": "2026-04-21T15:31:31.606Z",
+    "_status": "published"
+  },
+  {
+    "id": 9,
+    "name": "Rahul Verma",
+    "roleLabel": "Life Coach · New Delhi",
+    "quote": "I came in as a complete beginner with no therapy background. By Day 3, I was running full tapping sessions on my fellow participants. Mridula is an exceptional trainer.",
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "rahul-verma-written",
+    "status": "published",
+    "featured": false,
+    "showOnHomepage": false,
+    "displayOrder": 2,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "written",
+    "updatedAt": "2026-05-27T11:49:19.805Z",
+    "createdAt": "2026-04-21T15:31:31.599Z",
+    "_status": "published"
+  },
+  {
+    "id": 8,
+    "name": "Priya Mehta",
+    "roleLabel": "Psychologist · Mumbai",
+    "quote": "The Level 1 & 2 training with Mridula completely changed how I work with clients. Within a week of completing the course, I was using EFT in every session.",
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "priya-mehta-written",
+    "status": "published",
+    "featured": false,
+    "showOnHomepage": false,
+    "displayOrder": 1,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "written",
+    "updatedAt": "2026-05-27T11:49:19.820Z",
+    "createdAt": "2026-04-21T15:31:31.592Z",
+    "_status": "published"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Sunita Rao",
+    "roleLabel": "Psychiatrist · Bengaluru",
+    "quote": null,
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "dr-sunita-rao-video",
+    "status": "draft",
+    "featured": false,
+    "showOnHomepage": false,
+    "displayOrder": 7,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "video",
+    "updatedAt": "2026-05-27T11:49:19.840Z",
+    "createdAt": "2026-04-21T15:31:31.586Z",
+    "_status": "draft"
+  },
+  {
+    "id": 6,
+    "name": "Meera Nambiar",
+    "roleLabel": "EFT Practitioner · Chennai",
+    "quote": null,
+    "rating": 5,
+    "videoUrl": "https://www.eftmraindia.com/wp-content/uploads/2022/08/Divya-EFTMRA-Video-1-1.mp4",
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "meera-nambiar-video",
+    "status": "draft",
+    "featured": false,
+    "showOnHomepage": false,
+    "displayOrder": 6,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "video",
+    "updatedAt": "2026-05-27T11:49:19.855Z",
+    "createdAt": "2026-04-21T15:31:31.579Z",
+    "_status": "draft"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Nikhil Sharma",
+    "roleLabel": "General Physician · Mumbai",
+    "quote": null,
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "dr-nikhil-sharma-video",
+    "status": "draft",
+    "featured": false,
+    "showOnHomepage": false,
+    "displayOrder": 5,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "video",
+    "updatedAt": "2026-05-27T11:49:19.869Z",
+    "createdAt": "2026-04-21T15:31:31.572Z",
+    "_status": "draft"
+  },
+  {
+    "id": 4,
+    "name": "Kavitha Pillai",
+    "roleLabel": "NLP Coach · Hyderabad",
+    "quote": null,
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": {
+      "id": 43,
+      "alt": "EFT Tapping Points Diagram",
+      "updatedAt": "2026-04-21T16:00:40.366Z",
+      "createdAt": "2026-04-21T16:00:40.366Z",
+      "url": "http://localhost:3001/api/media/file/EFT%20tappings%20body%20points%20(1)-4.png",
+      "thumbnailURL": null,
+      "filename": "EFT tappings body points (1)-4.png",
+      "mimeType": "image/png",
+      "filesize": 750272,
+      "width": 1224,
+      "height": 864,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "thumbnailImage": {
+      "id": 43,
+      "alt": "EFT Tapping Points Diagram",
+      "updatedAt": "2026-04-21T16:00:40.366Z",
+      "createdAt": "2026-04-21T16:00:40.366Z",
+      "url": "http://localhost:3001/api/media/file/EFT%20tappings%20body%20points%20(1)-4.png",
+      "thumbnailURL": null,
+      "filename": "EFT tappings body points (1)-4.png",
+      "mimeType": "image/png",
+      "filesize": 750272,
+      "width": 1224,
+      "height": 864,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "thumbnailAlt": null,
+    "slug": "kavitha-pillai-video",
+    "status": "draft",
+    "featured": false,
+    "showOnHomepage": false,
+    "displayOrder": 4,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "video",
+    "updatedAt": "2026-05-27T11:49:19.881Z",
+    "createdAt": "2026-04-21T15:31:31.564Z",
+    "_status": "draft"
+  },
+  {
+    "id": 3,
+    "name": "Anjali Desai",
+    "roleLabel": "Clinical Psychologist · Pune",
+    "quote": null,
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "anjali-desai-video",
+    "status": "draft",
+    "featured": false,
+    "showOnHomepage": false,
+    "displayOrder": 3,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "video",
+    "updatedAt": "2026-05-27T11:49:19.890Z",
+    "createdAt": "2026-04-21T15:31:31.556Z",
+    "_status": "draft"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "roleLabel": "Life Coach · New Delhi",
+    "quote": null,
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "rahul-verma-video",
+    "status": "draft",
+    "featured": false,
+    "showOnHomepage": false,
+    "displayOrder": 2,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "video",
+    "updatedAt": "2026-05-27T11:49:19.902Z",
+    "createdAt": "2026-04-21T15:31:31.549Z",
+    "_status": "draft"
+  },
+  {
+    "id": 1,
+    "name": "Priya Mehta",
+    "roleLabel": "Psychologist · Mumbai",
+    "quote": null,
+    "rating": 5,
+    "videoUrl": null,
+    "videoLabel": "Video testimonials coming soon",
+    "authorImage": null,
+    "thumbnailImage": null,
+    "thumbnailAlt": null,
+    "slug": "priya-mehta-video",
+    "status": "draft",
+    "featured": true,
+    "showOnHomepage": false,
+    "displayOrder": 1,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "type": "video",
+    "updatedAt": "2026-05-27T11:49:19.914Z",
+    "createdAt": "2026-04-21T15:31:31.541Z",
+    "_status": "draft"
+  }
+]

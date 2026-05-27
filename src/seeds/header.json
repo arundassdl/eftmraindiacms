@@ -1,0 +1,122 @@
+{
+  "id": 1,
+  "logoText": "EFTMRA India",
+  "logoImage": {
+    "id": 999,
+    "alt": null,
+    "updatedAt": "2026-05-11T08:54:26.672Z",
+    "createdAt": "2026-05-11T08:54:26.672Z",
+    "url": "http://localhost:3001/api/media/file/eftmraindia-logo-1.png",
+    "thumbnailURL": null,
+    "filename": "eftmraindia-logo-1.png",
+    "mimeType": "image/png",
+    "filesize": 868812,
+    "width": 6010,
+    "height": 1482,
+    "focalX": 50,
+    "focalY": 50
+  },
+  "logoSubtitle": "",
+  "logoHref": "/",
+  "cta": {
+    "label": "",
+    "href": ""
+  },
+  "menuItems": [
+    {
+      "id": "69ef05b3235078a98486d47d",
+      "label": "Home",
+      "href": "/",
+      "description": null,
+      "subItems": [],
+      "submenuCTA": {
+        "label": null,
+        "href": null
+      }
+    },
+    {
+      "id": "69ef05b3235078a98486d47e",
+      "label": "Trainings & Events",
+      "href": "/trainings-and-events",
+      "description": null,
+      "subItems": [],
+      "submenuCTA": {
+        "label": null,
+        "href": null
+      }
+    },
+    {
+      "id": "69ef05b3235078a98486d47f",
+      "label": "Practitioners",
+      "href": "/practitioners",
+      "description": null,
+      "subItems": [],
+      "submenuCTA": {
+        "label": null,
+        "href": null
+      }
+    },
+    {
+      "id": "69ef05b3235078a98486d482",
+      "label": "About EFTMRA",
+      "href": "#",
+      "description": null,
+      "subItems": [
+        {
+          "id": "69ef05b3235078a98486d480",
+          "label": "About Us",
+          "href": "/about",
+          "description": null
+        },
+        {
+          "id": "69ef05b3235078a98486d481",
+          "label": "Testimonials",
+          "href": "/testimonials",
+          "description": null
+        }
+      ],
+      "submenuCTA": {
+        "label": null,
+        "href": null
+      }
+    },
+    {
+      "id": "69ef05b3235078a98486d484",
+      "label": "Resources",
+      "href": "#",
+      "description": null,
+      "subItems": [
+        {
+          "id": "69ef05b3235078a98486d483",
+          "label": "Blog",
+          "href": "/blog",
+          "description": null
+        },
+        {
+          "id": "69ef7ef3379f403f760b3397",
+          "label": "Gallery",
+          "href": "/gallery",
+          "description": null
+        }
+      ],
+      "submenuCTA": {
+        "label": null,
+        "href": null
+      }
+    },
+    {
+      "id": "69ef05b3235078a98486d485",
+      "label": "Contact Us",
+      "href": "/contact",
+      "description": null,
+      "subItems": [],
+      "submenuCTA": {
+        "label": null,
+        "href": null
+      }
+    }
+  ],
+  "updatedAt": "2026-05-27T11:49:20.314Z",
+  "createdAt": "2026-04-17T10:50:28.779Z",
+  "globalType": "header"
+}

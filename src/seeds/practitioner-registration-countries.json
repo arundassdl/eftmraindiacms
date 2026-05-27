@@ -1,0 +1,1012 @@
+[
+  {
+    "id": 1,
+    "label": "India",
+    "value": "India",
+    "enabled": true,
+    "sortOrder": 1,
+    "timezoneLabel": "India Standard Time (IST, UTC+5:30)",
+    "timezoneValue": "Asia/Kolkata",
+    "currencySymbol": "₹",
+    "currencyCode": "INR",
+    "states": [
+      {
+        "id": "india-andhra-pradesh",
+        "label": "Andhra Pradesh",
+        "value": "Andhra Pradesh"
+      },
+      {
+        "id": "india-arunachal-pradesh",
+        "label": "Arunachal Pradesh",
+        "value": "Arunachal Pradesh"
+      },
+      {
+        "id": "india-assam",
+        "label": "Assam",
+        "value": "Assam"
+      },
+      {
+        "id": "india-bihar",
+        "label": "Bihar",
+        "value": "Bihar"
+      },
+      {
+        "id": "india-chhattisgarh",
+        "label": "Chhattisgarh",
+        "value": "Chhattisgarh"
+      },
+      {
+        "id": "india-delhi",
+        "label": "Delhi",
+        "value": "Delhi"
+      },
+      {
+        "id": "india-goa",
+        "label": "Goa",
+        "value": "Goa"
+      },
+      {
+        "id": "india-gujarat",
+        "label": "Gujarat",
+        "value": "Gujarat"
+      },
+      {
+        "id": "india-haryana",
+        "label": "Haryana",
+        "value": "Haryana"
+      },
+      {
+        "id": "india-himachal-pradesh",
+        "label": "Himachal Pradesh",
+        "value": "Himachal Pradesh"
+      },
+      {
+        "id": "india-jharkhand",
+        "label": "Jharkhand",
+        "value": "Jharkhand"
+      },
+      {
+        "id": "india-karnataka",
+        "label": "Karnataka",
+        "value": "Karnataka"
+      },
+      {
+        "id": "india-kerala",
+        "label": "Kerala",
+        "value": "Kerala"
+      },
+      {
+        "id": "india-madhya-pradesh",
+        "label": "Madhya Pradesh",
+        "value": "Madhya Pradesh"
+      },
+      {
+        "id": "india-maharashtra",
+        "label": "Maharashtra",
+        "value": "Maharashtra"
+      },
+      {
+        "id": "india-manipur",
+        "label": "Manipur",
+        "value": "Manipur"
+      },
+      {
+        "id": "india-meghalaya",
+        "label": "Meghalaya",
+        "value": "Meghalaya"
+      },
+      {
+        "id": "india-mizoram",
+        "label": "Mizoram",
+        "value": "Mizoram"
+      },
+      {
+        "id": "india-nagaland",
+        "label": "Nagaland",
+        "value": "Nagaland"
+      },
+      {
+        "id": "india-odisha",
+        "label": "Odisha",
+        "value": "Odisha"
+      },
+      {
+        "id": "india-punjab",
+        "label": "Punjab",
+        "value": "Punjab"
+      },
+      {
+        "id": "india-rajasthan",
+        "label": "Rajasthan",
+        "value": "Rajasthan"
+      },
+      {
+        "id": "india-sikkim",
+        "label": "Sikkim",
+        "value": "Sikkim"
+      },
+      {
+        "id": "india-tamil-nadu",
+        "label": "Tamil Nadu",
+        "value": "Tamil Nadu"
+      },
+      {
+        "id": "india-telangana",
+        "label": "Telangana",
+        "value": "Telangana"
+      },
+      {
+        "id": "india-tripura",
+        "label": "Tripura",
+        "value": "Tripura"
+      },
+      {
+        "id": "india-uttar-pradesh",
+        "label": "Uttar Pradesh",
+        "value": "Uttar Pradesh"
+      },
+      {
+        "id": "india-uttarakhand",
+        "label": "Uttarakhand",
+        "value": "Uttarakhand"
+      },
+      {
+        "id": "india-west-bengal",
+        "label": "West Bengal",
+        "value": "West Bengal"
+      },
+      {
+        "id": "india-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 2,
+    "label": "United Arab Emirates",
+    "value": "United Arab Emirates",
+    "enabled": true,
+    "sortOrder": 2,
+    "timezoneLabel": "Gulf Standard Time (GST, UTC+4:00)",
+    "timezoneValue": "Asia/Dubai",
+    "currencySymbol": "د.إ",
+    "currencyCode": "AED",
+    "states": [
+      {
+        "id": "united-arab-emirates-abu-dhabi",
+        "label": "Abu Dhabi",
+        "value": "Abu Dhabi"
+      },
+      {
+        "id": "united-arab-emirates-ajman",
+        "label": "Ajman",
+        "value": "Ajman"
+      },
+      {
+        "id": "united-arab-emirates-dubai",
+        "label": "Dubai",
+        "value": "Dubai"
+      },
+      {
+        "id": "united-arab-emirates-fujairah",
+        "label": "Fujairah",
+        "value": "Fujairah"
+      },
+      {
+        "id": "united-arab-emirates-ras-al-khaimah",
+        "label": "Ras Al Khaimah",
+        "value": "Ras Al Khaimah"
+      },
+      {
+        "id": "united-arab-emirates-sharjah",
+        "label": "Sharjah",
+        "value": "Sharjah"
+      },
+      {
+        "id": "united-arab-emirates-umm-al-quwain",
+        "label": "Umm Al Quwain",
+        "value": "Umm Al Quwain"
+      },
+      {
+        "id": "united-arab-emirates-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 3,
+    "label": "Saudi Arabia",
+    "value": "Saudi Arabia",
+    "enabled": true,
+    "sortOrder": 3,
+    "timezoneLabel": "Arabia Standard Time (AST, UTC+3:00)",
+    "timezoneValue": "Asia/Riyadh",
+    "currencySymbol": "﷼",
+    "currencyCode": "SAR",
+    "states": [
+      {
+        "id": "saudi-arabia-al-madinah",
+        "label": "Al Madinah",
+        "value": "Al Madinah"
+      },
+      {
+        "id": "saudi-arabia-al-qassim",
+        "label": "Al Qassim",
+        "value": "Al Qassim"
+      },
+      {
+        "id": "saudi-arabia-eastern-province",
+        "label": "Eastern Province",
+        "value": "Eastern Province"
+      },
+      {
+        "id": "saudi-arabia-hail",
+        "label": "Hail",
+        "value": "Hail"
+      },
+      {
+        "id": "saudi-arabia-jazan",
+        "label": "Jazan",
+        "value": "Jazan"
+      },
+      {
+        "id": "saudi-arabia-makkah",
+        "label": "Makkah",
+        "value": "Makkah"
+      },
+      {
+        "id": "saudi-arabia-najran",
+        "label": "Najran",
+        "value": "Najran"
+      },
+      {
+        "id": "saudi-arabia-northern-borders",
+        "label": "Northern Borders",
+        "value": "Northern Borders"
+      },
+      {
+        "id": "saudi-arabia-riyadh",
+        "label": "Riyadh",
+        "value": "Riyadh"
+      },
+      {
+        "id": "saudi-arabia-tabuk",
+        "label": "Tabuk",
+        "value": "Tabuk"
+      },
+      {
+        "id": "saudi-arabia-al-bahah",
+        "label": "Al Bahah",
+        "value": "Al Bahah"
+      },
+      {
+        "id": "saudi-arabia-asir",
+        "label": "Asir",
+        "value": "Asir"
+      },
+      {
+        "id": "saudi-arabia-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 4,
+    "label": "Qatar",
+    "value": "Qatar",
+    "enabled": true,
+    "sortOrder": 4,
+    "timezoneLabel": "Arabia Standard Time (AST, UTC+3:00)",
+    "timezoneValue": "Asia/Qatar",
+    "currencySymbol": "ر.ق",
+    "currencyCode": "QAR",
+    "states": [
+      {
+        "id": "qatar-al-doha",
+        "label": "Al Doha",
+        "value": "Al Doha"
+      },
+      {
+        "id": "qatar-al-khor",
+        "label": "Al Khor",
+        "value": "Al Khor"
+      },
+      {
+        "id": "qatar-al-rayyan",
+        "label": "Al Rayyan",
+        "value": "Al Rayyan"
+      },
+      {
+        "id": "qatar-al-shamal",
+        "label": "Al Shamal",
+        "value": "Al Shamal"
+      },
+      {
+        "id": "qatar-al-wakrah",
+        "label": "Al Wakrah",
+        "value": "Al Wakrah"
+      },
+      {
+        "id": "qatar-ash-shahaniyah",
+        "label": "Ash Shahaniyah",
+        "value": "Ash Shahaniyah"
+      },
+      {
+        "id": "qatar-dukhan",
+        "label": "Dukhan",
+        "value": "Dukhan"
+      },
+      {
+        "id": "qatar-mesaieed",
+        "label": "Mesaieed",
+        "value": "Mesaieed"
+      },
+      {
+        "id": "qatar-umm-salal",
+        "label": "Umm Salal",
+        "value": "Umm Salal"
+      },
+      {
+        "id": "qatar-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 5,
+    "label": "Bahrain",
+    "value": "Bahrain",
+    "enabled": true,
+    "sortOrder": 5,
+    "timezoneLabel": "Arabia Standard Time (AST, UTC+3:00)",
+    "timezoneValue": "Asia/Bahrain",
+    "currencySymbol": ".د.ب",
+    "currencyCode": "BHD",
+    "states": [
+      {
+        "id": "bahrain-capital",
+        "label": "Capital",
+        "value": "Capital"
+      },
+      {
+        "id": "bahrain-muharraq",
+        "label": "Muharraq",
+        "value": "Muharraq"
+      },
+      {
+        "id": "bahrain-northern",
+        "label": "Northern",
+        "value": "Northern"
+      },
+      {
+        "id": "bahrain-southern",
+        "label": "Southern",
+        "value": "Southern"
+      },
+      {
+        "id": "bahrain-western",
+        "label": "Western",
+        "value": "Western"
+      },
+      {
+        "id": "bahrain-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 6,
+    "label": "Oman",
+    "value": "Oman",
+    "enabled": true,
+    "sortOrder": 6,
+    "timezoneLabel": "Gulf Standard Time (GST, UTC+4:00)",
+    "timezoneValue": "Asia/Muscat",
+    "currencySymbol": "ر.ع.",
+    "currencyCode": "OMR",
+    "states": [
+      {
+        "id": "oman-ad-dakhiliyah",
+        "label": "Ad Dakhiliyah",
+        "value": "Ad Dakhiliyah"
+      },
+      {
+        "id": "oman-ad-dhahirah",
+        "label": "Ad Dhahirah",
+        "value": "Ad Dhahirah"
+      },
+      {
+        "id": "oman-al-buraimi",
+        "label": "Al Buraimi",
+        "value": "Al Buraimi"
+      },
+      {
+        "id": "oman-al-sharqiyah-north",
+        "label": "Al Sharqiyah North",
+        "value": "Al Sharqiyah North"
+      },
+      {
+        "id": "oman-al-sharqiyah-south",
+        "label": "Al Sharqiyah South",
+        "value": "Al Sharqiyah South"
+      },
+      {
+        "id": "oman-dhofar",
+        "label": "Dhofar",
+        "value": "Dhofar"
+      },
+      {
+        "id": "oman-janub-al-batinah",
+        "label": "Janub al Batinah",
+        "value": "Janub al Batinah"
+      },
+      {
+        "id": "oman-musandam",
+        "label": "Musandam",
+        "value": "Musandam"
+      },
+      {
+        "id": "oman-muscat",
+        "label": "Muscat",
+        "value": "Muscat"
+      },
+      {
+        "id": "oman-shamal-al-batinah",
+        "label": "Shamal al Batinah",
+        "value": "Shamal al Batinah"
+      },
+      {
+        "id": "oman-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 7,
+    "label": "Kuwait",
+    "value": "Kuwait",
+    "enabled": true,
+    "sortOrder": 7,
+    "timezoneLabel": "Arabia Standard Time (AST, UTC+3:00)",
+    "timezoneValue": "Asia/Kuwait",
+    "currencySymbol": "د.ك",
+    "currencyCode": "KWD",
+    "states": [
+      {
+        "id": "kuwait-al-ahmadi",
+        "label": "Al Ahmadi",
+        "value": "Al Ahmadi"
+      },
+      {
+        "id": "kuwait-al-farwaniyah",
+        "label": "Al Farwaniyah",
+        "value": "Al Farwaniyah"
+      },
+      {
+        "id": "kuwait-al-jahra",
+        "label": "Al Jahra",
+        "value": "Al Jahra"
+      },
+      {
+        "id": "kuwait-al-kuwayt",
+        "label": "Al Kuwayt",
+        "value": "Al Kuwayt"
+      },
+      {
+        "id": "kuwait-al-salimiyah",
+        "label": "Al Salimiyah",
+        "value": "Al Salimiyah"
+      },
+      {
+        "id": "kuwait-hawalli",
+        "label": "Hawalli",
+        "value": "Hawalli"
+      },
+      {
+        "id": "kuwait-mubarak-al-kabeer",
+        "label": "Mubarak Al Kabeer",
+        "value": "Mubarak Al Kabeer"
+      },
+      {
+        "id": "kuwait-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 8,
+    "label": "United States",
+    "value": "United States",
+    "enabled": true,
+    "sortOrder": 8,
+    "timezoneLabel": "Eastern Time (ET, UTC-5:00)",
+    "timezoneValue": "America/New_York",
+    "currencySymbol": "$",
+    "currencyCode": "USD",
+    "states": [
+      {
+        "id": "united-states-alabama",
+        "label": "Alabama",
+        "value": "Alabama"
+      },
+      {
+        "id": "united-states-alaska",
+        "label": "Alaska",
+        "value": "Alaska"
+      },
+      {
+        "id": "united-states-arizona",
+        "label": "Arizona",
+        "value": "Arizona"
+      },
+      {
+        "id": "united-states-arkansas",
+        "label": "Arkansas",
+        "value": "Arkansas"
+      },
+      {
+        "id": "united-states-california",
+        "label": "California",
+        "value": "California"
+      },
+      {
+        "id": "united-states-colorado",
+        "label": "Colorado",
+        "value": "Colorado"
+      },
+      {
+        "id": "united-states-connecticut",
+        "label": "Connecticut",
+        "value": "Connecticut"
+      },
+      {
+        "id": "united-states-delaware",
+        "label": "Delaware",
+        "value": "Delaware"
+      },
+      {
+        "id": "united-states-florida",
+        "label": "Florida",
+        "value": "Florida"
+      },
+      {
+        "id": "united-states-georgia",
+        "label": "Georgia",
+        "value": "Georgia"
+      },
+      {
+        "id": "united-states-hawaii",
+        "label": "Hawaii",
+        "value": "Hawaii"
+      },
+      {
+        "id": "united-states-idaho",
+        "label": "Idaho",
+        "value": "Idaho"
+      },
+      {
+        "id": "united-states-illinois",
+        "label": "Illinois",
+        "value": "Illinois"
+      },
+      {
+        "id": "united-states-indiana",
+        "label": "Indiana",
+        "value": "Indiana"
+      },
+      {
+        "id": "united-states-iowa",
+        "label": "Iowa",
+        "value": "Iowa"
+      },
+      {
+        "id": "united-states-kansas",
+        "label": "Kansas",
+        "value": "Kansas"
+      },
+      {
+        "id": "united-states-kentucky",
+        "label": "Kentucky",
+        "value": "Kentucky"
+      },
+      {
+        "id": "united-states-louisiana",
+        "label": "Louisiana",
+        "value": "Louisiana"
+      },
+      {
+        "id": "united-states-maine",
+        "label": "Maine",
+        "value": "Maine"
+      },
+      {
+        "id": "united-states-maryland",
+        "label": "Maryland",
+        "value": "Maryland"
+      },
+      {
+        "id": "united-states-massachusetts",
+        "label": "Massachusetts",
+        "value": "Massachusetts"
+      },
+      {
+        "id": "united-states-michigan",
+        "label": "Michigan",
+        "value": "Michigan"
+      },
+      {
+        "id": "united-states-minnesota",
+        "label": "Minnesota",
+        "value": "Minnesota"
+      },
+      {
+        "id": "united-states-mississippi",
+        "label": "Mississippi",
+        "value": "Mississippi"
+      },
+      {
+        "id": "united-states-missouri",
+        "label": "Missouri",
+        "value": "Missouri"
+      },
+      {
+        "id": "united-states-montana",
+        "label": "Montana",
+        "value": "Montana"
+      },
+      {
+        "id": "united-states-nebraska",
+        "label": "Nebraska",
+        "value": "Nebraska"
+      },
+      {
+        "id": "united-states-nevada",
+        "label": "Nevada",
+        "value": "Nevada"
+      },
+      {
+        "id": "united-states-new-hampshire",
+        "label": "New Hampshire",
+        "value": "New Hampshire"
+      },
+      {
+        "id": "united-states-new-jersey",
+        "label": "New Jersey",
+        "value": "New Jersey"
+      },
+      {
+        "id": "united-states-new-mexico",
+        "label": "New Mexico",
+        "value": "New Mexico"
+      },
+      {
+        "id": "united-states-new-york",
+        "label": "New York",
+        "value": "New York"
+      },
+      {
+        "id": "united-states-north-carolina",
+        "label": "North Carolina",
+        "value": "North Carolina"
+      },
+      {
+        "id": "united-states-north-dakota",
+        "label": "North Dakota",
+        "value": "North Dakota"
+      },
+      {
+        "id": "united-states-ohio",
+        "label": "Ohio",
+        "value": "Ohio"
+      },
+      {
+        "id": "united-states-oklahoma",
+        "label": "Oklahoma",
+        "value": "Oklahoma"
+      },
+      {
+        "id": "united-states-oregon",
+        "label": "Oregon",
+        "value": "Oregon"
+      },
+      {
+        "id": "united-states-pennsylvania",
+        "label": "Pennsylvania",
+        "value": "Pennsylvania"
+      },
+      {
+        "id": "united-states-rhode-island",
+        "label": "Rhode Island",
+        "value": "Rhode Island"
+      },
+      {
+        "id": "united-states-south-carolina",
+        "label": "South Carolina",
+        "value": "South Carolina"
+      },
+      {
+        "id": "united-states-south-dakota",
+        "label": "South Dakota",
+        "value": "South Dakota"
+      },
+      {
+        "id": "united-states-tennessee",
+        "label": "Tennessee",
+        "value": "Tennessee"
+      },
+      {
+        "id": "united-states-texas",
+        "label": "Texas",
+        "value": "Texas"
+      },
+      {
+        "id": "united-states-utah",
+        "label": "Utah",
+        "value": "Utah"
+      },
+      {
+        "id": "united-states-vermont",
+        "label": "Vermont",
+        "value": "Vermont"
+      },
+      {
+        "id": "united-states-virginia",
+        "label": "Virginia",
+        "value": "Virginia"
+      },
+      {
+        "id": "united-states-washington",
+        "label": "Washington",
+        "value": "Washington"
+      },
+      {
+        "id": "united-states-west-virginia",
+        "label": "West Virginia",
+        "value": "West Virginia"
+      },
+      {
+        "id": "united-states-wisconsin",
+        "label": "Wisconsin",
+        "value": "Wisconsin"
+      },
+      {
+        "id": "united-states-wyoming",
+        "label": "Wyoming",
+        "value": "Wyoming"
+      },
+      {
+        "id": "united-states-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 9,
+    "label": "Canada",
+    "value": "Canada",
+    "enabled": true,
+    "sortOrder": 9,
+    "timezoneLabel": "Eastern Time (Canada, UTC-5:00)",
+    "timezoneValue": "America/Toronto",
+    "currencySymbol": "$",
+    "currencyCode": "CAD",
+    "states": [
+      {
+        "id": "canada-alberta",
+        "label": "Alberta",
+        "value": "Alberta"
+      },
+      {
+        "id": "canada-british-columbia",
+        "label": "British Columbia",
+        "value": "British Columbia"
+      },
+      {
+        "id": "canada-manitoba",
+        "label": "Manitoba",
+        "value": "Manitoba"
+      },
+      {
+        "id": "canada-new-brunswick",
+        "label": "New Brunswick",
+        "value": "New Brunswick"
+      },
+      {
+        "id": "canada-newfoundland-and-labrador",
+        "label": "Newfoundland and Labrador",
+        "value": "Newfoundland and Labrador"
+      },
+      {
+        "id": "canada-northwest-territories",
+        "label": "Northwest Territories",
+        "value": "Northwest Territories"
+      },
+      {
+        "id": "canada-nova-scotia",
+        "label": "Nova Scotia",
+        "value": "Nova Scotia"
+      },
+      {
+        "id": "canada-nunavut",
+        "label": "Nunavut",
+        "value": "Nunavut"
+      },
+      {
+        "id": "canada-ontario",
+        "label": "Ontario",
+        "value": "Ontario"
+      },
+      {
+        "id": "canada-prince-edward-island",
+        "label": "Prince Edward Island",
+        "value": "Prince Edward Island"
+      },
+      {
+        "id": "canada-quebec",
+        "label": "Quebec",
+        "value": "Quebec"
+      },
+      {
+        "id": "canada-saskatchewan",
+        "label": "Saskatchewan",
+        "value": "Saskatchewan"
+      },
+      {
+        "id": "canada-yukon",
+        "label": "Yukon",
+        "value": "Yukon"
+      },
+      {
+        "id": "canada-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 10,
+    "label": "United Kingdom",
+    "value": "United Kingdom",
+    "enabled": true,
+    "sortOrder": 10,
+    "timezoneLabel": "Greenwich Mean Time (GMT, UTC+0:00)",
+    "timezoneValue": "Europe/London",
+    "currencySymbol": "£",
+    "currencyCode": "GBP",
+    "states": [
+      {
+        "id": "united-kingdom-england",
+        "label": "England",
+        "value": "England"
+      },
+      {
+        "id": "united-kingdom-scotland",
+        "label": "Scotland",
+        "value": "Scotland"
+      },
+      {
+        "id": "united-kingdom-wales",
+        "label": "Wales",
+        "value": "Wales"
+      },
+      {
+        "id": "united-kingdom-northern-ireland",
+        "label": "Northern Ireland",
+        "value": "Northern Ireland"
+      },
+      {
+        "id": "united-kingdom-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 11,
+    "label": "Australia",
+    "value": "Australia",
+    "enabled": true,
+    "sortOrder": 11,
+    "timezoneLabel": "Australian Eastern Time (AET, UTC+10:00)",
+    "timezoneValue": "Australia/Sydney",
+    "currencySymbol": "$",
+    "currencyCode": "AUD",
+    "states": [
+      {
+        "id": "australia-new-south-wales",
+        "label": "New South Wales",
+        "value": "New South Wales"
+      },
+      {
+        "id": "australia-queensland",
+        "label": "Queensland",
+        "value": "Queensland"
+      },
+      {
+        "id": "australia-south-australia",
+        "label": "South Australia",
+        "value": "South Australia"
+      },
+      {
+        "id": "australia-tasmania",
+        "label": "Tasmania",
+        "value": "Tasmania"
+      },
+      {
+        "id": "australia-victoria",
+        "label": "Victoria",
+        "value": "Victoria"
+      },
+      {
+        "id": "australia-western-australia",
+        "label": "Western Australia",
+        "value": "Western Australia"
+      },
+      {
+        "id": "australia-australian-capital-territory",
+        "label": "Australian Capital Territory",
+        "value": "Australian Capital Territory"
+      },
+      {
+        "id": "australia-northern-territory",
+        "label": "Northern Territory",
+        "value": "Northern Territory"
+      },
+      {
+        "id": "australia-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 12,
+    "label": "Other",
+    "value": "Other",
+    "enabled": true,
+    "sortOrder": 12,
+    "timezoneLabel": "Coordinated Universal Time (UTC)",
+    "timezoneValue": "UTC",
+    "currencySymbol": "$",
+    "currencyCode": "USD",
+    "states": [
+      {
+        "id": "other-other",
+        "label": "Other",
+        "value": "Other"
+      }
+    ],
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  }
+]

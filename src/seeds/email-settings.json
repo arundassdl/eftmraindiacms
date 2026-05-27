@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "enabled": true,
+  "resendApiKey": "re_PQqRfETY_F9LTyEBbiKiA3WfF8V8dTfah",
+  "fromName": "EFTMRA India",
+  "fromEmail": "arundas.sdl@gmail.com",
+  "eftmraIndiaEmail": "arundas.sdl@gmail.com",
+  "practitionerNotificationSubject": "New practitioner contact request: {{practitionerName}}",
+  "requesterConfirmationSubject": "Contact details for {{practitionerName}}",
+  "requesterIntro": "Thank you for contacting {{practitionerName}}.",
+  "practitionerIntro": "New contact request for {{practitionerName}}.",
+  "updatedAt": "2026-05-26T10:05:55.842Z",
+  "createdAt": "2026-05-26T09:54:30.492Z",
+  "globalType": "email-settings"
+}

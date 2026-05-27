@@ -1,0 +1,59 @@
+[
+  {
+    "id": 16,
+    "name": "Mohan",
+    "roleSelection": {
+      "id": 4,
+      "label": "Site Admin",
+      "value": "siteadmin",
+      "active": true,
+      "sortOrder": 30,
+      "description": null,
+      "updatedAt": "2026-05-16T06:56:11.864Z",
+      "createdAt": "2026-05-16T06:56:11.864Z"
+    },
+    "role": "siteadmin",
+    "updatedAt": "2026-05-19T10:55:23.559Z",
+    "createdAt": "2026-05-16T10:32:37.410Z",
+    "email": "moknair@gmail.com",
+    "sessions": [
+      {
+        "id": "f4e3ad84-3686-484f-8161-40a6f2373e92",
+        "createdAt": "2026-05-19T10:55:23.551Z",
+        "expiresAt": "2026-05-19T12:55:23.551Z"
+      },
+      {
+        "id": "c94158cb-05c7-4e01-bd19-baeb61d01a4a",
+        "createdAt": "2026-05-19T10:55:36.126Z",
+        "expiresAt": "2026-05-19T12:55:36.126Z"
+      }
+    ],
+    "collection": "users"
+  },
+  {
+    "id": 15,
+    "name": "EFTMRA Admin",
+    "roleSelection": {
+      "id": 1,
+      "label": "Super Admin",
+      "value": "superadmin",
+      "active": true,
+      "sortOrder": 50,
+      "description": null,
+      "updatedAt": "2026-05-16T07:06:34.851Z",
+      "createdAt": "2026-05-16T06:41:38.257Z"
+    },
+    "role": "superadmin",
+    "updatedAt": "2026-05-16T07:06:35.000Z",
+    "createdAt": "2026-05-16T07:06:34.999Z",
+    "email": "pm@socialdnalabs.com",
+    "sessions": [
+      {
+        "id": "aab57372-a467-4ee6-9a95-6347aefd985f",
+        "createdAt": "2026-05-27T11:13:31.758Z",
+        "expiresAt": "2026-05-27T13:13:31.758Z"
+      }
+    ],
+    "collection": "users"
+  }
+]

@@ -1,0 +1,996 @@
+[
+  {
+    "id": 4,
+    "authorName": "Arundas",
+    "authorRole": "Chennai",
+    "dateLabel": "April 2026",
+    "quote": "Aditi bhushan is good for teaching",
+    "rating": 5,
+    "status": "published",
+    "displayOrder": 0,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "practitioner": {
+      "id": 6,
+      "name": "Aditi Bhasin",
+      "profileTagline": "Registered Matrix Reimprinting Practitioner with EFTMRA India.",
+      "accent": "deep-teal",
+      "image": {
+        "id": 679,
+        "alt": "Aditi Bhasin",
+        "updatedAt": "2026-04-23T05:29:45.444Z",
+        "createdAt": "2026-04-23T05:29:45.444Z",
+        "url": "http://localhost:3001/api/media/file/aditi-bhasin-img-e1659593965174-5.webp",
+        "thumbnailURL": null,
+        "filename": "aditi-bhasin-img-e1659593965174-5.webp",
+        "mimeType": "image/webp",
+        "filesize": 2650,
+        "width": 150,
+        "height": 200,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "imageAlt": "Aditi Bhasin",
+      "cityLabel": "Online",
+      "cityKey": "online",
+      "state": null,
+      "country": "India",
+      "hours": "10am to 5 pm",
+      "membershipNumber": "1809",
+      "certificationYear": null,
+      "languages": [
+        {
+          "id": "6a16da3f384211b38f54ecc0",
+          "label": "English"
+        }
+      ],
+      "specialties": [
+        {
+          "id": "6a16da3f384211b38f54ecc1",
+          "label": "EFT Practitioners"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecc2",
+          "label": "Matrix Reimprinting Practitioners"
+        }
+      ],
+      "credentials": [
+        {
+          "id": "6a16da3f384211b38f54ecc3",
+          "label": "Matrix Reimprinting Practitioner"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecc4",
+          "label": "EFT Practitioners"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecc5",
+          "label": "Matrix Reimprinting Practitioners"
+        }
+      ],
+      "certificates": [
+        {
+          "id": "6a16da3f384211b38f54ecc6",
+          "title": "Aditi.pdf",
+          "file": {
+            "id": 892,
+            "alt": "Aditi.pdf",
+            "updatedAt": "2026-04-27T08:56:54.808Z",
+            "createdAt": "2026-04-27T08:56:54.808Z",
+            "url": "http://localhost:3001/api/media/file/aditi.pdf",
+            "thumbnailURL": null,
+            "filename": "aditi.pdf",
+            "mimeType": "application/pdf",
+            "filesize": 68807,
+            "width": null,
+            "height": null,
+            "focalX": null,
+            "focalY": null
+          },
+          "sourceUrl": "https://www.eftmraindia.com/wp-content/uploads/2023/07/Aditi.pdf"
+        }
+      ],
+      "email": "aditi@reengineeringemotion.in",
+      "phone": "97989 51510",
+      "whatsapp": "97989 51510",
+      "website": null,
+      "linkedin": null,
+      "instagram": null,
+      "facebook": null,
+      "bio": "Practice address: Online",
+      "approach": null,
+      "submittedReviews": {
+        "docs": [
+          4,
+          3
+        ],
+        "hasNextPage": false
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "image": null
+      },
+      "slug": "aditi-bhasin",
+      "status": "published",
+      "role": "Matrix Reimprinting Practitioner",
+      "showOnHomepage": false,
+      "availabilityMode": "online",
+      "sessionFee": null,
+      "site": {
+        "id": 1,
+        "name": "EFTMRA India",
+        "theme": {
+          "preset": "main",
+          "primaryColor": "#4A9DAE",
+          "secondaryColor": "#1A3B4C",
+          "accentColor": "#EFF8FA",
+          "surfaceColor": "#FFFFFF",
+          "textColor": "#1A3B4C",
+          "mutedColor": "#6B8898",
+          "radiusBrand": null,
+          "shadowSoft": null,
+          "customTokens": [
+            {
+              "id": "69f9f108fa2aff1b97cdec8d",
+              "token": "eftmra-midnight",
+              "label": "EFTMRA Midnight",
+              "value": "#1A3B4C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8e",
+              "token": "eftmra-deep-ocean",
+              "label": "EFTMRA Deep Ocean",
+              "value": "#2B6A7C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8f",
+              "token": "eftmra-sapphire",
+              "label": "EFTMRA Sapphire",
+              "value": "#4A9DAE"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec90",
+              "token": "eftmra-amber",
+              "label": "EFTMRA Amber",
+              "value": "#C9A84C"
+            }
+          ]
+        },
+        "micrositeSubmenu": {
+          "title": "",
+          "icon": "auto",
+          "logoImage": null,
+          "links": []
+        },
+        "footer": {
+          "backgroundColor": null,
+          "textColor": null,
+          "logoText": null,
+          "logoImage": null,
+          "logoHref": null,
+          "tagline": null,
+          "columns": [],
+          "copyrightText": null,
+          "socialLinks": []
+        },
+        "slug": "/",
+        "domain": null,
+        "layoutType": "platform-home",
+        "updatedAt": "2026-05-27T11:49:22.032Z",
+        "createdAt": "2026-04-17T10:38:04.690Z"
+      },
+      "category": "matrix",
+      "categoryKeys": [
+        "eft-practitioner",
+        "matrix"
+      ],
+      "updatedAt": "2026-05-27T11:49:19.295Z",
+      "createdAt": "2026-04-20T09:46:07.864Z"
+    },
+    "updatedAt": "2026-05-27T11:49:19.424Z",
+    "createdAt": "2026-04-23T06:42:24.336Z"
+  },
+  {
+    "id": 3,
+    "authorName": "Arundas",
+    "authorRole": "Mumbai",
+    "dateLabel": "April 2026",
+    "quote": "She is good practitioner",
+    "rating": 5,
+    "status": "published",
+    "displayOrder": 0,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "practitioner": {
+      "id": 6,
+      "name": "Aditi Bhasin",
+      "profileTagline": "Registered Matrix Reimprinting Practitioner with EFTMRA India.",
+      "accent": "deep-teal",
+      "image": {
+        "id": 679,
+        "alt": "Aditi Bhasin",
+        "updatedAt": "2026-04-23T05:29:45.444Z",
+        "createdAt": "2026-04-23T05:29:45.444Z",
+        "url": "http://localhost:3001/api/media/file/aditi-bhasin-img-e1659593965174-5.webp",
+        "thumbnailURL": null,
+        "filename": "aditi-bhasin-img-e1659593965174-5.webp",
+        "mimeType": "image/webp",
+        "filesize": 2650,
+        "width": 150,
+        "height": 200,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "imageAlt": "Aditi Bhasin",
+      "cityLabel": "Online",
+      "cityKey": "online",
+      "state": null,
+      "country": "India",
+      "hours": "10am to 5 pm",
+      "membershipNumber": "1809",
+      "certificationYear": null,
+      "languages": [
+        {
+          "id": "6a16da3f384211b38f54ecc0",
+          "label": "English"
+        }
+      ],
+      "specialties": [
+        {
+          "id": "6a16da3f384211b38f54ecc1",
+          "label": "EFT Practitioners"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecc2",
+          "label": "Matrix Reimprinting Practitioners"
+        }
+      ],
+      "credentials": [
+        {
+          "id": "6a16da3f384211b38f54ecc3",
+          "label": "Matrix Reimprinting Practitioner"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecc4",
+          "label": "EFT Practitioners"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecc5",
+          "label": "Matrix Reimprinting Practitioners"
+        }
+      ],
+      "certificates": [
+        {
+          "id": "6a16da3f384211b38f54ecc6",
+          "title": "Aditi.pdf",
+          "file": {
+            "id": 892,
+            "alt": "Aditi.pdf",
+            "updatedAt": "2026-04-27T08:56:54.808Z",
+            "createdAt": "2026-04-27T08:56:54.808Z",
+            "url": "http://localhost:3001/api/media/file/aditi.pdf",
+            "thumbnailURL": null,
+            "filename": "aditi.pdf",
+            "mimeType": "application/pdf",
+            "filesize": 68807,
+            "width": null,
+            "height": null,
+            "focalX": null,
+            "focalY": null
+          },
+          "sourceUrl": "https://www.eftmraindia.com/wp-content/uploads/2023/07/Aditi.pdf"
+        }
+      ],
+      "email": "aditi@reengineeringemotion.in",
+      "phone": "97989 51510",
+      "whatsapp": "97989 51510",
+      "website": null,
+      "linkedin": null,
+      "instagram": null,
+      "facebook": null,
+      "bio": "Practice address: Online",
+      "approach": null,
+      "submittedReviews": {
+        "docs": [
+          4,
+          3
+        ],
+        "hasNextPage": false
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "image": null
+      },
+      "slug": "aditi-bhasin",
+      "status": "published",
+      "role": "Matrix Reimprinting Practitioner",
+      "showOnHomepage": false,
+      "availabilityMode": "online",
+      "sessionFee": null,
+      "site": {
+        "id": 1,
+        "name": "EFTMRA India",
+        "theme": {
+          "preset": "main",
+          "primaryColor": "#4A9DAE",
+          "secondaryColor": "#1A3B4C",
+          "accentColor": "#EFF8FA",
+          "surfaceColor": "#FFFFFF",
+          "textColor": "#1A3B4C",
+          "mutedColor": "#6B8898",
+          "radiusBrand": null,
+          "shadowSoft": null,
+          "customTokens": [
+            {
+              "id": "69f9f108fa2aff1b97cdec8d",
+              "token": "eftmra-midnight",
+              "label": "EFTMRA Midnight",
+              "value": "#1A3B4C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8e",
+              "token": "eftmra-deep-ocean",
+              "label": "EFTMRA Deep Ocean",
+              "value": "#2B6A7C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8f",
+              "token": "eftmra-sapphire",
+              "label": "EFTMRA Sapphire",
+              "value": "#4A9DAE"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec90",
+              "token": "eftmra-amber",
+              "label": "EFTMRA Amber",
+              "value": "#C9A84C"
+            }
+          ]
+        },
+        "micrositeSubmenu": {
+          "title": "",
+          "icon": "auto",
+          "logoImage": null,
+          "links": []
+        },
+        "footer": {
+          "backgroundColor": null,
+          "textColor": null,
+          "logoText": null,
+          "logoImage": null,
+          "logoHref": null,
+          "tagline": null,
+          "columns": [],
+          "copyrightText": null,
+          "socialLinks": []
+        },
+        "slug": "/",
+        "domain": null,
+        "layoutType": "platform-home",
+        "updatedAt": "2026-05-27T11:49:22.032Z",
+        "createdAt": "2026-04-17T10:38:04.690Z"
+      },
+      "category": "matrix",
+      "categoryKeys": [
+        "eft-practitioner",
+        "matrix"
+      ],
+      "updatedAt": "2026-05-27T11:49:19.295Z",
+      "createdAt": "2026-04-20T09:46:07.864Z"
+    },
+    "updatedAt": "2026-05-27T11:49:19.438Z",
+    "createdAt": "2026-04-23T06:33:04.903Z"
+  },
+  {
+    "id": 2,
+    "authorName": "Rajan T.",
+    "authorRole": null,
+    "dateLabel": "January 2025",
+    "quote": "Aadya creates a grounded, patient space. The sessions felt both evidence-based and deeply human.",
+    "rating": 5,
+    "status": "published",
+    "displayOrder": 2,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "practitioner": {
+      "id": 1,
+      "name": "Aadya Gupta",
+      "profileTagline": "Registered EFT Practitioner with EFTMRA India.",
+      "accent": "deep-teal",
+      "image": {
+        "id": 15,
+        "alt": "Aadya Gupta",
+        "updatedAt": "2026-04-17T10:38:04.442Z",
+        "createdAt": "2026-04-17T10:38:04.442Z",
+        "url": "http://localhost:3001/api/media/file/AadyaGupta1.png",
+        "thumbnailURL": null,
+        "filename": "AadyaGupta1.png",
+        "mimeType": "image/png",
+        "filesize": 400432,
+        "width": 509,
+        "height": 363,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "imageAlt": "Aadya Gupta",
+      "cityLabel": "Online",
+      "cityKey": "online",
+      "state": null,
+      "country": "India",
+      "hours": "1pm - 7pm",
+      "membershipNumber": "4220",
+      "certificationYear": null,
+      "languages": [
+        {
+          "id": "6a16da3f384211b38f54ecdb",
+          "label": "English"
+        }
+      ],
+      "specialties": [
+        {
+          "id": "6a16da3f384211b38f54ecdc",
+          "label": "EFT Practitioners"
+        }
+      ],
+      "credentials": [
+        {
+          "id": "6a16da3f384211b38f54ecdd",
+          "label": "EFT Practitioner"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecde",
+          "label": "EFT Practitioners"
+        }
+      ],
+      "certificates": [
+        {
+          "id": "6a16da3f384211b38f54ecdf",
+          "title": "EFT Practitioner Certificate",
+          "file": {
+            "id": 839,
+            "alt": "Aadya Gupta certificate",
+            "updatedAt": "2026-04-27T07:33:19.107Z",
+            "createdAt": "2026-04-27T07:33:19.104Z",
+            "url": "http://localhost:3001/api/media/file/aadya-eft-cert.pdf",
+            "thumbnailURL": null,
+            "filename": "aadya-eft-cert.pdf",
+            "mimeType": "application/pdf",
+            "filesize": 497644,
+            "width": null,
+            "height": null,
+            "focalX": null,
+            "focalY": null
+          },
+          "sourceUrl": "https://www.eftmraindia.com/wp-content/uploads/2025/09/Aadya-EFT-cert.pdf"
+        }
+      ],
+      "email": "aadyagupta99@gmail.com",
+      "phone": "9810304974 (Whatsapp only)",
+      "whatsapp": "9810304974 (Whatsapp only)",
+      "website": null,
+      "linkedin": "https://www.linkedin.com/in/aadya-gupta-a62078215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "instagram": null,
+      "facebook": null,
+      "bio": "Practice address: Online",
+      "approach": null,
+      "submittedReviews": {
+        "docs": [
+          2,
+          1
+        ],
+        "hasNextPage": false
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "image": null
+      },
+      "slug": "aadya-gupta",
+      "status": "published",
+      "role": "EFT Practitioner",
+      "showOnHomepage": false,
+      "availabilityMode": "online",
+      "sessionFee": null,
+      "site": {
+        "id": 1,
+        "name": "EFTMRA India",
+        "theme": {
+          "preset": "main",
+          "primaryColor": "#4A9DAE",
+          "secondaryColor": "#1A3B4C",
+          "accentColor": "#EFF8FA",
+          "surfaceColor": "#FFFFFF",
+          "textColor": "#1A3B4C",
+          "mutedColor": "#6B8898",
+          "radiusBrand": null,
+          "shadowSoft": null,
+          "customTokens": [
+            {
+              "id": "69f9f108fa2aff1b97cdec8d",
+              "token": "eftmra-midnight",
+              "label": "EFTMRA Midnight",
+              "value": "#1A3B4C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8e",
+              "token": "eftmra-deep-ocean",
+              "label": "EFTMRA Deep Ocean",
+              "value": "#2B6A7C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8f",
+              "token": "eftmra-sapphire",
+              "label": "EFTMRA Sapphire",
+              "value": "#4A9DAE"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec90",
+              "token": "eftmra-amber",
+              "label": "EFTMRA Amber",
+              "value": "#C9A84C"
+            }
+          ]
+        },
+        "micrositeSubmenu": {
+          "title": "",
+          "icon": "auto",
+          "logoImage": null,
+          "links": []
+        },
+        "footer": {
+          "backgroundColor": null,
+          "textColor": null,
+          "logoText": null,
+          "logoImage": null,
+          "logoHref": null,
+          "tagline": null,
+          "columns": [],
+          "copyrightText": null,
+          "socialLinks": []
+        },
+        "slug": "/",
+        "domain": null,
+        "layoutType": "platform-home",
+        "updatedAt": "2026-05-27T11:49:22.032Z",
+        "createdAt": "2026-04-17T10:38:04.690Z"
+      },
+      "category": "eft-practitioner",
+      "categoryKeys": [
+        "eft-practitioner"
+      ],
+      "updatedAt": "2026-05-27T11:49:19.407Z",
+      "createdAt": "2026-04-20T09:46:07.770Z"
+    },
+    "updatedAt": "2026-05-27T11:49:19.445Z",
+    "createdAt": "2026-04-21T15:55:25.046Z"
+  },
+  {
+    "id": 1,
+    "authorName": "Preethi M.",
+    "authorRole": null,
+    "dateLabel": "March 2025",
+    "quote": "I came to Aadya with years of unresolved anxiety that had started affecting my work. After just three sessions I noticed a significant shift.",
+    "rating": 5,
+    "status": "published",
+    "displayOrder": 1,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "practitioner": {
+      "id": 1,
+      "name": "Aadya Gupta",
+      "profileTagline": "Registered EFT Practitioner with EFTMRA India.",
+      "accent": "deep-teal",
+      "image": {
+        "id": 15,
+        "alt": "Aadya Gupta",
+        "updatedAt": "2026-04-17T10:38:04.442Z",
+        "createdAt": "2026-04-17T10:38:04.442Z",
+        "url": "http://localhost:3001/api/media/file/AadyaGupta1.png",
+        "thumbnailURL": null,
+        "filename": "AadyaGupta1.png",
+        "mimeType": "image/png",
+        "filesize": 400432,
+        "width": 509,
+        "height": 363,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "imageAlt": "Aadya Gupta",
+      "cityLabel": "Online",
+      "cityKey": "online",
+      "state": null,
+      "country": "India",
+      "hours": "1pm - 7pm",
+      "membershipNumber": "4220",
+      "certificationYear": null,
+      "languages": [
+        {
+          "id": "6a16da3f384211b38f54ecdb",
+          "label": "English"
+        }
+      ],
+      "specialties": [
+        {
+          "id": "6a16da3f384211b38f54ecdc",
+          "label": "EFT Practitioners"
+        }
+      ],
+      "credentials": [
+        {
+          "id": "6a16da3f384211b38f54ecdd",
+          "label": "EFT Practitioner"
+        },
+        {
+          "id": "6a16da3f384211b38f54ecde",
+          "label": "EFT Practitioners"
+        }
+      ],
+      "certificates": [
+        {
+          "id": "6a16da3f384211b38f54ecdf",
+          "title": "EFT Practitioner Certificate",
+          "file": {
+            "id": 839,
+            "alt": "Aadya Gupta certificate",
+            "updatedAt": "2026-04-27T07:33:19.107Z",
+            "createdAt": "2026-04-27T07:33:19.104Z",
+            "url": "http://localhost:3001/api/media/file/aadya-eft-cert.pdf",
+            "thumbnailURL": null,
+            "filename": "aadya-eft-cert.pdf",
+            "mimeType": "application/pdf",
+            "filesize": 497644,
+            "width": null,
+            "height": null,
+            "focalX": null,
+            "focalY": null
+          },
+          "sourceUrl": "https://www.eftmraindia.com/wp-content/uploads/2025/09/Aadya-EFT-cert.pdf"
+        }
+      ],
+      "email": "aadyagupta99@gmail.com",
+      "phone": "9810304974 (Whatsapp only)",
+      "whatsapp": "9810304974 (Whatsapp only)",
+      "website": null,
+      "linkedin": "https://www.linkedin.com/in/aadya-gupta-a62078215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "instagram": null,
+      "facebook": null,
+      "bio": "Practice address: Online",
+      "approach": null,
+      "submittedReviews": {
+        "docs": [
+          2,
+          1
+        ],
+        "hasNextPage": false
+      },
+      "meta": {
+        "title": null,
+        "description": null,
+        "image": null
+      },
+      "slug": "aadya-gupta",
+      "status": "published",
+      "role": "EFT Practitioner",
+      "showOnHomepage": false,
+      "availabilityMode": "online",
+      "sessionFee": null,
+      "site": {
+        "id": 1,
+        "name": "EFTMRA India",
+        "theme": {
+          "preset": "main",
+          "primaryColor": "#4A9DAE",
+          "secondaryColor": "#1A3B4C",
+          "accentColor": "#EFF8FA",
+          "surfaceColor": "#FFFFFF",
+          "textColor": "#1A3B4C",
+          "mutedColor": "#6B8898",
+          "radiusBrand": null,
+          "shadowSoft": null,
+          "customTokens": [
+            {
+              "id": "69f9f108fa2aff1b97cdec8d",
+              "token": "eftmra-midnight",
+              "label": "EFTMRA Midnight",
+              "value": "#1A3B4C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8e",
+              "token": "eftmra-deep-ocean",
+              "label": "EFTMRA Deep Ocean",
+              "value": "#2B6A7C"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec8f",
+              "token": "eftmra-sapphire",
+              "label": "EFTMRA Sapphire",
+              "value": "#4A9DAE"
+            },
+            {
+              "id": "69f9f108fa2aff1b97cdec90",
+              "token": "eftmra-amber",
+              "label": "EFTMRA Amber",
+              "value": "#C9A84C"
+            }
+          ]
+        },
+        "micrositeSubmenu": {
+          "title": "",
+          "icon": "auto",
+          "logoImage": null,
+          "links": []
+        },
+        "footer": {
+          "backgroundColor": null,
+          "textColor": null,
+          "logoText": null,
+          "logoImage": null,
+          "logoHref": null,
+          "tagline": null,
+          "columns": [],
+          "copyrightText": null,
+          "socialLinks": []
+        },
+        "slug": "/",
+        "domain": null,
+        "layoutType": "platform-home",
+        "updatedAt": "2026-05-27T11:49:22.032Z",
+        "createdAt": "2026-04-17T10:38:04.690Z"
+      },
+      "category": "eft-practitioner",
+      "categoryKeys": [
+        "eft-practitioner"
+      ],
+      "updatedAt": "2026-05-27T11:49:19.407Z",
+      "createdAt": "2026-04-20T09:46:07.770Z"
+    },
+    "updatedAt": "2026-05-27T11:49:19.459Z",
+    "createdAt": "2026-04-21T15:55:25.034Z"
+  }
+]

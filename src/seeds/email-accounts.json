@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "label": "Default Resend Account",
+    "provider": "resend",
+    "authMode": "api-key",
+    "useAsDefault": true,
+    "enabled": true,
+    "fromName": "EFTMRA India",
+    "fromEmail": "hello@eftmraindia.com",
+    "username": null,
+    "password": null,
+    "smtpHost": null,
+    "port": null,
+    "secure": null,
+    "apiKey": "re_PQqRfETY_F9LTyEBbiKiA3WfF8V8dTfah",
+    "updatedAt": "2026-05-26T13:11:13.726Z",
+    "createdAt": "2026-05-26T13:10:06.087Z"
+  }
+]

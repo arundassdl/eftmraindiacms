@@ -1,0 +1,1695 @@
+{
+  "id": 1,
+  "rolePermissions": [
+    {
+      "id": "editor-69ef4f872861bd3e237d52f0",
+      "role": "editor",
+      "module": "pages",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52f1",
+      "role": "editor",
+      "module": "posts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52f2",
+      "role": "editor",
+      "module": "categories",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52f3",
+      "role": "editor",
+      "module": "media",
+      "create": true,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52f4",
+      "role": "editor",
+      "module": "sites",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52f5",
+      "role": "editor",
+      "module": "leads",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52f6",
+      "role": "editor",
+      "module": "trainings",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52f7",
+      "role": "editor",
+      "module": "training-registrations",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52f8",
+      "role": "editor",
+      "module": "practitioners",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69fd822747c8de484ba976e0",
+      "role": "editor",
+      "module": "practitioner-contacts",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52f9",
+      "role": "editor",
+      "module": "practitioner-registrations",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52fa",
+      "role": "editor",
+      "module": "testimonials",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52fb",
+      "role": "editor",
+      "module": "practitioner-reviews",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52fc",
+      "role": "editor",
+      "module": "training-reviews",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52fd",
+      "role": "editor",
+      "module": "gallery",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52fe",
+      "role": "editor",
+      "module": "header",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d52ff",
+      "role": "editor",
+      "module": "footer",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "6a0853dd9c003d6d667a5e03",
+      "role": "editor",
+      "module": "role-management",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "editor-69ef4f872861bd3e237d5300",
+      "role": "editor",
+      "module": "users",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5301",
+      "role": "manager",
+      "module": "pages",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5302",
+      "role": "manager",
+      "module": "posts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5303",
+      "role": "manager",
+      "module": "categories",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5304",
+      "role": "manager",
+      "module": "media",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5305",
+      "role": "manager",
+      "module": "sites",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5306",
+      "role": "manager",
+      "module": "leads",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5307",
+      "role": "manager",
+      "module": "trainings",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5308",
+      "role": "manager",
+      "module": "training-registrations",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5309",
+      "role": "manager",
+      "module": "practitioners",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69fd822747c8de484ba976e1",
+      "role": "manager",
+      "module": "practitioner-contacts",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d530a",
+      "role": "manager",
+      "module": "practitioner-registrations",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d530b",
+      "role": "manager",
+      "module": "testimonials",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d530c",
+      "role": "manager",
+      "module": "practitioner-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d530d",
+      "role": "manager",
+      "module": "training-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d530e",
+      "role": "manager",
+      "module": "gallery",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d530f",
+      "role": "manager",
+      "module": "header",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5310",
+      "role": "manager",
+      "module": "footer",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a0853dd9c003d6d667a5e04",
+      "role": "manager",
+      "module": "role-management",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "manager-69ef4f872861bd3e237d5311",
+      "role": "manager",
+      "module": "users",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a079",
+      "role": "siteadmin",
+      "module": "pages",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a07a",
+      "role": "siteadmin",
+      "module": "posts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a07b",
+      "role": "siteadmin",
+      "module": "categories",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a07c",
+      "role": "siteadmin",
+      "module": "media",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a07d",
+      "role": "siteadmin",
+      "module": "sites",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a07e",
+      "role": "siteadmin",
+      "module": "leads",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a07f",
+      "role": "siteadmin",
+      "module": "trainings",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a080",
+      "role": "siteadmin",
+      "module": "training-registrations",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a081",
+      "role": "siteadmin",
+      "module": "practitioners",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a082",
+      "role": "siteadmin",
+      "module": "practitioner-contacts",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a083",
+      "role": "siteadmin",
+      "module": "practitioner-registrations",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a084",
+      "role": "siteadmin",
+      "module": "testimonials",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a085",
+      "role": "siteadmin",
+      "module": "practitioner-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a086",
+      "role": "siteadmin",
+      "module": "training-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a087",
+      "role": "siteadmin",
+      "module": "gallery",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a088",
+      "role": "siteadmin",
+      "module": "header",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a089",
+      "role": "siteadmin",
+      "module": "footer",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a0853dd9c003d6d667a5e05",
+      "role": "siteadmin",
+      "module": "role-management",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-6a06bf0a40776d40c899a08a",
+      "role": "siteadmin",
+      "module": "users",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5312",
+      "role": "admin",
+      "module": "pages",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5313",
+      "role": "admin",
+      "module": "posts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5314",
+      "role": "admin",
+      "module": "categories",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5315",
+      "role": "admin",
+      "module": "media",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5316",
+      "role": "admin",
+      "module": "sites",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5317",
+      "role": "admin",
+      "module": "leads",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5318",
+      "role": "admin",
+      "module": "trainings",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5319",
+      "role": "admin",
+      "module": "training-registrations",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d531a",
+      "role": "admin",
+      "module": "practitioners",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69fd822747c8de484ba976e2",
+      "role": "admin",
+      "module": "practitioner-contacts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d531b",
+      "role": "admin",
+      "module": "practitioner-registrations",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d531c",
+      "role": "admin",
+      "module": "testimonials",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d531d",
+      "role": "admin",
+      "module": "practitioner-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d531e",
+      "role": "admin",
+      "module": "training-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d531f",
+      "role": "admin",
+      "module": "gallery",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5320",
+      "role": "admin",
+      "module": "header",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5321",
+      "role": "admin",
+      "module": "footer",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a0853dd9c003d6d667a5e06",
+      "role": "admin",
+      "module": "role-management",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-69ef4f872861bd3e237d5322",
+      "role": "admin",
+      "module": "users",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-pages",
+      "role": "superadmin",
+      "module": "pages",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-posts",
+      "role": "superadmin",
+      "module": "posts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-categories",
+      "role": "superadmin",
+      "module": "categories",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-media",
+      "role": "superadmin",
+      "module": "media",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-sites",
+      "role": "superadmin",
+      "module": "sites",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-leads",
+      "role": "superadmin",
+      "module": "leads",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-trainings",
+      "role": "superadmin",
+      "module": "trainings",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-training-registrations",
+      "role": "superadmin",
+      "module": "training-registrations",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-practitioners",
+      "role": "superadmin",
+      "module": "practitioners",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-practitioner-contacts",
+      "role": "superadmin",
+      "module": "practitioner-contacts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-practitioner-registrations",
+      "role": "superadmin",
+      "module": "practitioner-registrations",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-testimonials",
+      "role": "superadmin",
+      "module": "testimonials",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-practitioner-reviews",
+      "role": "superadmin",
+      "module": "practitioner-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-training-reviews",
+      "role": "superadmin",
+      "module": "training-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-gallery",
+      "role": "superadmin",
+      "module": "gallery",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a0853c79c003d6d667a5dff",
+      "role": "superadmin",
+      "module": "header",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a0853c79c003d6d667a5e00",
+      "role": "superadmin",
+      "module": "footer",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a0853c79c003d6d667a5e01",
+      "role": "superadmin",
+      "module": "role-management",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a0853c79c003d6d667a5e02",
+      "role": "superadmin",
+      "module": "users",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "manager-trainers",
+      "role": "manager",
+      "module": "trainers",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-trainers",
+      "role": "siteadmin",
+      "module": "trainers",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "admin-trainers",
+      "role": "admin",
+      "module": "trainers",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-trainers",
+      "role": "superadmin",
+      "module": "trainers",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "manager-trainer-contacts",
+      "role": "manager",
+      "module": "trainer-contacts",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-trainer-contacts",
+      "role": "siteadmin",
+      "module": "trainer-contacts",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "admin-trainer-contacts",
+      "role": "admin",
+      "module": "trainer-contacts",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-trainer-contacts",
+      "role": "superadmin",
+      "module": "trainer-contacts",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "manager-email-templates",
+      "role": "manager",
+      "module": "email-templates",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-email-templates",
+      "role": "siteadmin",
+      "module": "email-templates",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "admin-email-templates",
+      "role": "admin",
+      "module": "email-templates",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-email-templates",
+      "role": "superadmin",
+      "module": "email-templates",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "manager-email-accounts",
+      "role": "manager",
+      "module": "email-accounts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-email-accounts",
+      "role": "siteadmin",
+      "module": "email-accounts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "admin-email-accounts",
+      "role": "admin",
+      "module": "email-accounts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-email-accounts",
+      "role": "superadmin",
+      "module": "email-accounts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "manager-practitioner-registration-countries",
+      "role": "manager",
+      "module": "practitioner-registration-countries",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "manager-practitioner-registration-specialties",
+      "role": "manager",
+      "module": "practitioner-registration-specialties",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-practitioner-registration-countries",
+      "role": "siteadmin",
+      "module": "practitioner-registration-countries",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "siteadmin-practitioner-registration-specialties",
+      "role": "siteadmin",
+      "module": "practitioner-registration-specialties",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "admin-practitioner-registration-countries",
+      "role": "admin",
+      "module": "practitioner-registration-countries",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "admin-practitioner-registration-specialties",
+      "role": "admin",
+      "module": "practitioner-registration-specialties",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-practitioner-registration-countries",
+      "role": "superadmin",
+      "module": "practitioner-registration-countries",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "superadmin-practitioner-registration-specialties",
+      "role": "superadmin",
+      "module": "practitioner-registration-specialties",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    }
+  ],
+  "editorPermissions": [
+    {
+      "id": "69ef4f872861bd3e237d52f0",
+      "module": "pages",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52f1",
+      "module": "posts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52f2",
+      "module": "categories",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52f3",
+      "module": "media",
+      "create": true,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52f4",
+      "module": "sites",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52f5",
+      "module": "leads",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52f6",
+      "module": "trainings",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52f7",
+      "module": "training-registrations",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52f8",
+      "module": "practitioners",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69fd822747c8de484ba976e0",
+      "module": "practitioner-contacts",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52f9",
+      "module": "practitioner-registrations",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52fa",
+      "module": "testimonials",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52fb",
+      "module": "practitioner-reviews",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52fc",
+      "module": "training-reviews",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52fd",
+      "module": "gallery",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52fe",
+      "module": "header",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d52ff",
+      "module": "footer",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "6a0853dd9c003d6d667a5e07",
+      "module": "role-management",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d5300",
+      "module": "users",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    }
+  ],
+  "managerPermissions": [
+    {
+      "id": "69ef4f872861bd3e237d5301",
+      "module": "pages",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5302",
+      "module": "posts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5303",
+      "module": "categories",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d5304",
+      "module": "media",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5305",
+      "module": "sites",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d5306",
+      "module": "leads",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d5307",
+      "module": "trainings",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d5308",
+      "module": "training-registrations",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d5309",
+      "module": "practitioners",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69fd822747c8de484ba976e1",
+      "module": "practitioner-contacts",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d530a",
+      "module": "practitioner-registrations",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d530b",
+      "module": "testimonials",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d530c",
+      "module": "practitioner-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d530d",
+      "module": "training-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d530e",
+      "module": "gallery",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d530f",
+      "module": "header",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d5310",
+      "module": "footer",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a0853dd9c003d6d667a5e08",
+      "module": "role-management",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "69ef4f872861bd3e237d5311",
+      "module": "users",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    }
+  ],
+  "siteadminPermissions": [
+    {
+      "id": "6a06bf0a40776d40c899a079",
+      "module": "pages",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a06bf0a40776d40c899a07a",
+      "module": "posts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a07b",
+      "module": "categories",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a06bf0a40776d40c899a07c",
+      "module": "media",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a06bf0a40776d40c899a07d",
+      "module": "sites",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a07e",
+      "module": "leads",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a07f",
+      "module": "trainings",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a080",
+      "module": "training-registrations",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a081",
+      "module": "practitioners",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a082",
+      "module": "practitioner-contacts",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a083",
+      "module": "practitioner-registrations",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a084",
+      "module": "testimonials",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a06bf0a40776d40c899a085",
+      "module": "practitioner-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a086",
+      "module": "training-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a087",
+      "module": "gallery",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a088",
+      "module": "header",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a089",
+      "module": "footer",
+      "create": false,
+      "read": true,
+      "update": true,
+      "delete": false
+    },
+    {
+      "id": "6a0853dd9c003d6d667a5e09",
+      "module": "role-management",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+    },
+    {
+      "id": "6a06bf0a40776d40c899a08a",
+      "module": "users",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+    }
+  ],
+  "adminPermissions": [
+    {
+      "id": "69ef4f872861bd3e237d5312",
+      "module": "pages",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5313",
+      "module": "posts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5314",
+      "module": "categories",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5315",
+      "module": "media",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5316",
+      "module": "sites",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5317",
+      "module": "leads",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5318",
+      "module": "trainings",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5319",
+      "module": "training-registrations",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d531a",
+      "module": "practitioners",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69fd822747c8de484ba976e2",
+      "module": "practitioner-contacts",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d531b",
+      "module": "practitioner-registrations",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d531c",
+      "module": "testimonials",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d531d",
+      "module": "practitioner-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d531e",
+      "module": "training-reviews",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d531f",
+      "module": "gallery",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5320",
+      "module": "header",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5321",
+      "module": "footer",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "6a0853dd9c003d6d667a5e0a",
+      "module": "role-management",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    {
+      "id": "69ef4f872861bd3e237d5322",
+      "module": "users",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    }
+  ],
+  "updatedAt": "2026-04-27T12:01:20.831Z",
+  "createdAt": "2026-04-27T12:01:20.831Z",
+  "globalType": "role-module-visibility"
+}

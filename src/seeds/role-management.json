@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2,
+    "label": "Editor",
+    "value": "editor",
+    "active": true,
+    "sortOrder": 10,
+    "description": null,
+    "updatedAt": "2026-05-16T06:56:11.864Z",
+    "createdAt": "2026-05-16T06:56:11.864Z"
+  },
+  {
+    "id": 3,
+    "label": "Manager",
+    "value": "manager",
+    "active": true,
+    "sortOrder": 20,
+    "description": null,
+    "updatedAt": "2026-05-16T06:56:11.864Z",
+    "createdAt": "2026-05-16T06:56:11.864Z"
+  },
+  {
+    "id": 4,
+    "label": "Site Admin",
+    "value": "siteadmin",
+    "active": true,
+    "sortOrder": 30,
+    "description": null,
+    "updatedAt": "2026-05-16T06:56:11.864Z",
+    "createdAt": "2026-05-16T06:56:11.864Z"
+  },
+  {
+    "id": 5,
+    "label": "Admin",
+    "value": "admin",
+    "active": true,
+    "sortOrder": 40,
+    "description": null,
+    "updatedAt": "2026-05-16T06:56:11.864Z",
+    "createdAt": "2026-05-16T06:56:11.864Z"
+  },
+  {
+    "id": 1,
+    "label": "Super Admin",
+    "value": "superadmin",
+    "active": true,
+    "sortOrder": 50,
+    "description": null,
+    "updatedAt": "2026-05-16T07:06:34.851Z",
+    "createdAt": "2026-05-16T06:41:38.257Z"
+  }
+]

@@ -1,0 +1,3752 @@
+[
+  {
+    "id": 38,
+    "title": "EFT Level 3 & Matrix Reimprinting",
+    "description": "A Level 3 training led by Karl Dawson in Kochi.",
+    "levelLabel": "Level 3",
+    "levelKey": "l3",
+    "badge": "Level 3 & MR",
+    "badgeTone": "default",
+    "image": {
+      "id": 830,
+      "alt": "EFT Level 3 & Matrix Reimprinting Poster",
+      "updatedAt": "2026-04-24T16:38:34.385Z",
+      "createdAt": "2026-04-24T16:38:34.384Z",
+      "url": "http://localhost:3001/api/media/file/7e872-Karl-January-1024x724.png",
+      "thumbnailURL": null,
+      "filename": "7e872-Karl-January-1024x724.png",
+      "mimeType": "image/png",
+      "filesize": 691179,
+      "width": 1024,
+      "height": 724,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "EFT Level 3 & Matrix Reimprinting Poster",
+    "posterImage": {
+      "id": 830,
+      "alt": "EFT Level 3 & Matrix Reimprinting Poster",
+      "updatedAt": "2026-04-24T16:38:34.385Z",
+      "createdAt": "2026-04-24T16:38:34.384Z",
+      "url": "http://localhost:3001/api/media/file/7e872-Karl-January-1024x724.png",
+      "thumbnailURL": null,
+      "filename": "7e872-Karl-January-1024x724.png",
+      "mimeType": "image/png",
+      "filesize": 691179,
+      "width": 1024,
+      "height": 724,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "EFT Level 3 & Matrix Reimprinting Poster",
+    "startDate": "2023-01-07T09:00:00.000Z",
+    "endDate": "2023-01-12T18:00:00.000Z",
+    "format": null,
+    "cityLabel": "Kochi",
+    "venue": "Venue TBA",
+    "schedule": "9:00 am - 6:00 pm",
+    "requirement": null,
+    "availability": null,
+    "availabilityTone": "open",
+    "cityKey": "kochi",
+    "cityText": "Kochi",
+    "monthKey": "january",
+    "monthLabel": "JANUARY",
+    "dateText": "7 Jan-12, 2023",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3b384211b38f54e6ff",
+        "content": "All EFTMRA courses are taught live, in person. This is essential. EFT and Matrix Reimprinting involve trauma-informed work, emotional safety, and skilled supervision. In-person training allows for real feedback, guided experiential practice, and the human connection that simply cannot be replicated online. EFTMRA training goes far beyond learning tapping sequences. You’ll be taught how to work safely with trauma, inner-child healing, core belief change, and how to help clients create deep, lasting transformation at the source, not just temporary relief.\n"
+      }
+    ],
+    "outcomes": [
+      {
+        "id": "6a16da3b384211b38f54e700",
+        "label": "Direct training with Karl Dawson, ensuring accuracy, integrity, and authenticity"
+      },
+      {
+        "id": "6a16da3b384211b38f54e701",
+        "label": "Fully live, in-person courses, prioritising student safety and real skill development"
+      }
+    ],
+    "audiences": [],
+    "trainerName": "Karl Dawson",
+    "trainerRole": "Director of Training for the EFT and Matrix Reimprinting Academy (EFTMRA)",
+    "trainerImage": {
+      "id": 979,
+      "alt": "Karl Dawson",
+      "updatedAt": "2026-04-30T11:21:57.317Z",
+      "createdAt": "2026-04-30T11:21:57.316Z",
+      "url": "http://localhost:3001/api/media/file/Karl%20Dawson.png",
+      "thumbnailURL": null,
+      "filename": "Karl Dawson.png",
+      "mimeType": "image/png",
+      "filesize": 619699,
+      "width": 776,
+      "height": 834,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": null,
+    "trainerBio": "Director of Training for the EFT and Matrix Reimprinting Academy (EFTMRA), the world’s largest EFT certification body, with over 10,000 practitioners worldwide. EFTMRA trainers and practitioners span Europe, North and South America, Asia, and Australia, forming a truly global healing community.\n",
+    "trainerCredentials": [
+      {
+        "id": "6a16da3b384211b38f54e702",
+        "label": "EFTMRA India Director"
+      },
+      {
+        "id": "6a16da3b384211b38f54e703",
+        "label": "EFT and Matrix Reimprinting"
+      }
+    ],
+    "scheduleDays": [],
+    "certificationSteps": [],
+    "stats": [],
+    "venueName": "Venue TBA",
+    "venueAddress": null,
+    "venueGoogleMapLocation": null,
+    "venueImage": null,
+    "venueImageAlt": null,
+    "venueNotes": [],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "slug": "eft-level-3-matrix-reimprinting-kochi-2023-1",
+    "status": "published",
+    "price": "35000",
+    "priceNote": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:15.720Z",
+    "createdAt": "2026-05-05T07:05:32.504Z"
+  },
+  {
+    "id": 37,
+    "title": "EFT Level 1 & 2 Training",
+    "description": "A Level 1 & 2 training led by Leena R Haldar in Mumbai.",
+    "levelLabel": "Level 1 & 2",
+    "levelKey": "l12",
+    "badge": "Level 1 & 2",
+    "badgeTone": "default",
+    "image": {
+      "id": 986,
+      "alt": "Leena R Haldar",
+      "updatedAt": "2026-05-06T04:24:48.869Z",
+      "createdAt": "2026-05-06T04:24:48.869Z",
+      "url": "http://localhost:3001/api/media/file/halder-profile-1.png",
+      "thumbnailURL": null,
+      "filename": "halder-profile-1.png",
+      "mimeType": "image/png",
+      "filesize": 278462,
+      "width": 429,
+      "height": 457,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "EFT Level 1 & 2 Training Poster",
+    "posterImage": {
+      "id": 831,
+      "alt": "EFT Level 1 & 2 Training Poster",
+      "updatedAt": "2026-04-24T16:38:34.506Z",
+      "createdAt": "2026-04-24T16:38:34.506Z",
+      "url": "http://localhost:3001/api/media/file/d4091-IMG-20240210-WA0007-1024x1024.jpg",
+      "thumbnailURL": null,
+      "filename": "d4091-IMG-20240210-WA0007-1024x1024.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 103552,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "EFT Level 1 & 2 Training Poster",
+    "startDate": "2024-02-23T09:00:00.000Z",
+    "endDate": "2024-02-25T18:00:00.000Z",
+    "format": null,
+    "cityLabel": "Mumbai",
+    "venue": "Suba Galaxy",
+    "schedule": "9:00 am - 6:00 pm",
+    "requirement": null,
+    "availability": null,
+    "availabilityTone": "open",
+    "cityKey": "mumbai",
+    "cityText": "Mumbai",
+    "monthKey": "february",
+    "monthLabel": "FEBRUARY",
+    "dateText": "23 Feb-25, 2024",
+    "aboutParagraphs": [],
+    "outcomes": [],
+    "audiences": [],
+    "trainerName": "Leena R Haldar",
+    "trainerRole": "Master Trainer · EFTMRA India",
+    "trainerImage": {
+      "id": 986,
+      "alt": "Leena R Haldar",
+      "updatedAt": "2026-05-06T04:24:48.869Z",
+      "createdAt": "2026-05-06T04:24:48.869Z",
+      "url": "http://localhost:3001/api/media/file/halder-profile-1.png",
+      "thumbnailURL": null,
+      "filename": "halder-profile-1.png",
+      "mimeType": "image/png",
+      "filesize": 278462,
+      "width": 429,
+      "height": 457,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": null,
+    "trainerBio": "Leena Haldar, an interior designer by profession, designing premium homes and projects for the hospitality industry, builders, corporate offices in India, Dubai and Africa. She also developed curriculum and taught generic skills at the Rizvi College of Hotel Management for few years. ",
+    "trainerCredentials": [],
+    "scheduleDays": [],
+    "certificationSteps": [],
+    "stats": [],
+    "venueName": "Suba Galaxy",
+    "venueAddress": null,
+    "venueGoogleMapLocation": null,
+    "venueImage": null,
+    "venueImageAlt": null,
+    "venueNotes": [],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "slug": "eft-level-1-2-training-mumbai-2024-2",
+    "status": "published",
+    "price": "50000",
+    "priceNote": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:15.768Z",
+    "createdAt": "2026-05-05T07:05:32.485Z"
+  },
+  {
+    "id": 36,
+    "title": "Rewrite your past, transform your Future",
+    "description": "A Matrix Reimprinting training led by Leena R Haldar in Mumbai.",
+    "levelLabel": "Matrix Reimprinting",
+    "levelKey": "matrix",
+    "badge": "Matrix Reimprinting",
+    "badgeTone": "default",
+    "image": {
+      "id": 986,
+      "alt": "Leena R Haldar",
+      "updatedAt": "2026-05-06T04:24:48.869Z",
+      "createdAt": "2026-05-06T04:24:48.869Z",
+      "url": "http://localhost:3001/api/media/file/halder-profile-1.png",
+      "thumbnailURL": null,
+      "filename": "halder-profile-1.png",
+      "mimeType": "image/png",
+      "filesize": 278462,
+      "width": 429,
+      "height": 457,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Matrix Reimprinting Practitioner Certification Poster",
+    "posterImage": {
+      "id": 832,
+      "alt": "Matrix Reimprinting Practitioner Certification Poster",
+      "updatedAt": "2026-04-24T16:38:36.594Z",
+      "createdAt": "2026-04-24T16:38:36.594Z",
+      "url": "http://localhost:3001/api/media/file/44db9-WhatsApp-Image-2024-02-09-at-21.29.57_a1f965dd-1024x1024.jpg",
+      "thumbnailURL": null,
+      "filename": "44db9-WhatsApp-Image-2024-02-09-at-21.29.57_a1f965dd-1024x1024.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 190140,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "Matrix Reimprinting Practitioner Certification Poster",
+    "startDate": "2024-02-29T09:00:00.000Z",
+    "endDate": "2024-03-03T18:00:00.000Z",
+    "format": null,
+    "cityLabel": "Mumbai",
+    "venue": "Venue TBA",
+    "schedule": "9:00 am - 6:00 pm",
+    "requirement": null,
+    "availability": null,
+    "availabilityTone": "open",
+    "cityKey": "mumbai",
+    "cityText": "Mumbai",
+    "monthKey": "february",
+    "monthLabel": "FEBRUARY",
+    "dateText": "29 Feb - 3 Mar 2024",
+    "aboutParagraphs": [],
+    "outcomes": [],
+    "audiences": [],
+    "trainerName": "Leena R Haldar",
+    "trainerRole": "Master Trainer · EFTMRA India",
+    "trainerImage": {
+      "id": 986,
+      "alt": "Leena R Haldar",
+      "updatedAt": "2026-05-06T04:24:48.869Z",
+      "createdAt": "2026-05-06T04:24:48.869Z",
+      "url": "http://localhost:3001/api/media/file/halder-profile-1.png",
+      "thumbnailURL": null,
+      "filename": "halder-profile-1.png",
+      "mimeType": "image/png",
+      "filesize": 278462,
+      "width": 429,
+      "height": 457,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": null,
+    "trainerBio": null,
+    "trainerCredentials": [],
+    "scheduleDays": [],
+    "certificationSteps": [],
+    "stats": [],
+    "venueName": "Venue TBA",
+    "venueAddress": null,
+    "venueGoogleMapLocation": null,
+    "venueImage": null,
+    "venueImageAlt": null,
+    "venueNotes": [],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "slug": "matrix-reimprinting-practitioner-certification-mumbai-2024-3",
+    "status": "published",
+    "price": "65000",
+    "priceNote": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:15.808Z",
+    "createdAt": "2026-05-05T07:05:32.463Z"
+  },
+  {
+    "id": 35,
+    "title": "Matrix Reimprinting Practitioner Certification",
+    "description": "A Matrix Reimprinting training led by Mridula Nair in Bangalore.",
+    "levelLabel": "Matrix Reimprinting",
+    "levelKey": "matrix",
+    "badge": "Matrix Reimprinting",
+    "badgeTone": "default",
+    "image": {
+      "id": 991,
+      "alt": null,
+      "updatedAt": "2026-05-06T10:20:11.907Z",
+      "createdAt": "2026-05-06T10:20:11.906Z",
+      "url": "http://localhost:3001/api/media/file/mridula-nair-profile.png",
+      "thumbnailURL": null,
+      "filename": "mridula-nair-profile.png",
+      "mimeType": "image/png",
+      "filesize": 113613,
+      "width": 289,
+      "height": 245,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Matrix Reimprinting Practitioner Certification Poster",
+    "posterImage": {
+      "id": 833,
+      "alt": "Matrix Reimprinting Practitioner Certification Poster",
+      "updatedAt": "2026-04-24T16:38:39.118Z",
+      "createdAt": "2026-04-24T16:38:39.117Z",
+      "url": "http://localhost:3001/api/media/file/491d2-Mridula-MR-1024x1024.png",
+      "thumbnailURL": null,
+      "filename": "491d2-Mridula-MR-1024x1024.png",
+      "mimeType": "image/png",
+      "filesize": 323134,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "Matrix Reimprinting Practitioner Certification Poster",
+    "startDate": "2024-03-01T09:00:00.000Z",
+    "endDate": "2024-03-04T18:00:00.000Z",
+    "format": null,
+    "cityLabel": "Bangalore",
+    "venue": "Royal Orchid Central",
+    "schedule": "9:00 am - 6:00 pm",
+    "requirement": null,
+    "availability": null,
+    "availabilityTone": "open",
+    "cityKey": "bangalore",
+    "cityText": "Bangalore",
+    "monthKey": "march",
+    "monthLabel": "MARCH",
+    "dateText": "1 Mar-4, 2024",
+    "aboutParagraphs": [],
+    "outcomes": [],
+    "audiences": [],
+    "trainerName": "Mridula Nair",
+    "trainerRole": "Head & Master Trainer of Trainers",
+    "trainerImage": {
+      "id": 991,
+      "alt": null,
+      "updatedAt": "2026-05-06T10:20:11.907Z",
+      "createdAt": "2026-05-06T10:20:11.906Z",
+      "url": "http://localhost:3001/api/media/file/mridula-nair-profile.png",
+      "thumbnailURL": null,
+      "filename": "mridula-nair-profile.png",
+      "mimeType": "image/png",
+      "filesize": 113613,
+      "width": 289,
+      "height": 245,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": null,
+    "trainerBio": "Mridula is a counselor and practitioner in several alternative therapies like Bach Flower Remedies, NLP, and Breakthrough Coaching with Timeline Technology. She is an experienced and successful trainer in EFT and Matrix Reimprinting. Trained by Karl Dawson, the Founder of EFTMRA U.K. and the founder of Matrix Reimprinting, she has become a prominent figure in EFT and human behaviour for healing emotional trauma. She leads EFTMRA India and is a Master Trainer of Trainers.\n\n",
+    "trainerCredentials": [],
+    "scheduleDays": [],
+    "certificationSteps": [],
+    "stats": [],
+    "venueName": "Royal Orchid Central",
+    "venueAddress": null,
+    "venueGoogleMapLocation": null,
+    "venueImage": null,
+    "venueImageAlt": null,
+    "venueNotes": [],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "slug": "matrix-reimprinting-practitioner-certification-bangalore-2024-4",
+    "status": "published",
+    "price": "65000",
+    "priceNote": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:15.843Z",
+    "createdAt": "2026-05-05T07:05:32.443Z"
+  },
+  {
+    "id": 34,
+    "title": "Emotional Freedom Technique (Level 1&2)",
+    "description": "A Level 1 & 2 training led by Dr Shilpa Gupta in New Delhi.",
+    "levelLabel": "Level 1 & 2",
+    "levelKey": "l12",
+    "badge": "Level 1 & 2",
+    "badgeTone": "default",
+    "image": {
+      "id": 988,
+      "alt": "Shilpa Guptha",
+      "updatedAt": "2026-05-06T06:14:44.312Z",
+      "createdAt": "2026-05-06T06:14:44.312Z",
+      "url": "http://localhost:3001/api/media/file/shipla-guptha-profilw.png",
+      "thumbnailURL": null,
+      "filename": "shipla-guptha-profilw.png",
+      "mimeType": "image/png",
+      "filesize": 75720,
+      "width": 309,
+      "height": 295,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Emotional Freedom Technique (Level 1&2) Poster",
+    "posterImage": {
+      "id": 834,
+      "alt": "Emotional Freedom Technique (Level 1&2) Poster",
+      "updatedAt": "2026-04-24T16:38:41.317Z",
+      "createdAt": "2026-04-24T16:38:41.317Z",
+      "url": "http://localhost:3001/api/media/file/84f4f-Shilpa-EFT-1024x1024.jpg",
+      "thumbnailURL": null,
+      "filename": "84f4f-Shilpa-EFT-1024x1024.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 131091,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "Emotional Freedom Technique (Level 1&2) Poster",
+    "startDate": "2024-03-08T09:00:00.000Z",
+    "endDate": "2024-03-10T18:00:00.000Z",
+    "format": null,
+    "cityLabel": "New Delhi",
+    "venue": "Venue TBA",
+    "schedule": "9:00 am - 6:00 pm",
+    "requirement": null,
+    "availability": null,
+    "availabilityTone": "open",
+    "cityKey": "new-delhi",
+    "cityText": "New Delhi",
+    "monthKey": "march",
+    "monthLabel": "MARCH",
+    "dateText": "8 Mar-10, 2024",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3b384211b38f54e704",
+        "content": "Duration : 6 Months"
+      },
+      {
+        "id": "6a16da3b384211b38f54e705",
+        "content": "Principles of EFT"
+      },
+      {
+        "id": "6a16da3b384211b38f54e706",
+        "content": "Techniques used in EFT"
+      },
+      {
+        "id": "6a16da3b384211b38f54e707",
+        "content": "Using EFT for specific issues"
+      }
+    ],
+    "outcomes": [],
+    "audiences": [],
+    "trainerName": "Dr Shilpa Gupta",
+    "trainerRole": "Therapist & EFT Master Trainer Founder, EmoAid Wellness Center Associate Director, CCAW",
+    "trainerImage": {
+      "id": 988,
+      "alt": "Shilpa Guptha",
+      "updatedAt": "2026-05-06T06:14:44.312Z",
+      "createdAt": "2026-05-06T06:14:44.312Z",
+      "url": "http://localhost:3001/api/media/file/shipla-guptha-profilw.png",
+      "thumbnailURL": null,
+      "filename": "shipla-guptha-profilw.png",
+      "mimeType": "image/png",
+      "filesize": 75720,
+      "width": 309,
+      "height": 295,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": "Dr Shilpa Gupta",
+    "trainerBio": "Dr. Shilpa Gupta is a renowned parenting and an emotional well-being coach with over 13 years of experience in imparting training through various workshops and seminars. She is an ENT surgeon who diversified into her passion of working with parents and adults on Communication and Emotions. In addition to her consultancy, she is also the Founder and Trainer of EmoAid programme and Associate Director of Centre for Child and Adolescent Wellbeing (CCAW), a multi-specialty Institute for child mental health.\n\n",
+    "trainerCredentials": [],
+    "scheduleDays": [],
+    "certificationSteps": [],
+    "stats": [],
+    "venueName": "Venue TBA",
+    "venueAddress": null,
+    "venueGoogleMapLocation": null,
+    "venueImage": null,
+    "venueImageAlt": null,
+    "venueNotes": [],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "slug": "emotional-freedom-technique-level-1-2-new-delhi-2024-5",
+    "status": "published",
+    "price": "50000",
+    "priceNote": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:15.878Z",
+    "createdAt": "2026-05-05T07:05:32.419Z"
+  },
+  {
+    "id": 33,
+    "title": "EFT 3 Advanced EFT skills",
+    "description": "A Level 3 training led by Leena R Haldar in Mumbai.",
+    "levelLabel": "Level 3",
+    "levelKey": "l3",
+    "badge": "Level 3",
+    "badgeTone": "default",
+    "image": {
+      "id": 986,
+      "alt": "Leena R Haldar",
+      "updatedAt": "2026-05-06T04:24:48.869Z",
+      "createdAt": "2026-05-06T04:24:48.869Z",
+      "url": "http://localhost:3001/api/media/file/halder-profile-1.png",
+      "thumbnailURL": null,
+      "filename": "halder-profile-1.png",
+      "mimeType": "image/png",
+      "filesize": 278462,
+      "width": 429,
+      "height": 457,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "EFT 3 Advanced EFT skills Poster",
+    "posterImage": {
+      "id": 835,
+      "alt": "EFT 3 Advanced EFT skills Poster",
+      "updatedAt": "2026-04-24T16:38:43.664Z",
+      "createdAt": "2026-04-24T16:38:43.664Z",
+      "url": "http://localhost:3001/api/media/file/10850-IMG-20240210-WA0008-1024x1024.jpg",
+      "thumbnailURL": null,
+      "filename": "10850-IMG-20240210-WA0008-1024x1024.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 96703,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "EFT 3 Advanced EFT skills Poster",
+    "startDate": "2024-03-16T09:00:00.000Z",
+    "endDate": "2024-03-17T18:00:00.000Z",
+    "format": null,
+    "cityLabel": "Mumbai",
+    "venue": "Venue TBA",
+    "schedule": "9:00 am - 6:00 pm",
+    "requirement": null,
+    "availability": null,
+    "availabilityTone": "open",
+    "cityKey": "mumbai",
+    "cityText": "Mumbai",
+    "monthKey": "march",
+    "monthLabel": "MARCH",
+    "dateText": "16 Mar-17, 2024",
+    "aboutParagraphs": [],
+    "outcomes": [],
+    "audiences": [],
+    "trainerName": "Leena R Haldar",
+    "trainerRole": "Master Trainer · EFTMRA India",
+    "trainerImage": {
+      "id": 986,
+      "alt": "Leena R Haldar",
+      "updatedAt": "2026-05-06T04:24:48.869Z",
+      "createdAt": "2026-05-06T04:24:48.869Z",
+      "url": "http://localhost:3001/api/media/file/halder-profile-1.png",
+      "thumbnailURL": null,
+      "filename": "halder-profile-1.png",
+      "mimeType": "image/png",
+      "filesize": 278462,
+      "width": 429,
+      "height": 457,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": null,
+    "trainerBio": null,
+    "trainerCredentials": [],
+    "scheduleDays": [],
+    "certificationSteps": [],
+    "stats": [],
+    "venueName": "Venue TBA",
+    "venueAddress": null,
+    "venueGoogleMapLocation": null,
+    "venueImage": null,
+    "venueImageAlt": null,
+    "venueNotes": [],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "slug": "eft-3-advanced-eft-skills-mumbai-2024-6",
+    "status": "published",
+    "price": "35000",
+    "priceNote": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:15.914Z",
+    "createdAt": "2026-05-05T07:05:32.386Z"
+  },
+  {
+    "id": 32,
+    "title": "EFT Training Workshop ",
+    "description": "Emotional Freedom Technique (Level 1&2) ",
+    "levelLabel": "Level 1 & 2",
+    "levelKey": "l12",
+    "badge": "Level 1 & 2",
+    "badgeTone": "default",
+    "image": {
+      "id": 987,
+      "alt": "Meetu Sehgal",
+      "updatedAt": "2026-05-06T05:57:09.128Z",
+      "createdAt": "2026-05-06T05:56:51.564Z",
+      "url": "http://localhost:3001/api/media/file/meetu-sehgal-profile.png",
+      "thumbnailURL": null,
+      "filename": "meetu-sehgal-profile.png",
+      "mimeType": "image/png",
+      "filesize": 148188,
+      "width": 348,
+      "height": 419,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Emotional Freedom Technique (Level 1&2) Poster",
+    "posterImage": {
+      "id": 836,
+      "alt": "Emotional Freedom Technique (Level 1&2) Poster",
+      "updatedAt": "2026-04-24T16:38:45.852Z",
+      "createdAt": "2026-04-24T16:38:45.852Z",
+      "url": "http://localhost:3001/api/media/file/9aaaa-Meetu-poster-1024x1024.jpg",
+      "thumbnailURL": null,
+      "filename": "9aaaa-Meetu-poster-1024x1024.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 118464,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "Emotional Freedom Technique (Level 1&2) Poster",
+    "startDate": "2024-03-15T09:00:00.000Z",
+    "endDate": "2024-03-17T18:00:00.000Z",
+    "format": null,
+    "cityLabel": "New Delhi",
+    "venue": "Hilton Garden Inn",
+    "schedule": "9:00 am - 6:00 pm",
+    "requirement": null,
+    "availability": null,
+    "availabilityTone": "open",
+    "cityKey": "new-delhi",
+    "cityText": "New Delhi",
+    "monthKey": "march",
+    "monthLabel": "MARCH",
+    "dateText": "15 Mar-17, 2024",
+    "aboutParagraphs": [],
+    "outcomes": [],
+    "audiences": [],
+    "trainerName": "Meetu Sehgal",
+    "trainerRole": "EFT Trainer",
+    "trainerImage": {
+      "id": 987,
+      "alt": "Meetu Sehgal",
+      "updatedAt": "2026-05-06T05:57:09.128Z",
+      "createdAt": "2026-05-06T05:56:51.564Z",
+      "url": "http://localhost:3001/api/media/file/meetu-sehgal-profile.png",
+      "thumbnailURL": null,
+      "filename": "meetu-sehgal-profile.png",
+      "mimeType": "image/png",
+      "filesize": 148188,
+      "width": 348,
+      "height": 419,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": "Meetu Sehgal",
+    "trainerBio": null,
+    "trainerCredentials": [],
+    "scheduleDays": [],
+    "certificationSteps": [],
+    "stats": [],
+    "venueName": "Hilton Garden Inn",
+    "venueAddress": null,
+    "venueGoogleMapLocation": null,
+    "venueImage": null,
+    "venueImageAlt": null,
+    "venueNotes": [],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "slug": "emotional-freedom-technique-level-1-2-new-delhi-2024-7",
+    "status": "published",
+    "price": "50000",
+    "priceNote": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:15.953Z",
+    "createdAt": "2026-05-05T07:05:32.358Z"
+  },
+  {
+    "id": 31,
+    "title": "International Certification Matrix Reimprinting",
+    "description": "A Matrix Reimprinting training led by Dr Shilpa Gupta in New Delhi.",
+    "levelLabel": "Matrix Reimprinting",
+    "levelKey": "matrix",
+    "badge": "Matrix Reimprinting",
+    "badgeTone": "default",
+    "image": {
+      "id": 988,
+      "alt": "Shilpa Guptha",
+      "updatedAt": "2026-05-06T06:14:44.312Z",
+      "createdAt": "2026-05-06T06:14:44.312Z",
+      "url": "http://localhost:3001/api/media/file/shipla-guptha-profilw.png",
+      "thumbnailURL": null,
+      "filename": "shipla-guptha-profilw.png",
+      "mimeType": "image/png",
+      "filesize": 75720,
+      "width": 309,
+      "height": 295,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Matrix Reimprinting Certification Poster",
+    "posterImage": {
+      "id": 837,
+      "alt": "Matrix Reimprinting Certification Poster",
+      "updatedAt": "2026-04-24T16:38:46.179Z",
+      "createdAt": "2026-04-24T16:38:46.178Z",
+      "url": "http://localhost:3001/api/media/file/e5156-Shilpa-eft-1-1024x1024.jpg",
+      "thumbnailURL": null,
+      "filename": "e5156-Shilpa-eft-1-1024x1024.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 136468,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "Matrix Reimprinting Certification Poster",
+    "startDate": "2024-03-28T09:00:00.000Z",
+    "endDate": "2024-03-31T18:00:00.000Z",
+    "format": null,
+    "cityLabel": "New Delhi",
+    "venue": "Venue TBA",
+    "schedule": "9:00 am - 6:00 pm",
+    "requirement": null,
+    "availability": null,
+    "availabilityTone": "open",
+    "cityKey": "new-delhi",
+    "cityText": "New Delhi",
+    "monthKey": "march",
+    "monthLabel": "MARCH",
+    "dateText": "28 Mar-31, 2024",
+    "aboutParagraphs": [],
+    "outcomes": [],
+    "audiences": [],
+    "trainerName": "Dr Shilpa Gupta",
+    "trainerRole": "Therapist & EFT Master Trainer Founder, EmoAid Wellness Center Associate Director, CCAW",
+    "trainerImage": {
+      "id": 988,
+      "alt": "Shilpa Guptha",
+      "updatedAt": "2026-05-06T06:14:44.312Z",
+      "createdAt": "2026-05-06T06:14:44.312Z",
+      "url": "http://localhost:3001/api/media/file/shipla-guptha-profilw.png",
+      "thumbnailURL": null,
+      "filename": "shipla-guptha-profilw.png",
+      "mimeType": "image/png",
+      "filesize": 75720,
+      "width": 309,
+      "height": 295,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": null,
+    "trainerBio": null,
+    "trainerCredentials": [],
+    "scheduleDays": [],
+    "certificationSteps": [],
+    "stats": [],
+    "venueName": "Venue TBA",
+    "venueAddress": null,
+    "venueGoogleMapLocation": null,
+    "venueImage": null,
+    "venueImageAlt": null,
+    "venueNotes": [],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "slug": "matrix-reimprinting-certification-new-delhi-2024-8",
+    "status": "published",
+    "price": "65000",
+    "priceNote": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:15.999Z",
+    "createdAt": "2026-05-05T07:05:32.325Z"
+  },
+  {
+    "id": 30,
+    "title": "EFT 3 Advanced Training",
+    "description": "A Level 3 training led by Diksha Wadhwa in Thane.",
+    "levelLabel": "Level 3",
+    "levelKey": "l3",
+    "badge": "Level 3",
+    "badgeTone": "default",
+    "image": {
+      "id": 989,
+      "alt": "Diksha Wadhwa",
+      "updatedAt": "2026-05-06T08:51:55.485Z",
+      "createdAt": "2026-05-06T08:51:55.485Z",
+      "url": "http://localhost:3001/api/media/file/diksha-wadhwa-profile.png",
+      "thumbnailURL": null,
+      "filename": "diksha-wadhwa-profile.png",
+      "mimeType": "image/png",
+      "filesize": 153303,
+      "width": 345,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "EFT 3 Advanced Training Poster",
+    "posterImage": {
+      "id": 838,
+      "alt": "EFT 3 Advanced Training Poster",
+      "updatedAt": "2026-04-24T16:38:46.397Z",
+      "createdAt": "2026-04-24T16:38:46.397Z",
+      "url": "http://localhost:3001/api/media/file/91506-Diksha-EFT-3-1024x1024.jpg",
+      "thumbnailURL": null,
+      "filename": "91506-Diksha-EFT-3-1024x1024.jpg",
+      "mimeType": "image/jpeg",
+      "filesize": 95243,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "EFT 3 Advanced Training Poster",
+    "startDate": "2024-04-26T09:00:00.000Z",
+    "endDate": "2024-04-27T18:00:00.000Z",
+    "format": null,
+    "cityLabel": "Thane",
+    "venue": "Venue TBA",
+    "schedule": "9:00 am - 6:00 pm",
+    "requirement": null,
+    "availability": null,
+    "availabilityTone": "open",
+    "cityKey": "thane",
+    "cityText": "Thane",
+    "monthKey": "april",
+    "monthLabel": "APRIL",
+    "dateText": "26 Apr-27, 2024",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3c384211b38f54e708",
+        "content": "This training is delivered through EFTMRA India's internationally aligned curriculum, combining practical tapping tools, trauma-aware teaching, and a clear pathway into deeper professional practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e709",
+        "content": "Participants leave with structured next steps, practice guidance, and access to the wider EFTMRA learning community so the training continues to support their growth beyond the room."
+      }
+    ],
+    "outcomes": [
+      {
+        "id": "6a16da3c384211b38f54e70a",
+        "label": "A clear understanding of the methods taught in this training"
+      },
+      {
+        "id": "6a16da3c384211b38f54e70b",
+        "label": "Hands-on practice with guided supervision and feedback"
+      },
+      {
+        "id": "6a16da3c384211b38f54e70c",
+        "label": "Confidence applying the work ethically and appropriately"
+      },
+      {
+        "id": "6a16da3c384211b38f54e70d",
+        "label": "A practical next-step plan for certification or continued study"
+      }
+    ],
+    "audiences": [
+      {
+        "id": "6a16da3c384211b38f54e70e",
+        "title": "Helping Professionals",
+        "description": "Therapists, coaches, counsellors, healers, doctors and wellness practitioners looking to expand their toolkit."
+      },
+      {
+        "id": "6a16da3c384211b38f54e70f",
+        "title": "Career Changers",
+        "description": "People seeking a structured, high-quality entry point into transformational work and client practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e710",
+        "title": "Personal Growth Seekers",
+        "description": "Those who want to deepen their own healing journey while learning skills they can later share with others."
+      }
+    ],
+    "trainerName": "Diksha Wadhwa",
+    "trainerRole": "Trainer · EFTMRA India",
+    "trainerImage": {
+      "id": 989,
+      "alt": "Diksha Wadhwa",
+      "updatedAt": "2026-05-06T08:51:55.485Z",
+      "createdAt": "2026-05-06T08:51:55.485Z",
+      "url": "http://localhost:3001/api/media/file/diksha-wadhwa-profile.png",
+      "thumbnailURL": null,
+      "filename": "diksha-wadhwa-profile.png",
+      "mimeType": "image/png",
+      "filesize": 153303,
+      "width": 345,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": "Diksha Wadhwa",
+    "trainerBio": "Diksha supports practitioners in working more deeply with emotional imprints, memory reconsolidation, and lasting transformation using EFTMRA-aligned methods.\n\n",
+    "trainerCredentials": [
+      {
+        "id": "6a16da3c384211b38f54e711",
+        "label": "EFTMRA India Trainer"
+      },
+      {
+        "id": "6a16da3c384211b38f54e712",
+        "label": "Matrix Reimprinting Facilitator"
+      }
+    ],
+    "scheduleDays": [],
+    "certificationSteps": [],
+    "stats": [],
+    "venueName": "Venue TBA",
+    "venueAddress": null,
+    "venueGoogleMapLocation": null,
+    "venueImage": null,
+    "venueImageAlt": null,
+    "venueNotes": [],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": null
+    },
+    "slug": "eft-3-advanced-training-thane-2024-9",
+    "status": "published",
+    "price": "35000",
+    "priceNote": null,
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:16.036Z",
+    "createdAt": "2026-05-05T07:05:32.292Z"
+  },
+  {
+    "id": 29,
+    "title": "Emotional Freedom Techniques Practitioner Certification Course",
+    "description": "A practitioner certification course in Emotional Freedom Techniques held in Bangalore, focused on evidence-informed EFT skills for trauma, anxiety, stress, and deeper client outcomes.",
+    "levelLabel": "Level 1 & 2",
+    "levelKey": "l12",
+    "badge": "Practitioner Certification",
+    "badgeTone": "default",
+    "image": {
+      "id": 991,
+      "alt": null,
+      "updatedAt": "2026-05-06T10:20:11.907Z",
+      "createdAt": "2026-05-06T10:20:11.906Z",
+      "url": "http://localhost:3001/api/media/file/mridula-nair-profile.png",
+      "thumbnailURL": null,
+      "filename": "mridula-nair-profile.png",
+      "mimeType": "image/png",
+      "filesize": 113613,
+      "width": 289,
+      "height": 245,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Emotional Freedom Techniques Practitioner Certification Bangalore March 2026",
+    "posterImage": {
+      "id": 985,
+      "alt": "Emotional Freedom Techniques Practitioner Certification Bangalore March 2026",
+      "updatedAt": "2026-05-05T06:52:44.250Z",
+      "createdAt": "2026-05-05T06:52:44.250Z",
+      "url": "http://localhost:3001/api/media/file/EFT-course-Poster-1024x1024.webp",
+      "thumbnailURL": null,
+      "filename": "EFT-course-Poster-1024x1024.webp",
+      "mimeType": "image/webp",
+      "filesize": 103124,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "Emotional Freedom Techniques Practitioner Certification Bangalore March 2026",
+    "startDate": "2026-03-05T18:30:00.000Z",
+    "endDate": "2026-03-07T18:30:00.000Z",
+    "format": "In-person",
+    "cityLabel": "Bangalore",
+    "venue": "Hotel Royal Orchid Central, Bangalore",
+    "schedule": "6–8 March 2026",
+    "requirement": "Open to learners seeking EFT practitioner certification",
+    "availability": "Registration open",
+    "availabilityTone": "open",
+    "cityKey": "bangalore",
+    "cityText": "Bangalore",
+    "monthKey": "march",
+    "monthLabel": "MARCH",
+    "dateText": "6 Mar-8, 2026",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3c384211b38f54e713",
+        "content": "This training is delivered through EFTMRA India's internationally aligned curriculum, combining practical tapping tools, trauma-aware teaching, and a clear pathway into deeper professional practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e714",
+        "content": "Participants leave with structured next steps, practice guidance, and access to the wider EFTMRA learning community so the training continues to support their growth beyond the room."
+      }
+    ],
+    "outcomes": [
+      {
+        "id": "6a16da3c384211b38f54e715",
+        "label": "Add a powerful, evidence-informed tool that helps clients shift faster"
+      },
+      {
+        "id": "6a16da3c384211b38f54e716",
+        "label": "Support trauma, anxiety and stress with practical techniques"
+      },
+      {
+        "id": "6a16da3c384211b38f54e717",
+        "label": "Deepen client outcomes while strengthening professional confidence"
+      },
+      {
+        "id": "6a16da3c384211b38f54e718",
+        "label": "Learn EFT, heal deeper, work smarter and create lasting change"
+      }
+    ],
+    "audiences": [
+      {
+        "id": "6a16da3c384211b38f54e719",
+        "title": "Helping Professionals",
+        "description": "Therapists, coaches, counsellors, healers, doctors and wellness practitioners looking to expand their toolkit."
+      },
+      {
+        "id": "6a16da3c384211b38f54e71a",
+        "title": "Career Changers",
+        "description": "People seeking a structured, high-quality entry point into transformational work and client practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e71b",
+        "title": "Personal Growth Seekers",
+        "description": "Those who want to deepen their own healing journey while learning skills they can later share with others."
+      }
+    ],
+    "trainerName": "EFTMRA India Trainer",
+    "trainerRole": "Trainer · EFTMRA India",
+    "trainerImage": {
+      "id": 991,
+      "alt": null,
+      "updatedAt": "2026-05-06T10:20:11.907Z",
+      "createdAt": "2026-05-06T10:20:11.906Z",
+      "url": "http://localhost:3001/api/media/file/mridula-nair-profile.png",
+      "thumbnailURL": null,
+      "filename": "mridula-nair-profile.png",
+      "mimeType": "image/png",
+      "filesize": 113613,
+      "width": 289,
+      "height": 245,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": "Emotional Freedom Techniques Practitioner Certification Bangalore March 2026",
+    "trainerBio": "This EFTMRA India training introduces practical, evidence-informed EFT skills for client work and professional confidence.",
+    "trainerCredentials": [
+      {
+        "id": "6a16da3c384211b38f54e71c",
+        "label": "EFTMRA India Trainer"
+      }
+    ],
+    "scheduleDays": [
+      {
+        "id": "6a16da3c384211b38f54e720",
+        "dayLabel": "Day 1",
+        "dayTitle": "Foundations",
+        "dayDate": "Training Day 1",
+        "theme": "Core principles and structure",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e71d",
+            "label": "Orientation, principles and live demonstrations"
+          },
+          {
+            "id": "6a16da3c384211b38f54e71e",
+            "label": "Foundational techniques and teaching framework"
+          },
+          {
+            "id": "6a16da3c384211b38f54e71f",
+            "label": "Practice rounds with trainer guidance"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e724",
+        "dayLabel": "Day 2",
+        "dayTitle": "Application",
+        "dayDate": "Training Day 2",
+        "theme": "Practice, nuance and confidence",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e721",
+            "label": "Deeper application with case examples"
+          },
+          {
+            "id": "6a16da3c384211b38f54e722",
+            "label": "Practice sessions, debriefs and Q&A"
+          },
+          {
+            "id": "6a16da3c384211b38f54e723",
+            "label": "Troubleshooting common sticking points"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e728",
+        "dayLabel": "Day 3",
+        "dayTitle": "Integration",
+        "dayDate": "Training Day 3",
+        "theme": "Professional use and next steps",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e725",
+            "label": "Ethics, scope, confidence and integration"
+          },
+          {
+            "id": "6a16da3c384211b38f54e726",
+            "label": "Certification or pathway requirements"
+          },
+          {
+            "id": "6a16da3c384211b38f54e727",
+            "label": "Closing supervision, reflection and action plan"
+          }
+        ]
+      }
+    ],
+    "certificationSteps": [
+      {
+        "id": "6a16da3c384211b38f54e729",
+        "stepLabel": "1",
+        "title": "Complete the live training",
+        "description": "Attend the full training and receive your EFTMRA India certificate of completion.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e72a",
+        "stepLabel": "2",
+        "title": "Continue your supervised learning",
+        "description": "Follow the recommended coursework, practice hours, and mentoring guidance for your chosen level.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e72b",
+        "stepLabel": "✓",
+        "title": "Progress toward recognition",
+        "description": "Move forward with the relevant EFTMRA U.K. pathway and professional development steps for your programme.",
+        "highlight": true
+      }
+    ],
+    "stats": [
+      {
+        "id": "6a16da3c384211b38f54e72c",
+        "value": "3",
+        "label": "Days Intensive"
+      },
+      {
+        "id": "6a16da3c384211b38f54e72d",
+        "value": "1",
+        "label": "Certification Start"
+      }
+    ],
+    "venueName": "Hotel Royal Orchid Central",
+    "venueAddress": "Bangalore",
+    "venueGoogleMapLocation": null,
+    "venueImage": {
+      "id": 985,
+      "alt": "Emotional Freedom Techniques Practitioner Certification Bangalore March 2026",
+      "updatedAt": "2026-05-05T06:52:44.250Z",
+      "createdAt": "2026-05-05T06:52:44.250Z",
+      "url": "http://localhost:3001/api/media/file/EFT-course-Poster-1024x1024.webp",
+      "thumbnailURL": null,
+      "filename": "EFT-course-Poster-1024x1024.webp",
+      "mimeType": "image/webp",
+      "filesize": 103124,
+      "width": 1024,
+      "height": 1024,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "venueImageAlt": "Emotional Freedom Techniques Practitioner Certification Bangalore March 2026",
+    "venueNotes": [
+      {
+        "id": "6a16da3c384211b38f54e72e",
+        "icon": "room",
+        "label": "Dedicated training room — fully prepared for live teaching and partner practice"
+      },
+      {
+        "id": "6a16da3c384211b38f54e72f",
+        "icon": "location",
+        "label": "Full venue details are shared again after registration"
+      },
+      {
+        "id": "6a16da3c384211b38f54e730",
+        "icon": "info",
+        "label": "Tea, coffee and break logistics are confirmed with your joining instructions"
+      }
+    ],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": {
+        "id": 985,
+        "alt": "Emotional Freedom Techniques Practitioner Certification Bangalore March 2026",
+        "updatedAt": "2026-05-05T06:52:44.250Z",
+        "createdAt": "2026-05-05T06:52:44.250Z",
+        "url": "http://localhost:3001/api/media/file/EFT-course-Poster-1024x1024.webp",
+        "thumbnailURL": null,
+        "filename": "EFT-course-Poster-1024x1024.webp",
+        "mimeType": "image/webp",
+        "filesize": 103124,
+        "width": 1024,
+        "height": 1024,
+        "focalX": 50,
+        "focalY": 50
+      }
+    },
+    "slug": "emotional-freedom-techniques-practitioner-certification-course-bangalore-march-2026",
+    "status": "published",
+    "price": "50000",
+    "priceNote": "details shared on registration",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:16.078Z",
+    "createdAt": "2026-05-05T07:05:32.253Z"
+  },
+  {
+    "id": 28,
+    "title": "International Certification in Emotional Freedom Technique - Advanced Level 3",
+    "description": "An advanced Level 3 Emotional Freedom Technique certification with Diksha Wadhwa in Thane, focused on deeper trauma work, intuition, reframing, ethics, and professional skill.",
+    "levelLabel": "Level 3",
+    "levelKey": "l3",
+    "badge": "Advanced Level 3",
+    "badgeTone": "blue",
+    "image": {
+      "id": 989,
+      "alt": "Diksha Wadhwa",
+      "updatedAt": "2026-05-06T08:51:55.485Z",
+      "createdAt": "2026-05-06T08:51:55.485Z",
+      "url": "http://localhost:3001/api/media/file/diksha-wadhwa-profile.png",
+      "thumbnailURL": null,
+      "filename": "diksha-wadhwa-profile.png",
+      "mimeType": "image/png",
+      "filesize": 153303,
+      "width": 345,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "EFT Level 3 Advanced Training Thane April 2026",
+    "posterImage": {
+      "id": 984,
+      "alt": "EFT Level 3 Advanced Training Thane April 2026",
+      "updatedAt": "2026-05-05T06:52:44.001Z",
+      "createdAt": "2026-05-05T06:52:44.001Z",
+      "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2026-03-05-at-8.21.13-AM.jpeg",
+      "thumbnailURL": null,
+      "filename": "WhatsApp-Image-2026-03-05-at-8.21.13-AM.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 179085,
+      "width": 1080,
+      "height": 1080,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "EFT Level 3 Advanced Training Thane April 2026",
+    "startDate": "2026-04-24T18:30:00.000Z",
+    "endDate": "2026-04-25T18:30:00.000Z",
+    "format": "In-person",
+    "cityLabel": "Thane",
+    "venue": "Byke Suraj Plaza, Thane",
+    "schedule": "25–26 April 2026",
+    "requirement": "For EFT practitioners advancing to Level 3",
+    "availability": "Registration open",
+    "availabilityTone": "low",
+    "cityKey": "thane",
+    "cityText": "Thane",
+    "monthKey": "april",
+    "monthLabel": "APRIL",
+    "dateText": "25 Apr-26, 2026",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3c384211b38f54e731",
+        "content": "This training is delivered through EFTMRA India's internationally aligned curriculum, combining practical tapping tools, trauma-aware teaching, and a clear pathway into deeper professional practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e732",
+        "content": "Participants leave with structured next steps, practice guidance, and access to the wider EFTMRA learning community so the training continues to support their growth beyond the room."
+      }
+    ],
+    "outcomes": [
+      {
+        "id": "6a16da3c384211b38f54e733",
+        "label": "Master hidden traps that block healing"
+      },
+      {
+        "id": "6a16da3c384211b38f54e734",
+        "label": "Elevate intuition and reframing skills"
+      },
+      {
+        "id": "6a16da3c384211b38f54e735",
+        "label": "Navigate the complexities of trauma with confidence"
+      },
+      {
+        "id": "6a16da3c384211b38f54e736",
+        "label": "Refine ethical boundaries and professional edge"
+      },
+      {
+        "id": "6a16da3c384211b38f54e737",
+        "label": "Ask the right questions for breakthroughs"
+      },
+      {
+        "id": "6a16da3c384211b38f54e738",
+        "label": "Integrate NLP with EFT"
+      }
+    ],
+    "audiences": [
+      {
+        "id": "6a16da3c384211b38f54e739",
+        "title": "Helping Professionals",
+        "description": "Therapists, coaches, counsellors, healers, doctors and wellness practitioners looking to expand their toolkit."
+      },
+      {
+        "id": "6a16da3c384211b38f54e73a",
+        "title": "Career Changers",
+        "description": "People seeking a structured, high-quality entry point into transformational work and client practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e73b",
+        "title": "Personal Growth Seekers",
+        "description": "Those who want to deepen their own healing journey while learning skills they can later share with others."
+      }
+    ],
+    "trainerName": "Diksha Wadhwa",
+    "trainerRole": "EFTMRA India Master Trainer",
+    "trainerImage": {
+      "id": 989,
+      "alt": "Diksha Wadhwa",
+      "updatedAt": "2026-05-06T08:51:55.485Z",
+      "createdAt": "2026-05-06T08:51:55.485Z",
+      "url": "http://localhost:3001/api/media/file/diksha-wadhwa-profile.png",
+      "thumbnailURL": null,
+      "filename": "diksha-wadhwa-profile.png",
+      "mimeType": "image/png",
+      "filesize": 153303,
+      "width": 345,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": "EFT Level 3 Advanced Training Thane April 2026",
+    "trainerBio": "Diksha leads advanced EFT training for practitioners ready to deepen trauma-processing, reframing, ethical boundaries, and professional practice.",
+    "trainerCredentials": [
+      {
+        "id": "6a16da3c384211b38f54e73c",
+        "label": "EFTMRA India Master Trainer"
+      }
+    ],
+    "scheduleDays": [
+      {
+        "id": "6a16da3c384211b38f54e740",
+        "dayLabel": "Day 1",
+        "dayTitle": "Foundations",
+        "dayDate": "Training Day 1",
+        "theme": "Core principles and structure",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e73d",
+            "label": "Orientation, principles and live demonstrations"
+          },
+          {
+            "id": "6a16da3c384211b38f54e73e",
+            "label": "Foundational techniques and teaching framework"
+          },
+          {
+            "id": "6a16da3c384211b38f54e73f",
+            "label": "Practice rounds with trainer guidance"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e744",
+        "dayLabel": "Day 2",
+        "dayTitle": "Application",
+        "dayDate": "Training Day 2",
+        "theme": "Practice, nuance and confidence",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e741",
+            "label": "Deeper application with case examples"
+          },
+          {
+            "id": "6a16da3c384211b38f54e742",
+            "label": "Practice sessions, debriefs and Q&A"
+          },
+          {
+            "id": "6a16da3c384211b38f54e743",
+            "label": "Troubleshooting common sticking points"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e748",
+        "dayLabel": "Day 3",
+        "dayTitle": "Integration",
+        "dayDate": "Training Day 3",
+        "theme": "Professional use and next steps",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e745",
+            "label": "Ethics, scope, confidence and integration"
+          },
+          {
+            "id": "6a16da3c384211b38f54e746",
+            "label": "Certification or pathway requirements"
+          },
+          {
+            "id": "6a16da3c384211b38f54e747",
+            "label": "Closing supervision, reflection and action plan"
+          }
+        ]
+      }
+    ],
+    "certificationSteps": [
+      {
+        "id": "6a16da3c384211b38f54e749",
+        "stepLabel": "1",
+        "title": "Complete the live training",
+        "description": "Attend the full training and receive your EFTMRA India certificate of completion.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e74a",
+        "stepLabel": "2",
+        "title": "Continue your supervised learning",
+        "description": "Follow the recommended coursework, practice hours, and mentoring guidance for your chosen level.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e74b",
+        "stepLabel": "✓",
+        "title": "Progress toward recognition",
+        "description": "Move forward with the relevant EFTMRA U.K. pathway and professional development steps for your programme.",
+        "highlight": true
+      }
+    ],
+    "stats": [
+      {
+        "id": "6a16da3c384211b38f54e74c",
+        "value": "3",
+        "label": "Advanced Days"
+      },
+      {
+        "id": "6a16da3c384211b38f54e74d",
+        "value": "1",
+        "label": "Next-Level Module"
+      }
+    ],
+    "venueName": "Byke Suraj Plaza",
+    "venueAddress": "Thane",
+    "venueGoogleMapLocation": null,
+    "venueImage": {
+      "id": 984,
+      "alt": "EFT Level 3 Advanced Training Thane April 2026",
+      "updatedAt": "2026-05-05T06:52:44.001Z",
+      "createdAt": "2026-05-05T06:52:44.001Z",
+      "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2026-03-05-at-8.21.13-AM.jpeg",
+      "thumbnailURL": null,
+      "filename": "WhatsApp-Image-2026-03-05-at-8.21.13-AM.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 179085,
+      "width": 1080,
+      "height": 1080,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "venueImageAlt": "EFT Level 3 Advanced Training Thane April 2026",
+    "venueNotes": [
+      {
+        "id": "6a16da3c384211b38f54e74e",
+        "icon": "room",
+        "label": "Dedicated training room — fully prepared for live teaching and partner practice"
+      },
+      {
+        "id": "6a16da3c384211b38f54e74f",
+        "icon": "location",
+        "label": "Full venue details are shared again after registration"
+      },
+      {
+        "id": "6a16da3c384211b38f54e750",
+        "icon": "info",
+        "label": "Tea, coffee and break logistics are confirmed with your joining instructions"
+      }
+    ],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": {
+        "id": 984,
+        "alt": "EFT Level 3 Advanced Training Thane April 2026",
+        "updatedAt": "2026-05-05T06:52:44.001Z",
+        "createdAt": "2026-05-05T06:52:44.001Z",
+        "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2026-03-05-at-8.21.13-AM.jpeg",
+        "thumbnailURL": null,
+        "filename": "WhatsApp-Image-2026-03-05-at-8.21.13-AM.jpeg",
+        "mimeType": "image/jpeg",
+        "filesize": 179085,
+        "width": 1080,
+        "height": 1080,
+        "focalX": 50,
+        "focalY": 50
+      }
+    },
+    "slug": "international-certification-emotional-freedom-technique-advanced-level-3-thane-april-2026",
+    "status": "published",
+    "price": "35000",
+    "priceNote": "details shared on registration",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:16.129Z",
+    "createdAt": "2026-05-05T07:05:32.209Z"
+  },
+  {
+    "id": 27,
+    "title": "EFT Levels 1 & 2 Practitioner Course",
+    "description": "An EFT Levels 1 & 2 practitioner course certified by EFTMRA India with Divya Srivastava in Chembur, Mumbai.",
+    "levelLabel": "Level 1 & 2",
+    "levelKey": "l12",
+    "badge": "Practitioner Course",
+    "badgeTone": "default",
+    "image": {
+      "id": 990,
+      "alt": null,
+      "updatedAt": "2026-05-06T08:55:15.756Z",
+      "createdAt": "2026-05-06T08:55:15.756Z",
+      "url": "http://localhost:3001/api/media/file/divya-srivastava-profile.png",
+      "thumbnailURL": null,
+      "filename": "divya-srivastava-profile.png",
+      "mimeType": "image/png",
+      "filesize": 197929,
+      "width": 405,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "EFT Levels 1 and 2 Practitioner Course Mumbai May 2026",
+    "posterImage": {
+      "id": 983,
+      "alt": "EFT Levels 1 and 2 Practitioner Course Mumbai May 2026",
+      "updatedAt": "2026-05-05T06:52:43.941Z",
+      "createdAt": "2026-05-05T06:52:43.941Z",
+      "url": "http://localhost:3001/api/media/file/Divya-EFT.jpeg",
+      "thumbnailURL": null,
+      "filename": "Divya-EFT.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 177687,
+      "width": 1080,
+      "height": 1080,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "EFT Levels 1 and 2 Practitioner Course Mumbai May 2026",
+    "startDate": "2026-05-21T18:30:00.000Z",
+    "endDate": "2026-05-23T18:30:00.000Z",
+    "format": "In-person",
+    "cityLabel": "Mumbai",
+    "venue": "Chembur, Mumbai",
+    "schedule": "22–24 May 2026 · 9:00 AM - 6:00 PM",
+    "requirement": "Open to learners seeking EFT Levels 1 & 2 practitioner training",
+    "availability": "Registration open",
+    "availabilityTone": "open",
+    "cityKey": "mumbai",
+    "cityText": "Mumbai",
+    "monthKey": "may",
+    "monthLabel": "MAY",
+    "dateText": "22 May-24, 2026",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3c384211b38f54e751",
+        "content": "This training is delivered through EFTMRA India's internationally aligned curriculum, combining practical tapping tools, trauma-aware teaching, and a clear pathway into deeper professional practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e752",
+        "content": "Participants leave with structured next steps, practice guidance, and access to the wider EFTMRA learning community so the training continues to support their growth beyond the room."
+      }
+    ],
+    "outcomes": [
+      {
+        "id": "6a16da3c384211b38f54e753",
+        "label": "Add a practical, body-based tool to your therapeutic toolkit"
+      },
+      {
+        "id": "6a16da3c384211b38f54e754",
+        "label": "Work with trauma without retraumatizing"
+      },
+      {
+        "id": "6a16da3c384211b38f54e755",
+        "label": "Go beyond insight into real emotional shift"
+      }
+    ],
+    "audiences": [
+      {
+        "id": "6a16da3c384211b38f54e756",
+        "title": "Helping Professionals",
+        "description": "Therapists, coaches, counsellors, healers, doctors and wellness practitioners looking to expand their toolkit."
+      },
+      {
+        "id": "6a16da3c384211b38f54e757",
+        "title": "Career Changers",
+        "description": "People seeking a structured, high-quality entry point into transformational work and client practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e758",
+        "title": "Personal Growth Seekers",
+        "description": "Those who want to deepen their own healing journey while learning skills they can later share with others."
+      }
+    ],
+    "trainerName": "Divya Srivastava",
+    "trainerRole": "EFTMRA India Trainer",
+    "trainerImage": {
+      "id": 990,
+      "alt": null,
+      "updatedAt": "2026-05-06T08:55:15.756Z",
+      "createdAt": "2026-05-06T08:55:15.756Z",
+      "url": "http://localhost:3001/api/media/file/divya-srivastava-profile.png",
+      "thumbnailURL": null,
+      "filename": "divya-srivastava-profile.png",
+      "mimeType": "image/png",
+      "filesize": 197929,
+      "width": 405,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": "EFT Levels 1 and 2 Practitioner Course Mumbai May 2026",
+    "trainerBio": "Divya teaches practical, body-based EFT skills for therapeutic work, trauma-aware practice, and emotional change.",
+    "trainerCredentials": [
+      {
+        "id": "6a16da3c384211b38f54e759",
+        "label": "EFTMRA India Trainer"
+      }
+    ],
+    "scheduleDays": [
+      {
+        "id": "6a16da3c384211b38f54e75d",
+        "dayLabel": "Day 1",
+        "dayTitle": "Foundations",
+        "dayDate": "Training Day 1",
+        "theme": "Core principles and structure",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e75a",
+            "label": "Orientation, principles and live demonstrations"
+          },
+          {
+            "id": "6a16da3c384211b38f54e75b",
+            "label": "Foundational techniques and teaching framework"
+          },
+          {
+            "id": "6a16da3c384211b38f54e75c",
+            "label": "Practice rounds with trainer guidance"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e761",
+        "dayLabel": "Day 2",
+        "dayTitle": "Application",
+        "dayDate": "Training Day 2",
+        "theme": "Practice, nuance and confidence",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e75e",
+            "label": "Deeper application with case examples"
+          },
+          {
+            "id": "6a16da3c384211b38f54e75f",
+            "label": "Practice sessions, debriefs and Q&A"
+          },
+          {
+            "id": "6a16da3c384211b38f54e760",
+            "label": "Troubleshooting common sticking points"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e765",
+        "dayLabel": "Day 3",
+        "dayTitle": "Integration",
+        "dayDate": "Training Day 3",
+        "theme": "Professional use and next steps",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e762",
+            "label": "Ethics, scope, confidence and integration"
+          },
+          {
+            "id": "6a16da3c384211b38f54e763",
+            "label": "Certification or pathway requirements"
+          },
+          {
+            "id": "6a16da3c384211b38f54e764",
+            "label": "Closing supervision, reflection and action plan"
+          }
+        ]
+      }
+    ],
+    "certificationSteps": [
+      {
+        "id": "6a16da3c384211b38f54e766",
+        "stepLabel": "1",
+        "title": "Complete the live training",
+        "description": "Attend the full training and receive your EFTMRA India certificate of completion.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e767",
+        "stepLabel": "2",
+        "title": "Continue your supervised learning",
+        "description": "Follow the recommended coursework, practice hours, and mentoring guidance for your chosen level.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e768",
+        "stepLabel": "✓",
+        "title": "Progress toward recognition",
+        "description": "Move forward with the relevant EFTMRA U.K. pathway and professional development steps for your programme.",
+        "highlight": true
+      }
+    ],
+    "stats": [
+      {
+        "id": "6a16da3c384211b38f54e769",
+        "value": "3",
+        "label": "Days Intensive"
+      },
+      {
+        "id": "6a16da3c384211b38f54e76a",
+        "value": "1",
+        "label": "Certification Start"
+      }
+    ],
+    "venueName": "Chembur",
+    "venueAddress": "Mumbai",
+    "venueGoogleMapLocation": null,
+    "venueImage": {
+      "id": 983,
+      "alt": "EFT Levels 1 and 2 Practitioner Course Mumbai May 2026",
+      "updatedAt": "2026-05-05T06:52:43.941Z",
+      "createdAt": "2026-05-05T06:52:43.941Z",
+      "url": "http://localhost:3001/api/media/file/Divya-EFT.jpeg",
+      "thumbnailURL": null,
+      "filename": "Divya-EFT.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 177687,
+      "width": 1080,
+      "height": 1080,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "venueImageAlt": "EFT Levels 1 and 2 Practitioner Course Mumbai May 2026",
+    "venueNotes": [
+      {
+        "id": "6a16da3c384211b38f54e76b",
+        "icon": "room",
+        "label": "Dedicated training room — fully prepared for live teaching and partner practice"
+      },
+      {
+        "id": "6a16da3c384211b38f54e76c",
+        "icon": "location",
+        "label": "Full venue details are shared again after registration"
+      },
+      {
+        "id": "6a16da3c384211b38f54e76d",
+        "icon": "info",
+        "label": "Tea, coffee and break logistics are confirmed with your joining instructions"
+      }
+    ],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": {
+        "id": 983,
+        "alt": "EFT Levels 1 and 2 Practitioner Course Mumbai May 2026",
+        "updatedAt": "2026-05-05T06:52:43.941Z",
+        "createdAt": "2026-05-05T06:52:43.941Z",
+        "url": "http://localhost:3001/api/media/file/Divya-EFT.jpeg",
+        "thumbnailURL": null,
+        "filename": "Divya-EFT.jpeg",
+        "mimeType": "image/jpeg",
+        "filesize": 177687,
+        "width": 1080,
+        "height": 1080,
+        "focalX": 50,
+        "focalY": 50
+      }
+    },
+    "slug": "eft-levels-1-2-practitioner-course-mumbai-may-2026",
+    "status": "published",
+    "price": "50000",
+    "priceNote": "details shared on registration",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:16.176Z",
+    "createdAt": "2026-05-05T07:05:32.169Z"
+  },
+  {
+    "id": 26,
+    "title": "International Certification in Matrix Reimprinting",
+    "description": "An international certification in Matrix Reimprinting with Diksha Wadhwa in Thane, focused on core beliefs, repetitive patterns, generational trauma, inner child work, and trauma-informed practice.",
+    "levelLabel": "Matrix Reimprinting",
+    "levelKey": "matrix",
+    "badge": "Matrix Reimprinting",
+    "badgeTone": "blue",
+    "image": {
+      "id": 989,
+      "alt": "Diksha Wadhwa",
+      "updatedAt": "2026-05-06T08:51:55.485Z",
+      "createdAt": "2026-05-06T08:51:55.485Z",
+      "url": "http://localhost:3001/api/media/file/diksha-wadhwa-profile.png",
+      "thumbnailURL": null,
+      "filename": "diksha-wadhwa-profile.png",
+      "mimeType": "image/png",
+      "filesize": 153303,
+      "width": 345,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Matrix Reimprinting Certification Thane May 2026",
+    "posterImage": {
+      "id": 982,
+      "alt": "Matrix Reimprinting Certification Thane May 2026",
+      "updatedAt": "2026-05-05T06:52:43.886Z",
+      "createdAt": "2026-05-05T06:52:43.886Z",
+      "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2026-03-05-at-8.21.13-AM-1.jpeg",
+      "thumbnailURL": null,
+      "filename": "WhatsApp-Image-2026-03-05-at-8.21.13-AM-1.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 152722,
+      "width": 1080,
+      "height": 1080,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "Matrix Reimprinting Certification Thane May 2026",
+    "startDate": "2026-05-27T18:30:00.000Z",
+    "endDate": "2026-05-30T18:30:00.000Z",
+    "format": "In-person",
+    "cityLabel": "Thane",
+    "venue": "The Byke Suraj Plaza, Thane",
+    "schedule": "28–31 May 2026",
+    "requirement": "Eligibility: EFT Level 1 & 2 practitioner with EFTMRA India",
+    "availability": "Registration open",
+    "availabilityTone": "open",
+    "cityKey": "thane",
+    "cityText": "Thane",
+    "monthKey": "may",
+    "monthLabel": "MAY",
+    "dateText": "28 May-31, 2026",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3c384211b38f54e76e",
+        "content": "This training is delivered through EFTMRA India's internationally aligned curriculum, combining practical tapping tools, trauma-aware teaching, and a clear pathway into deeper professional practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e76f",
+        "content": "Participants leave with structured next steps, practice guidance, and access to the wider EFTMRA learning community so the training continues to support their growth beyond the room."
+      }
+    ],
+    "outcomes": [
+      {
+        "id": "6a16da3c384211b38f54e770",
+        "label": "Find out and work with core beliefs"
+      },
+      {
+        "id": "6a16da3c384211b38f54e771",
+        "label": "Use techniques that uncover repetitive patterns and change them"
+      },
+      {
+        "id": "6a16da3c384211b38f54e772",
+        "label": "Release generational trauma through in-depth work"
+      },
+      {
+        "id": "6a16da3c384211b38f54e773",
+        "label": "Empower inner child work"
+      },
+      {
+        "id": "6a16da3c384211b38f54e774",
+        "label": "Understand trauma-informed practice"
+      }
+    ],
+    "audiences": [
+      {
+        "id": "6a16da3c384211b38f54e775",
+        "title": "Helping Professionals",
+        "description": "Therapists, coaches, counsellors, healers, doctors and wellness practitioners looking to expand their toolkit."
+      },
+      {
+        "id": "6a16da3c384211b38f54e776",
+        "title": "Career Changers",
+        "description": "People seeking a structured, high-quality entry point into transformational work and client practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e777",
+        "title": "Personal Growth Seekers",
+        "description": "Those who want to deepen their own healing journey while learning skills they can later share with others."
+      }
+    ],
+    "trainerName": "Diksha Wadhwa",
+    "trainerRole": "EFT Master Trainer · Matrix Reimprinting Trainer",
+    "trainerImage": {
+      "id": 989,
+      "alt": "Diksha Wadhwa",
+      "updatedAt": "2026-05-06T08:51:55.485Z",
+      "createdAt": "2026-05-06T08:51:55.485Z",
+      "url": "http://localhost:3001/api/media/file/diksha-wadhwa-profile.png",
+      "thumbnailURL": null,
+      "filename": "diksha-wadhwa-profile.png",
+      "mimeType": "image/png",
+      "filesize": 153303,
+      "width": 345,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": "Matrix Reimprinting Certification Thane May 2026",
+    "trainerBio": "Diksha leads Matrix Reimprinting training for practitioners working with core beliefs, repetitive patterns, generational trauma, and inner child healing.",
+    "trainerCredentials": [
+      {
+        "id": "6a16da3c384211b38f54e778",
+        "label": "EFT Master Trainer"
+      },
+      {
+        "id": "6a16da3c384211b38f54e779",
+        "label": "Matrix Reimprinting Trainer"
+      }
+    ],
+    "scheduleDays": [
+      {
+        "id": "6a16da3c384211b38f54e77d",
+        "dayLabel": "Day 1",
+        "dayTitle": "Foundations",
+        "dayDate": "Training Day 1",
+        "theme": "Core principles and structure",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e77a",
+            "label": "Orientation, principles and live demonstrations"
+          },
+          {
+            "id": "6a16da3c384211b38f54e77b",
+            "label": "Foundational techniques and teaching framework"
+          },
+          {
+            "id": "6a16da3c384211b38f54e77c",
+            "label": "Practice rounds with trainer guidance"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e781",
+        "dayLabel": "Day 2",
+        "dayTitle": "Application",
+        "dayDate": "Training Day 2",
+        "theme": "Practice, nuance and confidence",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e77e",
+            "label": "Deeper application with case examples"
+          },
+          {
+            "id": "6a16da3c384211b38f54e77f",
+            "label": "Practice sessions, debriefs and Q&A"
+          },
+          {
+            "id": "6a16da3c384211b38f54e780",
+            "label": "Troubleshooting common sticking points"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e785",
+        "dayLabel": "Day 3",
+        "dayTitle": "Integration",
+        "dayDate": "Training Day 3",
+        "theme": "Professional use and next steps",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e782",
+            "label": "Ethics, scope, confidence and integration"
+          },
+          {
+            "id": "6a16da3c384211b38f54e783",
+            "label": "Certification or pathway requirements"
+          },
+          {
+            "id": "6a16da3c384211b38f54e784",
+            "label": "Closing supervision, reflection and action plan"
+          }
+        ]
+      }
+    ],
+    "certificationSteps": [
+      {
+        "id": "6a16da3c384211b38f54e786",
+        "stepLabel": "1",
+        "title": "Complete the live training",
+        "description": "Attend the full training and receive your EFTMRA India certificate of completion.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e787",
+        "stepLabel": "2",
+        "title": "Continue your supervised learning",
+        "description": "Follow the recommended coursework, practice hours, and mentoring guidance for your chosen level.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e788",
+        "stepLabel": "✓",
+        "title": "Progress toward recognition",
+        "description": "Move forward with the relevant EFTMRA U.K. pathway and professional development steps for your programme.",
+        "highlight": true
+      }
+    ],
+    "stats": [
+      {
+        "id": "6a16da3c384211b38f54e789",
+        "value": "3",
+        "label": "Live Days"
+      },
+      {
+        "id": "6a16da3c384211b38f54e78a",
+        "value": "1",
+        "label": "Advanced Method"
+      }
+    ],
+    "venueName": "The Byke Suraj Plaza",
+    "venueAddress": "Thane",
+    "venueGoogleMapLocation": null,
+    "venueImage": {
+      "id": 982,
+      "alt": "Matrix Reimprinting Certification Thane May 2026",
+      "updatedAt": "2026-05-05T06:52:43.886Z",
+      "createdAt": "2026-05-05T06:52:43.886Z",
+      "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2026-03-05-at-8.21.13-AM-1.jpeg",
+      "thumbnailURL": null,
+      "filename": "WhatsApp-Image-2026-03-05-at-8.21.13-AM-1.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 152722,
+      "width": 1080,
+      "height": 1080,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "venueImageAlt": "Matrix Reimprinting Certification Thane May 2026",
+    "venueNotes": [
+      {
+        "id": "6a16da3c384211b38f54e78b",
+        "icon": "room",
+        "label": "Dedicated training room — fully prepared for live teaching and partner practice"
+      },
+      {
+        "id": "6a16da3c384211b38f54e78c",
+        "icon": "location",
+        "label": "Full venue details are shared again after registration"
+      },
+      {
+        "id": "6a16da3c384211b38f54e78d",
+        "icon": "info",
+        "label": "Tea, coffee and break logistics are confirmed with your joining instructions"
+      }
+    ],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": null,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": null,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": {
+        "id": 982,
+        "alt": "Matrix Reimprinting Certification Thane May 2026",
+        "updatedAt": "2026-05-05T06:52:43.886Z",
+        "createdAt": "2026-05-05T06:52:43.886Z",
+        "url": "http://localhost:3001/api/media/file/WhatsApp-Image-2026-03-05-at-8.21.13-AM-1.jpeg",
+        "thumbnailURL": null,
+        "filename": "WhatsApp-Image-2026-03-05-at-8.21.13-AM-1.jpeg",
+        "mimeType": "image/jpeg",
+        "filesize": 152722,
+        "width": 1080,
+        "height": 1080,
+        "focalX": 50,
+        "focalY": 50
+      }
+    },
+    "slug": "international-certification-matrix-reimprinting-thane-may-2026",
+    "status": "published",
+    "price": "65000",
+    "priceNote": "details shared on registration",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:16.223Z",
+    "createdAt": "2026-05-05T07:05:32.130Z"
+  },
+  {
+    "id": 25,
+    "title": "Advanced EFT Level 3 Workshop",
+    "description": "An Advanced EFT Level 3 workshop with Divya Srivastava in Mumbai, focused on trauma processing, parts-work, titration, pacing, shadow work, and conflict resolution.",
+    "levelLabel": "Level 3",
+    "levelKey": "l3",
+    "badge": "Advanced EFT Level 3",
+    "badgeTone": "blue",
+    "image": {
+      "id": 990,
+      "alt": null,
+      "updatedAt": "2026-05-06T08:55:15.756Z",
+      "createdAt": "2026-05-06T08:55:15.756Z",
+      "url": "http://localhost:3001/api/media/file/divya-srivastava-profile.png",
+      "thumbnailURL": null,
+      "filename": "divya-srivastava-profile.png",
+      "mimeType": "image/png",
+      "filesize": 197929,
+      "width": 405,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "imageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+    "posterImage": {
+      "id": 981,
+      "alt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "updatedAt": "2026-05-05T06:52:43.791Z",
+      "createdAt": "2026-05-05T06:52:43.790Z",
+      "url": "http://localhost:3001/api/media/file/Divya-EFT-3.jpeg",
+      "thumbnailURL": null,
+      "filename": "Divya-EFT-3.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 135663,
+      "width": 1080,
+      "height": 1080,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "posterImageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+    "startDate": "2026-05-29T18:30:00.000Z",
+    "endDate": "2026-05-30T18:30:00.000Z",
+    "format": "In-person",
+    "cityLabel": "Mumbai",
+    "venue": "Mumbai",
+    "schedule": "30–31 May 2026 · 10:00 a.m. - 6:00 p.m.",
+    "requirement": "For practitioners ready for advanced EFT Level 3 work",
+    "availability": "Registration open",
+    "availabilityTone": "low",
+    "cityKey": "mumbai",
+    "cityText": "Mumbai",
+    "monthKey": "may",
+    "monthLabel": "MAY",
+    "dateText": "30 May-31, 2026",
+    "aboutParagraphs": [
+      {
+        "id": "6a16da3c384211b38f54e78e",
+        "content": "This training is delivered through EFTMRA India's internationally aligned curriculum, combining practical tapping tools, trauma-aware teaching, and a clear pathway into deeper professional practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e78f",
+        "content": "Participants leave with structured next steps, practice guidance, and access to the wider EFTMRA learning community so the training continues to support their growth beyond the room."
+      }
+    ],
+    "outcomes": [
+      {
+        "id": "6a16da3c384211b38f54e790",
+        "label": "Integrate EFT with parts-work"
+      },
+      {
+        "id": "6a16da3c384211b38f54e791",
+        "label": "Use titration and pacing techniques"
+      },
+      {
+        "id": "6a16da3c384211b38f54e792",
+        "label": "Apply tapping and Jungian shadow-work"
+      },
+      {
+        "id": "6a16da3c384211b38f54e793",
+        "label": "Use Gestalt-based techniques for conflict-resolution"
+      }
+    ],
+    "audiences": [
+      {
+        "id": "6a16da3c384211b38f54e794",
+        "title": "Helping Professionals",
+        "description": "Therapists, coaches, counsellors, healers, doctors and wellness practitioners looking to expand their toolkit."
+      },
+      {
+        "id": "6a16da3c384211b38f54e795",
+        "title": "Career Changers",
+        "description": "People seeking a structured, high-quality entry point into transformational work and client practice."
+      },
+      {
+        "id": "6a16da3c384211b38f54e796",
+        "title": "Personal Growth Seekers",
+        "description": "Those who want to deepen their own healing journey while learning skills they can later share with others."
+      }
+    ],
+    "trainerName": "Divya Srivastava",
+    "trainerRole": "EFTMRA India Trainer",
+    "trainerImage": {
+      "id": 990,
+      "alt": null,
+      "updatedAt": "2026-05-06T08:55:15.756Z",
+      "createdAt": "2026-05-06T08:55:15.756Z",
+      "url": "http://localhost:3001/api/media/file/divya-srivastava-profile.png",
+      "thumbnailURL": null,
+      "filename": "divya-srivastava-profile.png",
+      "mimeType": "image/png",
+      "filesize": 197929,
+      "width": 405,
+      "height": 389,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "trainerImageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+    "trainerBio": "Divya leads advanced EFT work focused on trauma processing, parts-work, titration, pacing, and conflict-resolution techniques.",
+    "trainerCredentials": [
+      {
+        "id": "6a16da3c384211b38f54e797",
+        "label": "EFTMRA India Trainer"
+      }
+    ],
+    "scheduleDays": [
+      {
+        "id": "6a16da3c384211b38f54e79b",
+        "dayLabel": "Day 1",
+        "dayTitle": "Foundations",
+        "dayDate": "Training Day 1",
+        "theme": "Core principles and structure",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e798",
+            "label": "Orientation, principles and live demonstrations"
+          },
+          {
+            "id": "6a16da3c384211b38f54e799",
+            "label": "Foundational techniques and teaching framework"
+          },
+          {
+            "id": "6a16da3c384211b38f54e79a",
+            "label": "Practice rounds with trainer guidance"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e79f",
+        "dayLabel": "Day 2",
+        "dayTitle": "Application",
+        "dayDate": "Training Day 2",
+        "theme": "Practice, nuance and confidence",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e79c",
+            "label": "Deeper application with case examples"
+          },
+          {
+            "id": "6a16da3c384211b38f54e79d",
+            "label": "Practice sessions, debriefs and Q&A"
+          },
+          {
+            "id": "6a16da3c384211b38f54e79e",
+            "label": "Troubleshooting common sticking points"
+          }
+        ]
+      },
+      {
+        "id": "6a16da3c384211b38f54e7a3",
+        "dayLabel": "Day 3",
+        "dayTitle": "Integration",
+        "dayDate": "Training Day 3",
+        "theme": "Professional use and next steps",
+        "topics": [
+          {
+            "id": "6a16da3c384211b38f54e7a0",
+            "label": "Ethics, scope, confidence and integration"
+          },
+          {
+            "id": "6a16da3c384211b38f54e7a1",
+            "label": "Certification or pathway requirements"
+          },
+          {
+            "id": "6a16da3c384211b38f54e7a2",
+            "label": "Closing supervision, reflection and action plan"
+          }
+        ]
+      }
+    ],
+    "certificationSteps": [
+      {
+        "id": "6a16da3c384211b38f54e7a4",
+        "stepLabel": "1",
+        "title": "Complete the live training",
+        "description": "Attend the full training and receive your EFTMRA India certificate of completion.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e7a5",
+        "stepLabel": "2",
+        "title": "Continue your supervised learning",
+        "description": "Follow the recommended coursework, practice hours, and mentoring guidance for your chosen level.",
+        "highlight": null
+      },
+      {
+        "id": "6a16da3c384211b38f54e7a6",
+        "stepLabel": "✓",
+        "title": "Progress toward recognition",
+        "description": "Move forward with the relevant EFTMRA U.K. pathway and professional development steps for your programme.",
+        "highlight": true
+      }
+    ],
+    "stats": [
+      {
+        "id": "6a16da3c384211b38f54e7a7",
+        "value": "3",
+        "label": "Advanced Days"
+      },
+      {
+        "id": "6a16da3c384211b38f54e7a8",
+        "value": "1",
+        "label": "Next-Level Module"
+      }
+    ],
+    "venueName": "Mumbai",
+    "venueAddress": "Mumbai",
+    "venueGoogleMapLocation": null,
+    "venueImage": {
+      "id": 981,
+      "alt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+      "updatedAt": "2026-05-05T06:52:43.791Z",
+      "createdAt": "2026-05-05T06:52:43.790Z",
+      "url": "http://localhost:3001/api/media/file/Divya-EFT-3.jpeg",
+      "thumbnailURL": null,
+      "filename": "Divya-EFT-3.jpeg",
+      "mimeType": "image/jpeg",
+      "filesize": 135663,
+      "width": 1080,
+      "height": 1080,
+      "focalX": 50,
+      "focalY": 50
+    },
+    "venueImageAlt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+    "venueNotes": [
+      {
+        "id": "6a16da3c384211b38f54e7a9",
+        "icon": "room",
+        "label": "Dedicated training room — fully prepared for live teaching and partner practice"
+      },
+      {
+        "id": "6a16da3c384211b38f54e7aa",
+        "icon": "location",
+        "label": "Full venue details are shared again after registration"
+      },
+      {
+        "id": "6a16da3c384211b38f54e7ab",
+        "icon": "info",
+        "label": "Tea, coffee and break logistics are confirmed with your joining instructions"
+      }
+    ],
+    "galleryIntro": null,
+    "associatedGallery": {
+      "docs": [],
+      "hasNextPage": false
+    },
+    "galleryVideoLabel": null,
+    "galleryVideoUrl": null,
+    "galleryShareTitle": null,
+    "galleryShareDescription": null,
+    "submittedReviews": {
+      "docs": [
+        {
+          "id": 41,
+          "trainer": 7,
+          "authorName": "new test",
+          "authorEmail": "arundas.sdl@gmail.com",
+          "authorRole": "test",
+          "trainingAttended": "Advanced EFT Level 3 Workshop — Mumbai",
+          "dateLabel": "May 2026",
+          "quote": "test new review test new review",
+          "rating": 5,
+          "status": "draft",
+          "displayOrder": 0,
+          "site": 1,
+          "training": 25,
+          "updatedAt": "2026-05-27T11:49:16.309Z",
+          "createdAt": "2026-05-23T08:53:35.487Z"
+        },
+        {
+          "id": 40,
+          "trainer": 7,
+          "authorName": "test",
+          "authorEmail": "arundas.sdl@gmail.com",
+          "authorRole": "test",
+          "trainingAttended": "Advanced EFT Level 3 Workshop — Mumbai",
+          "dateLabel": "May 2026",
+          "quote": "test review test review test review test review test review",
+          "rating": 5,
+          "status": "published",
+          "displayOrder": 0,
+          "site": 1,
+          "training": 25,
+          "updatedAt": "2026-05-27T11:49:16.340Z",
+          "createdAt": "2026-05-23T07:18:49.017Z"
+        }
+      ],
+      "hasNextPage": false
+    },
+    "reviewsBreakdown": [
+      {
+        "id": "6a16da3c384211b38f54e7ac",
+        "stars": 5,
+        "count": 0
+      },
+      {
+        "id": "6a16da3c384211b38f54e7ad",
+        "stars": 4,
+        "count": 0
+      },
+      {
+        "id": "6a16da3c384211b38f54e7ae",
+        "stars": 3,
+        "count": 0
+      },
+      {
+        "id": "6a16da3c384211b38f54e7af",
+        "stars": 2,
+        "count": 0
+      },
+      {
+        "id": "6a16da3c384211b38f54e7b0",
+        "stars": 1,
+        "count": 0
+      }
+    ],
+    "reviewsList": [],
+    "rating": null,
+    "reviews": 0,
+    "reviewsSummaryAverage": null,
+    "reviewsSummaryCount": 0,
+    "formTitle": null,
+    "submitLabel": null,
+    "successTitle": null,
+    "successMessage": null,
+    "termsLabel": null,
+    "termsHref": null,
+    "cancellationLabel": null,
+    "cancellationHref": null,
+    "availabilityText": null,
+    "meta": {
+      "title": null,
+      "description": null,
+      "image": {
+        "id": 981,
+        "alt": "Advanced EFT Level 3 Workshop Mumbai May 2026",
+        "updatedAt": "2026-05-05T06:52:43.791Z",
+        "createdAt": "2026-05-05T06:52:43.790Z",
+        "url": "http://localhost:3001/api/media/file/Divya-EFT-3.jpeg",
+        "thumbnailURL": null,
+        "filename": "Divya-EFT-3.jpeg",
+        "mimeType": "image/jpeg",
+        "filesize": 135663,
+        "width": 1080,
+        "height": 1080,
+        "focalX": 50,
+        "focalY": 50
+      }
+    },
+    "slug": "advanced-eft-level-3-workshop-mumbai-may-2026",
+    "status": "published",
+    "price": "35000",
+    "priceNote": "details shared on registration",
+    "site": {
+      "id": 1,
+      "name": "EFTMRA India",
+      "theme": {
+        "preset": "main",
+        "primaryColor": "#4A9DAE",
+        "secondaryColor": "#1A3B4C",
+        "accentColor": "#EFF8FA",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1A3B4C",
+        "mutedColor": "#6B8898",
+        "radiusBrand": null,
+        "shadowSoft": null,
+        "customTokens": [
+          {
+            "id": "69f9f108fa2aff1b97cdec8d",
+            "token": "eftmra-midnight",
+            "label": "EFTMRA Midnight",
+            "value": "#1A3B4C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8e",
+            "token": "eftmra-deep-ocean",
+            "label": "EFTMRA Deep Ocean",
+            "value": "#2B6A7C"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec8f",
+            "token": "eftmra-sapphire",
+            "label": "EFTMRA Sapphire",
+            "value": "#4A9DAE"
+          },
+          {
+            "id": "69f9f108fa2aff1b97cdec90",
+            "token": "eftmra-amber",
+            "label": "EFTMRA Amber",
+            "value": "#C9A84C"
+          }
+        ]
+      },
+      "micrositeSubmenu": {
+        "title": "",
+        "icon": "auto",
+        "logoImage": null,
+        "links": []
+      },
+      "footer": {
+        "backgroundColor": null,
+        "textColor": null,
+        "logoText": null,
+        "logoImage": null,
+        "logoHref": null,
+        "tagline": null,
+        "columns": [],
+        "copyrightText": null,
+        "socialLinks": []
+      },
+      "slug": "/",
+      "domain": null,
+      "layoutType": "platform-home",
+      "updatedAt": "2026-05-27T11:49:22.032Z",
+      "createdAt": "2026-04-17T10:38:04.690Z"
+    },
+    "updatedAt": "2026-05-27T11:49:16.273Z",
+    "createdAt": "2026-05-05T07:05:32.074Z"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "label": "Anxiety & Stress",
+    "value": "anxiety-and-stress",
+    "enabled": true,
+    "sortOrder": 1,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 2,
+    "label": "Trauma & PTSD",
+    "value": "trauma-and-ptsd",
+    "enabled": true,
+    "sortOrder": 2,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 3,
+    "label": "Depression",
+    "value": "depression",
+    "enabled": true,
+    "sortOrder": 3,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 4,
+    "label": "Grief & Loss",
+    "value": "grief-and-loss",
+    "enabled": true,
+    "sortOrder": 4,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 5,
+    "label": "Phobias & Fears",
+    "value": "phobias-and-fears",
+    "enabled": true,
+    "sortOrder": 5,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 6,
+    "label": "Chronic Pain",
+    "value": "chronic-pain",
+    "enabled": true,
+    "sortOrder": 6,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 7,
+    "label": "Relationships",
+    "value": "relationships",
+    "enabled": true,
+    "sortOrder": 7,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 8,
+    "label": "Self-Worth",
+    "value": "self-worth",
+    "enabled": true,
+    "sortOrder": 8,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 9,
+    "label": "Performance",
+    "value": "performance",
+    "enabled": true,
+    "sortOrder": 9,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 10,
+    "label": "Children & Teens",
+    "value": "children-and-teens",
+    "enabled": true,
+    "sortOrder": 10,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 11,
+    "label": "Addictions",
+    "value": "addictions",
+    "enabled": true,
+    "sortOrder": 11,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  },
+  {
+    "id": 12,
+    "label": "Women's Health",
+    "value": "women-s-health",
+    "enabled": true,
+    "sortOrder": 12,
+    "updatedAt": "2026-05-25T07:15:06.635Z",
+    "createdAt": "2026-05-25T07:15:06.635Z"
+  }
+]
