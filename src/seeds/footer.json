@@ -60,7 +60,7 @@
     },
     {
       "id": "69fb1761517a55d0072423bc",
-      "title": "Quick Links",
+      "title": "-",
       "content": null,
       "links": [
         {
@@ -126,7 +126,7 @@
       "href": "https://api.whatsapp.com/send?phone=+918073726665"
     }
   ],
-  "updatedAt": "2026-05-27T11:49:20.322Z",
+  "updatedAt": "2026-05-28T07:25:04.962Z",
   "createdAt": "2026-04-17T10:50:28.802Z",
   "globalType": "footer"
 }

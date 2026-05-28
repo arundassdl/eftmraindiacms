@@ -49,9 +49,9 @@
     "email": "pm@socialdnalabs.com",
     "sessions": [
       {
-        "id": "aab57372-a467-4ee6-9a95-6347aefd985f",
-        "createdAt": "2026-05-27T11:13:31.758Z",
-        "expiresAt": "2026-05-27T13:13:31.758Z"
+        "id": "10c64114-7cde-4dd4-82ea-0b60711b9784",
+        "createdAt": "2026-05-28T07:23:52.372Z",
+        "expiresAt": "2026-05-28T09:23:52.372Z"
       }
     ],
     "collection": "users"

@@ -641,17 +641,17 @@
     "name": "Meetu Sehgal",
     "tagline": "Meetu Sehgal is part of the EFTMRA India trainer faculty, supporting students with practical, ethical, and compassionate EFT learning.",
     "image": {
-      "id": 31,
-      "alt": "Meetu Sehgal",
-      "updatedAt": "2026-04-17T12:12:46.435Z",
-      "createdAt": "2026-04-17T12:12:46.435Z",
-      "url": "http://localhost:3001/api/media/file/Meetu-Sehgal.webp",
+      "id": 1020,
+      "alt": null,
+      "updatedAt": "2026-05-28T09:10:40.881Z",
+      "createdAt": "2026-05-28T09:10:40.881Z",
+      "url": "http://localhost:3001/api/media/file/meetu-sehgal.png",
       "thumbnailURL": null,
-      "filename": "Meetu-Sehgal.webp",
-      "mimeType": "image/webp",
-      "filesize": 5972,
-      "width": 150,
-      "height": 150,
+      "filename": "meetu-sehgal.png",
+      "mimeType": "image/png",
+      "filesize": 682987,
+      "width": 1129,
+      "height": 1393,
       "focalX": 50,
       "focalY": 50
     },
@@ -776,7 +776,7 @@
       "updatedAt": "2026-05-27T11:49:22.032Z",
       "createdAt": "2026-04-17T10:38:04.690Z"
     },
-    "updatedAt": "2026-05-27T11:49:19.999Z",
+    "updatedAt": "2026-05-28T09:13:36.035Z",
     "createdAt": "2026-05-21T15:37:14.372Z"
   },
   {

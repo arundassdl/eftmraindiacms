@@ -83,7 +83,7 @@ const defaultOrigins = [
 const publicSiteUrl =
   process.env.NEXT_PUBLIC_SITE_URL ||
   process.env.NEXT_PUBLIC_WEB_URL ||
-  "https://devtest.socialdnalabs.com/eftmraindia/cms";
+  "https://www.eftmraindia.com";
 
 const cmsBasePath = (process.env.NEXT_PUBLIC_CMS_BASE_PATH || "").replace(/\/$/, "");
 
@@ -435,7 +435,7 @@ export default buildConfig({
   sharp,
   // serverURL: process.env.NEXT_PUBLIC_SERVER_URL || "http://localhost:3001",
   serverURL:
-    process.env.NEXT_PUBLIC_SERVER_URL || "https://devtest.socialdnalabs.com/eftmraindia/cms",
+    process.env.NEXT_PUBLIC_SERVER_URL || "http://localhost:3001",
 
   routes: {
     admin: '/admin',

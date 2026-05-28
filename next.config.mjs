@@ -1,25 +1,18 @@
 //import { withPayload } from "@payloadcms/next/withPayload";
 
-//const basePath = '/eftmraindia/cms'
+const normalizeBasePath = (value) => {
+  if (!value || value === '/') {
+    return ''
+  }
 
-/** @type {import('next').NextConfig} */
-/** const nextConfig = {
-  basePath,
-  assetPrefix: basePath,
-} */
+  return value.replace(/\/$/, '')
+}
 
-/** @type {import('next').NextConfig} */
-// const nextConfig = {};
-
-// export default withPayload(nextConfig);
-//
-
-const basePath = process.env.NEXT_PUBLIC_CMS_BASE_PATH || ''
+const basePath = normalizeBasePath(process.env.NEXT_PUBLIC_CMS_BASE_PATH)
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // basePath,
-  assetPrefix: basePath,
+  ...(basePath ? { basePath, assetPrefix: basePath } : {}),
   env: {
     NEXT_PUBLIC_CMS_BASE_PATH: basePath,
   },

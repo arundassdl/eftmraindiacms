@@ -1,5 +1,20 @@
 [
   {
+    "id": 1020,
+    "alt": null,
+    "updatedAt": "2026-05-28T09:10:40.881Z",
+    "createdAt": "2026-05-28T09:10:40.881Z",
+    "url": "http://localhost:3001/api/media/file/meetu-sehgal.png",
+    "thumbnailURL": null,
+    "filename": "meetu-sehgal.png",
+    "mimeType": "image/png",
+    "filesize": 682987,
+    "width": 1129,
+    "height": 1393,
+    "focalX": 50,
+    "focalY": 50
+  },
+  {
     "id": 1019,
     "alt": null,
     "updatedAt": "2026-05-27T13:07:08.033Z",
@@ -14980,21 +14995,6 @@
     "mimeType": "image/png",
     "filesize": 1854037,
     "width": 1376,
-    "height": 768,
-    "focalX": 50,
-    "focalY": 50
-  },
-  {
-    "id": 20,
-    "alt": "EFTMRA India group",
-    "updatedAt": "2026-04-17T12:12:45.748Z",
-    "createdAt": "2026-04-17T12:12:45.748Z",
-    "url": "http://localhost:3001/api/media/file/About-EFTMRA-India.webp",
-    "thumbnailURL": null,
-    "filename": "About-EFTMRA-India.webp",
-    "mimeType": "image/webp",
-    "filesize": 88060,
-    "width": 1024,
     "height": 768,
     "focalX": 50,
     "focalY": 50

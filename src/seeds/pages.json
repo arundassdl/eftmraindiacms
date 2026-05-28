@@ -1739,7 +1739,7 @@
             "priceNote": null,
             "trainerCredentials": [],
             "cta": {
-              "label": "View Dates & Enroll →",
+              "label": "View Dates & Enroll",
               "href": "/eft-training"
             }
           },
@@ -1791,7 +1791,7 @@
             "priceNote": null,
             "trainerCredentials": [],
             "cta": {
-              "label": "View Dates & Enroll →",
+              "label": "View Dates & Enroll",
               "href": "/eft-training"
             }
           },
@@ -1843,14 +1843,14 @@
             "priceNote": null,
             "trainerCredentials": [],
             "cta": {
-              "label": "View Dates & Enroll →",
+              "label": "View Dates & Enroll ",
               "href": "/eft-training"
             }
           }
         ],
         "blockType": "eftmra-courses",
         "sectionCTA": {
-          "label": "See All Upcoming Courses & Dates →",
+          "label": "See All Upcoming Courses & Dates",
           "href": "/eft-training"
         }
       },
@@ -1867,7 +1867,7 @@
         "practitioners": [],
         "blockType": "eftmra-practitioners",
         "cta": {
-          "label": "View All Practitioners →",
+          "label": "View All Practitioners",
           "href": "/practitioners"
         },
         "registerCTA": {
@@ -2041,7 +2041,7 @@
       "updatedAt": "2026-05-27T11:49:22.032Z",
       "createdAt": "2026-04-17T10:38:04.690Z"
     },
-    "updatedAt": "2026-05-27T11:49:21.170Z",
+    "updatedAt": "2026-05-28T08:52:42.874Z",
     "createdAt": "2026-05-15T05:58:08.924Z",
     "_status": "published"
   },
