@@ -11,7 +11,7 @@
     "prebuild": "npm run generate:types && npm run generate:importmap",
     "build": "next build",
     "prestart": "npm run generate:types && npm run generate:importmap",
-    "start": "next start -p 3001",
+    "start": "npm run migrate && next start -p 3001",
     "payload": "payload",
     "migrate": "payload migrate && tsx scripts/sync-seeds-if-changed.ts",
     "migrate:schema": "payload migrate",
