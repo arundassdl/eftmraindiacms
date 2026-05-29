@@ -191,7 +191,7 @@ async function normalizeSeedValue(
     Object.entries(value).map(
       async ([key, nestedValue]) => {
         if (
-          (key === 'id' && typeof nestedValue === 'number') ||
+          key === 'id' ||
           [
             'createdAt',
             'updatedAt',
@@ -443,15 +443,32 @@ export async function seedPages(
         ],
       },
       depth: 0,
-      limit: 1,
+      limit: 100,
       req,
       overrideAccess: true,
     })
 
     if (existing.docs[0]) {
+      const [pageToUpdate, ...duplicatePages] = existing.docs
+
+      for (const duplicatePage of duplicatePages) {
+        await payload.delete({
+          collection: 'pages',
+          id: duplicatePage.id,
+          req,
+          overrideAccess: true,
+        })
+      }
+
+      if (duplicatePages.length > 0) {
+        payload.logger.warn(
+          `Removed ${duplicatePages.length} duplicate page(s): ${page.slug}`
+        )
+      }
+
       await payload.update({
         collection: 'pages',
-        id: existing.docs[0].id,
+        id: pageToUpdate.id,
         data: pageData as never,
         req,
         overrideAccess: true,

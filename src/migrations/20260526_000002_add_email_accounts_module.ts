@@ -64,33 +64,70 @@ async function ensureRoleEnum(db: MigrateUpArgs['db']) {
 async function migrateEmbeddedAccounts(db: MigrateUpArgs['db']) {
   await db.execute(`
     DO $$
+    DECLARE
+      has_email_account_enums boolean;
     BEGIN
+      SELECT EXISTS (
+        SELECT 1 FROM pg_type
+        WHERE typname = 'enum_email_accounts_provider'
+      ) AND EXISTS (
+        SELECT 1 FROM pg_type
+        WHERE typname = 'enum_email_accounts_auth_mode'
+      )
+      INTO has_email_account_enums;
+
       IF EXISTS (
         SELECT 1 FROM information_schema.tables
         WHERE table_schema = 'public'
           AND table_name = 'email_settings_email_accounts'
       ) THEN
-        INSERT INTO "email_accounts"
-          ("label", "provider", "auth_mode", "use_as_default", "enabled", "from_name", "from_email", "api_key", "username", "password", "smtp_host", "port", "secure")
-        SELECT
-          COALESCE("label", 'Email account'),
-          CASE WHEN "provider" = 'custom-smtp' THEN 'nodemailer' ELSE COALESCE("provider", 'resend') END,
-          CASE WHEN "provider" IN ('gmail', 'yahoo', 'outlook', 'yandex', 'custom-smtp') OR "smtp_host" IS NOT NULL THEN 'smtp' ELSE 'api-key' END,
-          COALESCE("use_as_default", false),
-          COALESCE("enabled", true),
-          "from_name",
-          "from_email",
-          "api_key",
-          "username",
-          "password",
-          "smtp_host",
-          "port",
-          "secure"
-        FROM "email_settings_email_accounts"
-        WHERE NOT EXISTS (
-          SELECT 1 FROM "email_accounts"
-          WHERE "email_accounts"."label" = COALESCE("email_settings_email_accounts"."label", 'Email account')
-        );
+        IF has_email_account_enums THEN
+          EXECUTE $insert$
+            INSERT INTO "email_accounts"
+              ("label", "provider", "auth_mode", "use_as_default", "enabled", "from_name", "from_email", "api_key", "username", "password", "smtp_host", "port", "secure")
+            SELECT
+              COALESCE("label", 'Email account'),
+              (CASE WHEN "provider" = 'custom-smtp' THEN 'nodemailer' ELSE COALESCE("provider", 'resend') END)::"enum_email_accounts_provider",
+              (CASE WHEN "provider" IN ('gmail', 'yahoo', 'outlook', 'yandex', 'custom-smtp') OR "smtp_host" IS NOT NULL THEN 'smtp' ELSE 'api-key' END)::"enum_email_accounts_auth_mode",
+              COALESCE("use_as_default", false),
+              COALESCE("enabled", true),
+              "from_name",
+              "from_email",
+              "api_key",
+              "username",
+              "password",
+              "smtp_host",
+              "port",
+              "secure"
+            FROM "email_settings_email_accounts"
+            WHERE NOT EXISTS (
+              SELECT 1 FROM "email_accounts"
+              WHERE "email_accounts"."label" = COALESCE("email_settings_email_accounts"."label", 'Email account')
+            )
+          $insert$;
+        ELSE
+          INSERT INTO "email_accounts"
+            ("label", "provider", "auth_mode", "use_as_default", "enabled", "from_name", "from_email", "api_key", "username", "password", "smtp_host", "port", "secure")
+          SELECT
+            COALESCE("label", 'Email account'),
+            CASE WHEN "provider" = 'custom-smtp' THEN 'nodemailer' ELSE COALESCE("provider", 'resend') END,
+            CASE WHEN "provider" IN ('gmail', 'yahoo', 'outlook', 'yandex', 'custom-smtp') OR "smtp_host" IS NOT NULL THEN 'smtp' ELSE 'api-key' END,
+            COALESCE("use_as_default", false),
+            COALESCE("enabled", true),
+            "from_name",
+            "from_email",
+            "api_key",
+            "username",
+            "password",
+            "smtp_host",
+            "port",
+            "secure"
+          FROM "email_settings_email_accounts"
+          WHERE NOT EXISTS (
+            SELECT 1 FROM "email_accounts"
+            WHERE "email_accounts"."label" = COALESCE("email_settings_email_accounts"."label", 'Email account')
+          );
+        END IF;
       END IF;
     END $$;
   `)
