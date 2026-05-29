@@ -16,6 +16,24 @@ const nextConfig = {
   env: {
     NEXT_PUBLIC_CMS_BASE_PATH: basePath,
   },
+  async redirects() {
+    if (basePath) {
+      return []
+    }
+
+    return [
+      {
+        source: '/cms/admin',
+        destination: '/admin',
+        permanent: false,
+      },
+      {
+        source: '/cms/admin/:path*',
+        destination: '/admin/:path*',
+        permanent: false,
+      },
+    ]
+  },
 }
 
 export default nextConfig
