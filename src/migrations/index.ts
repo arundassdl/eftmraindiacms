@@ -37,6 +37,9 @@ import * as migration_20260526_000006_seed_email_module_permissions from './2026
 import * as migration_20260527_000000_seed_trainers from './20260527_000000_seed_trainers';
 import * as migration_20260527_000001_add_dynamic_trainer_listing_blocks from './20260527_000001_add_dynamic_trainer_listing_blocks';
 import * as migration_20260527_000002_remove_rafeeq_trainer from './20260527_000002_remove_rafeeq_trainer';
+import * as migration_20260529_000000_add_practitioner_address from './20260529_000000_add_practitioner_address';
+import * as migration_20260529_000001_split_practitioner_address_lines from './20260529_000001_split_practitioner_address_lines';
+import * as migration_20260529_000002_fix_practitioner_address_line_column_names from './20260529_000002_fix_practitioner_address_line_column_names';
 
 export const migrations = [
   {
@@ -233,5 +236,20 @@ export const migrations = [
     up: migration_20260527_000002_remove_rafeeq_trainer.up,
     down: migration_20260527_000002_remove_rafeeq_trainer.down,
     name: '20260527_000002_remove_rafeeq_trainer',
+  },
+  {
+    up: migration_20260529_000000_add_practitioner_address.up,
+    down: migration_20260529_000000_add_practitioner_address.down,
+    name: '20260529_000000_add_practitioner_address',
+  },
+  {
+    up: migration_20260529_000001_split_practitioner_address_lines.up,
+    down: migration_20260529_000001_split_practitioner_address_lines.down,
+    name: '20260529_000001_split_practitioner_address_lines',
+  },
+  {
+    up: migration_20260529_000002_fix_practitioner_address_line_column_names.up,
+    down: migration_20260529_000002_fix_practitioner_address_line_column_names.down,
+    name: '20260529_000002_fix_practitioner_address_line_column_names',
   },
 ];

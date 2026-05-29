@@ -2416,14 +2416,19 @@ export interface Practitioner {
    */
   imageAlt?: string | null;
   /**
+   * Primary practice address line.
+   */
+  addressLine1?: string | null;
+  /**
+   * Additional address details, landmark, or suite.
+   */
+  addressLine2?: string | null;
+  /**
    * Friendly city name shown in listings, for example Mumbai or Bengaluru.
    */
   cityLabel: string;
-  /**
-   * Filter key used by the website. Keep this lowercase and consistent.
-   */
-  cityKey: string;
   state?: string | null;
+  cityKey: string;
   country?: string | null;
   hours?: string | null;
   membershipNumber?: string | null;
@@ -4320,9 +4325,11 @@ export interface PractitionersSelect<T extends boolean = true> {
   accent?: T;
   image?: T;
   imageAlt?: T;
+  addressLine1?: T;
+  addressLine2?: T;
   cityLabel?: T;
-  cityKey?: T;
   state?: T;
+  cityKey?: T;
   country?: T;
   hours?: T;
   membershipNumber?: T;

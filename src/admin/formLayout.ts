@@ -57,6 +57,8 @@ const mediaFieldNames = new Set([
 const contactFieldNames = new Set(["email", "facebook", "instagram", "linkedin", "phone", "website", "whatsapp"]);
 
 const logisticsFieldNames = new Set([
+  "addressLine1",
+  "addressLine2",
   "availability",
   "availabilityEnd",
   "availabilityStart",

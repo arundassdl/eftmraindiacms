@@ -8,6 +8,25 @@ function slugify(value: string) {
     .replace(/^-+|-+$/g, "");
 }
 
+function derivePractitionerFields(data: Record<string, any> | undefined) {
+  if (!data) return data;
+
+  const cityLabel = typeof data.cityLabel === "string" ? data.cityLabel.trim() : "";
+
+  if (cityLabel) {
+    data.cityKey = slugify(cityLabel);
+  }
+
+  return data;
+}
+
+const hiddenText = (name: string, required = false) => ({
+  name,
+  type: "text" as const,
+  required,
+  admin: { hidden: true },
+});
+
 export const Practitioners: CollectionConfig = {
   slug: "practitioners",
   labels: {
@@ -22,6 +41,11 @@ export const Practitioners: CollectionConfig = {
   },
   access: {
     read: () => true,
+  },
+  hooks: {
+    beforeValidate: [
+      ({ data }) => derivePractitionerFields(data),
+    ],
   },
   fields: [
     {
@@ -171,26 +195,45 @@ export const Practitioners: CollectionConfig = {
               type: "row",
               fields: [
                 {
-                  name: "cityLabel",
+                  name: "addressLine1",
+                  label: "Address Line 1",
                   type: "text",
-                  required: true,
                   admin: {
-                    width: "40%",
-                    description: "Friendly city name shown in listings, for example Mumbai or Bengaluru.",
+                    width: "50%",
+                    description: "Primary practice address line.",
                   },
                 },
                 {
-                  name: "cityKey",
+                  name: "addressLine2",
+                  label: "Address Line 2",
+                  type: "text",
+                  admin: {
+                    width: "50%",
+                    description: "Additional address details, landmark, or suite.",
+                  },
+                },
+              ],
+            },
+            {
+              type: "row",
+              fields: [
+                {
+                  name: "cityLabel",
+                  label: "City",
                   type: "text",
                   required: true,
                   admin: {
-                    width: "30%",
-                    description: "Filter key used by the website. Keep this lowercase and consistent.",
+                    width: "50%",
+                    components: {
+                      Field: "./src/components/admin/PractitionerCityField.tsx#default",
+                    },
+                    description: "Friendly city name shown in listings, for example Mumbai or Bengaluru.",
                   },
                 },
-                { name: "state", type: "text", admin: { width: "30%" } },
+                { name: "state", type: "text", admin: { width: "50%" } },
               ],
             },
+            hiddenText("cityKey", true),
             {
               type: "row",
               fields: [
